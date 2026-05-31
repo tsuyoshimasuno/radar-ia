@@ -25,10 +25,10 @@ jobs:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
         run: ./update_gartner.ps1
 
-      - name: Traduzir artigos novos (Claude + Firecrawl)
+      - name: Traduzir artigos novos (Gemini + Firecrawl)
         shell: pwsh
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
         run: ./translate_articles.ps1
 

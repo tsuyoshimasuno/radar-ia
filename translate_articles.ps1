@@ -1,17 +1,17 @@
 # translate_articles.ps1
 # Traduz títulos e gera resumos em português para artigos ainda não traduzidos.
-# Requer: $env:ANTHROPIC_API_KEY definida (ou edite a variável abaixo).
+# Requer: $env:GEMINI_API_KEY definida (Google AI Studio - gratuito).
 
 param(
-    [string]$AnthropicKey = $env:ANTHROPIC_API_KEY,
+    [string]$GeminiKey    = $env:GEMINI_API_KEY,
     [string]$FirecrawlKey = $env:FIRECRAWL_API_KEY,
     [int]$MaxArticles = 999
 )
 
 if (-not $FirecrawlKey) { $FirecrawlKey = "fc-32d2207f249a4b808c42f6eba17900bb" }
 
-if (-not $AnthropicKey) {
-    Write-Host "ERRO: defina a variavel ANTHROPIC_API_KEY ou passe -AnthropicKey 'sk-ant-...'" -ForegroundColor Red
+if (-not $GeminiKey) {
+    Write-Host "ERRO: defina a variavel GEMINI_API_KEY ou passe -GeminiKey 'AIza...'" -ForegroundColor Red
     exit 1
 }
 
@@ -35,13 +35,10 @@ function Get-ArticleMarkdown($url) {
     }
 }
 
-# ── Traduz e resume via Claude API ────────────────────────────────────────────
+# ── Traduz e resume via Gemini API (Google AI Studio - gratuito) ──────────────
 function Get-Translation($title, $markdown) {
-    $headers = @{
-        "x-api-key"         = $AnthropicKey
-        "anthropic-version" = "2023-06-01"
-        "content-type"      = "application/json"
-    }
+    $url     = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=$GeminiKey"
+    $headers = @{ "Content-Type" = "application/json" }
 
     $excerpt = if ($markdown.Length -gt 8000) { $markdown.Substring(0, 8000) } else { $markdown }
 
@@ -66,21 +63,18 @@ Responda APENAS com JSON válido neste formato (sem markdown, sem explicações)
 "@
 
     $body = @{
-        model      = "claude-haiku-4-5-20251001"
-        max_tokens = 1500
-        messages   = @(@{ role = "user"; content = $prompt })
+        contents        = @(@{ parts = @(@{ text = $prompt }) })
+        generationConfig = @{ temperature = 0.3; maxOutputTokens = 1500 }
     } | ConvertTo-Json -Depth 10
 
     try {
-        $resp    = Invoke-RestMethod -Uri "https://api.anthropic.com/v1/messages" `
-            -Method POST -Headers $headers -Body $body -TimeoutSec 60
-        $raw     = $resp.content[0].text.Trim()
-        # Remove possíveis blocos de código markdown
-        $raw     = $raw -replace '^```json\s*', '' -replace '\s*```$', ''
-        $parsed  = $raw | ConvertFrom-Json
+        $resp   = Invoke-RestMethod -Uri $url -Method POST -Headers $headers -Body $body -TimeoutSec 60
+        $raw    = $resp.candidates[0].content.parts[0].text.Trim()
+        $raw    = $raw -replace '^```json\s*', '' -replace '\s*```$', ''
+        $parsed = $raw | ConvertFrom-Json
         if ($parsed.title_pt -and $parsed.summary_pt) { return $parsed }
     } catch {
-        Write-Host "  [!] Claude API falhou: $($_.Exception.Message)" -ForegroundColor Red
+        Write-Host "  [!] Gemini API falhou: $($_.Exception.Message)" -ForegroundColor Red
     }
     return $null
 }
