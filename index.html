@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Monitor de notícias de inteligência artificial com linha do tempo cronológica e gerador de posts para LinkedIn.">
+    <title>Radar de Inteligência Artificial</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="orb orb-1"></div>
+    <div class="orb orb-2"></div>
+    <div class="orb orb-3"></div>
+
+    <header id="main-header">
+        <div class="logo">
+            <span class="logo-icon"><i class="fa-solid fa-microchip"></i></span>
+            <span class="logo-text">Radar de <span class="highlight">Inteligência Artificial</span></span>
+        </div>
+        <div class="header-actions">
+            <div class="sync-status-header">
+                <span class="sync-dot status-connected" id="sync-dot"></span>
+                <span class="sync-text" id="sync-text">Sincronizado</span>
+            </div>
+            <button id="refresh-btn" class="btn-icon-only" aria-label="Sincronizar artigos">
+                <i class="fa-solid fa-arrows-rotate"></i>
+            </button>
+            <button id="theme-toggle" class="btn-icon-only" aria-label="Alternar Tema">
+                <i class="fa-solid fa-moon"></i>
+            </button>
+        </div>
+    </header>
+
+    <div class="app-layout">
+
+        <!-- ===== SIDEBAR ===== -->
+        <aside class="sidebar">
+
+            <!-- FONTES -->
+            <section class="sidebar-section">
+                <h3 class="sidebar-title">FONTES</h3>
+                <ul class="sources-list" id="sources-list">
+                    <!-- populated by JS -->
+                </ul>
+            </section>
+
+            <!-- LEGENDA -->
+            <section class="sidebar-section">
+                <h3 class="sidebar-title">LEGENDA</h3>
+                <div class="tier-legend">
+                    <div class="tier-legend-item">
+                        <span class="tier-badge tier-auto">auto</span>
+                        <span class="tier-desc">Coleta automática</span>
+                    </div>
+                    <div class="tier-legend-item">
+                        <span class="tier-badge tier-rss">rss</span>
+                        <span class="tier-desc">Feed de notícias</span>
+                    </div>
+                    <div class="tier-legend-item">
+                        <span class="tier-badge tier-manual">manual</span>
+                        <span class="tier-desc">Adicionado por URL</span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ESTA SEMANA -->
+            <section class="sidebar-section">
+                <h3 class="sidebar-title">ESTA SEMANA</h3>
+                <div class="week-stats">
+                    <div class="week-stat-card">
+                        <span class="week-stat-value" id="stat-articles">0</span>
+                        <span class="week-stat-label">Artigos encontrados</span>
+                    </div>
+                    <div class="week-stat-card">
+                        <span class="week-stat-value" id="stat-sources">0</span>
+                        <span class="week-stat-label">Fontes ativas</span>
+                    </div>
+                    <div class="week-stat-card">
+                        <span class="week-stat-value" id="stat-posts">0</span>
+                        <span class="week-stat-label">Posts gerados</span>
+                    </div>
+                    <div class="week-stat-card">
+                        <span class="week-stat-value" id="stat-saved">0</span>
+                        <span class="week-stat-label">Salvos</span>
+                    </div>
+                </div>
+            </section>
+
+        </aside>
+
+        <!-- ===== MAIN AREA ===== -->
+        <main class="main-area">
+
+            <!-- Topbar -->
+            <div class="topbar" id="topbar">
+                <div class="topbar-search">
+                    <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                    <input type="text" id="search-input" placeholder="Buscar por título, resumo ou fonte..." aria-label="Buscar artigos">
+                    <button id="clear-search-btn" class="clear-btn" style="display: none;" aria-label="Limpar busca">
+                        <i class="fa-solid fa-xmark"></i>
+                    </button>
+                </div>
+                <select id="sort-select" class="sort-select" aria-label="Ordenar por">
+                    <option value="recent">Mais recentes</option>
+                    <option value="source">Por fonte</option>
+                    <option value="saved">Salvos</option>
+                </select>
+                <button id="add-url-btn" class="btn btn-add-url">
+                    <i class="fa-solid fa-plus"></i> Adicionar artigo
+                </button>
+            </div>
+
+            <!-- Add URL Inline Panel -->
+            <div class="add-url-panel" id="add-url-panel">
+                <p class="add-url-hint">
+                    <i class="fa-solid fa-circle-info"></i>
+                    Cole a URL de qualquer artigo — funciona com Gartner, Forrester e qualquer site. O sistema extrai o título, a data e o conteúdo automaticamente.
+                </p>
+                <div class="add-url-form">
+                    <input type="url" id="url-input" placeholder="https://www.gartner.com/en/articles/...">
+                    <button id="url-confirm-btn" class="btn btn-primary">
+                        <span id="url-confirm-text">Confirmar</span>
+                        <span id="url-confirm-loading" style="display:none;"><i class="fa-solid fa-spinner fa-spin"></i> Processando...</span>
+                    </button>
+                    <button id="url-cancel-btn" class="btn btn-ghost">Cancelar</button>
+                </div>
+                <p class="add-url-error" id="add-url-error"></p>
+            </div>
+
+            <!-- Timeline Feed -->
+            <div class="timeline-feed">
+                <div class="loading-state" id="loading-spinner">
+                    <div class="spinner"></div>
+                    <p>Carregando artigos...</p>
+                </div>
+                <div class="empty-state" id="empty-state" style="display: none;">
+                    <i class="fa-regular fa-folder-open"></i>
+                    <h3>Nenhum artigo encontrado</h3>
+                    <p>Tente ajustar a busca ou os filtros.</p>
+                </div>
+                <div id="timeline-groups"></div>
+            </div>
+
+        </main>
+    </div>
+
+    <footer id="main-footer">
+        <p>&copy; 2026 — <strong>Radar de Inteligência Artificial</strong>. Monitor de notícias de IA com linha do tempo e gerador de posts para LinkedIn.</p>
+        <p class="footer-hint">Todos os artigos e links pertencem aos seus respectivos autores e editores.</p>
+    </footer>
+
+    <!-- ===== LINKEDIN MODAL ===== -->
+    <div class="linkedin-overlay" id="linkedin-overlay" aria-modal="true" role="dialog" aria-label="Gerador de Post LinkedIn">
+        <div class="linkedin-backdrop" id="linkedin-backdrop"></div>
+        <div class="linkedin-modal">
+            <div class="linkedin-modal-header">
+                <div class="linkedin-brand">
+                    <i class="fa-brands fa-linkedin"></i>
+                    <span>Gerar post</span>
+                </div>
+                <p class="linkedin-article-ref" id="modal-article-ref">—</p>
+                <button class="modal-close-btn" id="modal-close-btn" aria-label="Fechar modal">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+            </div>
+            <div class="linkedin-modal-body" id="linkedin-modal-body">
+                <div class="modal-generating" id="modal-generating">
+                    <div class="spinner"></div>
+                    <p>Gerando post...</p>
+                </div>
+                <div class="modal-post-area" id="modal-post-area">
+                    <textarea id="post-textarea" maxlength="1300" aria-label="Conteúdo do post LinkedIn"></textarea>
+                    <div class="char-counter">
+                        <span id="char-count">0</span><span class="char-max">/1300</span>
+                    </div>
+                </div>
+            </div>
+            <div class="linkedin-modal-footer" id="linkedin-modal-footer">
+                <button class="btn btn-ghost" id="btn-modal-cancel">Cancelar</button>
+                <button class="btn btn-secondary" id="btn-modal-regenerate">
+                    <i class="fa-solid fa-arrows-rotate"></i> Gerar novamente
+                </button>
+                <button class="btn btn-linkedin-action" id="btn-modal-publish">
+                    <i class="fa-brands fa-linkedin"></i> Copiar e publicar
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- ===== READING PANEL ===== -->
+    <div class="reading-backdrop" id="reading-backdrop"></div>
+    <aside class="reading-panel" id="reading-panel" aria-label="Resumo do artigo">
+        <div class="reading-panel-header">
+            <div class="reading-panel-meta">
+                <span class="reading-source-badge" id="rp-source-badge"></span>
+                <span class="reading-date" id="rp-date"></span>
+            </div>
+            <button class="reading-close-btn" id="reading-close-btn" aria-label="Fechar painel">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+        </div>
+        <div class="reading-panel-body">
+            <h2 class="reading-title" id="rp-title"></h2>
+            <div class="reading-tags" id="rp-tags"></div>
+
+            <div class="reading-divider"></div>
+
+            <div class="reading-section">
+                <h3 class="reading-section-title">
+                    <i class="fa-regular fa-file-lines"></i> Resumo detalhado
+                </h3>
+                <div class="reading-summary-loading" id="rp-summary-loading" style="display:none;">
+                    <div class="spinner spinner-sm"></div>
+                    <span>Buscando e resumindo o artigo em português...</span>
+                </div>
+                <p class="reading-summary" id="rp-summary"></p>
+            </div>
+
+            <div class="reading-divider"></div>
+
+            <div class="reading-section">
+                <h3 class="reading-section-title">
+                    <i class="fa-solid fa-list-check"></i> Temas abordados
+                </h3>
+                <ul class="reading-topics" id="rp-topics"></ul>
+            </div>
+        </div>
+        <div class="reading-panel-footer">
+            <a class="btn-read-original" id="rp-link" href="#" target="_blank" rel="noopener noreferrer">
+                <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                Ler artigo completo
+            </a>
+        </div>
+    </aside>
+
+    <script src="rss_data.js"></script>
+    <script src="gartner_data.js"></script>
+    <script src="svpg_data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

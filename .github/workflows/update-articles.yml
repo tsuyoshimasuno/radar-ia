@@ -1,0 +1,41 @@
+name: Atualizar Artigos
+
+on:
+  schedule:
+    - cron: '0 11 * * *'   # 08:00 BRT (11:00 UTC), todo dia
+  workflow_dispatch:         # permite rodar manualmente pelo GitHub
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write        # necessário para fazer commit e push
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Atualizar feeds RSS
+        shell: pwsh
+        run: ./update_rss.ps1
+
+      - name: Atualizar artigos Gartner
+        shell: pwsh
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+        run: ./update_gartner.ps1
+
+      - name: Traduzir artigos novos (Claude + Firecrawl)
+        shell: pwsh
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+        run: ./translate_articles.ps1
+
+      - name: Commit e push das mudanças
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add rss_articles.json rss_data.js gartner_articles.json gartner_data.js
+          git diff --staged --quiet || git commit -m "chore: atualizar artigos $(date -u +'%Y-%m-%d')"
+          git push
