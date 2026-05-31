@@ -9,6 +9,8 @@ param(
 )
 
 if (-not $FirecrawlKey) { $FirecrawlKey = "fc-32d2207f249a4b808c42f6eba17900bb" }
+$FirecrawlKey = $FirecrawlKey.Trim()
+if ($GeminiKey) { $GeminiKey = $GeminiKey.Trim() }
 
 if (-not $GeminiKey) {
     Write-Host "ERRO: defina a variavel GEMINI_API_KEY ou passe -GeminiKey 'AIza...'" -ForegroundColor Red

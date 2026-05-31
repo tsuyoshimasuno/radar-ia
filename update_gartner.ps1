@@ -1,10 +1,10 @@
 # update_gartner.ps1
 # Raspa a página Gartner AI, detecta artigos novos e atualiza o banco de dados local.
 
-$ApiKey  = if ($env:FIRECRAWL_API_KEY) { $env:FIRECRAWL_API_KEY } else { "fc-32d2207f249a4b808c42f6eba17900bb" }
+$ApiKey  = if ($env:FIRECRAWL_API_KEY) { $env:FIRECRAWL_API_KEY.Trim() } else { "fc-32d2207f249a4b808c42f6eba17900bb" }
 $DbPath  = "$PSScriptRoot\gartner_articles.json"
 $Today   = (Get-Date).ToString("yyyy-MM-dd")
-$GartnerUrl = "https://www.gartner.com/en/ai?_gl=1*1n0kt1g*_ga*MTE2MTQ2MjI3Ni4xNzgwMTcyNDY2*_ga_R1W5CE5FEV*czE3ODAyNDY2MDckbzIkZzAkdDE3ODAyNDY2MDckajYwJGwwJGgw"
+$GartnerUrl = 'https://www.gartner.com/en/articles?tag=artificial-intelligence'
 
 # ── 1. Carregar banco de dados existente ─────────────────────────────────────
 if (Test-Path $DbPath) {
@@ -22,19 +22,16 @@ foreach ($item in $dbList) {
 # ── 2. Raspar página com Firecrawl ───────────────────────────────────────────
 Write-Host "Raspando $GartnerUrl ..." -ForegroundColor Cyan
 
-$headers = @{
-    "Authorization" = "Bearer $ApiKey"
-    "Content-Type"  = "application/json"
-}
+$headers = @{ "Authorization" = "Bearer $ApiKey" }
 $body = @{
-    url            = $GartnerUrl
-    formats        = @("markdown")
+    url             = $GartnerUrl
+    formats         = @("markdown")
     onlyMainContent = $true
-} | ConvertTo-Json
+} | ConvertTo-Json -Compress
 
 try {
     $response = Invoke-RestMethod -Uri "https://api.firecrawl.dev/v1/scrape" `
-                    -Method POST -Headers $headers -Body $body -TimeoutSec 60
+                    -Method POST -Headers $headers -Body $body -ContentType "application/json" -TimeoutSec 60
 } catch {
     Write-Host "Erro ao chamar Firecrawl: $_" -ForegroundColor Red
     exit 1
