@@ -7,7 +7,7 @@ on:
 
 jobs:
   update:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     permissions:
       contents: write        # necessário para fazer commit e push
 
