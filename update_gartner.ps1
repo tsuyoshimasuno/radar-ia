@@ -1,7 +1,7 @@
 # update_gartner.ps1
 # Raspa a página Gartner AI, detecta artigos novos e atualiza o banco de dados local.
 
-$ApiKey  = if ($env:FIRECRAWL_API_KEY) { $env:FIRECRAWL_API_KEY.Trim() } else { "fc-32d2207f249a4b808c42f6eba17900bb" }
+$ApiKey  = if ($env:FIRECRAWL_API_KEY) { $env:FIRECRAWL_API_KEY.Trim().TrimStart([char]0xFEFF) } else { "fc-32d2207f249a4b808c42f6eba17900bb" }
 $DbPath  = "$PSScriptRoot\gartner_articles.json"
 $Today   = (Get-Date).ToString("yyyy-MM-dd")
 $GartnerUrl = 'https://www.gartner.com/en/articles?tag=artificial-intelligence'
