@@ -176,7 +176,6 @@ function renderSourcesList() {
             <span class="source-dot" style="background:${source.color}"></span>
             <span class="source-item-name">${source.name}</span>
             <span class="source-item-right">
-                <span class="source-tier-chip tier-${source.tier}">${source.tier}</span>
                 ${count > 0 ? `<span class="source-count">${count}</span>` : ''}
             </span>
         `;
