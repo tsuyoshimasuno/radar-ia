@@ -1,10 +1,74 @@
 [
   {
-    "title": "How courts are coping with a flood of AI-generated lawsuits",
-    "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-    "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting&#8230;",
+    "title": "Resetting cost competitiveness in pulp and paper packaging",
+    "url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/resetting-cost-competitiveness-in-pulp-and-paper-packaging",
+    "summary": "Overcapacity, volatile costs, and weak demand are compressing margins. Successful companies are harnessing AI to pursue cross-functional interventions that target the total cost baseline of a mill.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-05"
+  },
+  {
+    "title": "Mira Murati steps back into the spotlight, carefully",
+    "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+    "summary": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-05"
+  },
+  {
+    "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+    "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+    "summary": "The Australian data center operator plans to set up 5GW of capacity in India.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-05"
+  },
+  {
+    "title": "The Meta hack shows there’s more to AI security than Mythos",
+    "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran&#8230;",
     "source_id": "mit",
-    "first_seen": "2026-06-04",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-05"
+  },
+  {
+    "title": "Are AI chatbots making us lose control of our brains?",
+    "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+    "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-05"
+  },
+  {
+    "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+    "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instagram accounts. Their approach was&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-05"
+  },
+  {
+    "title": "How CEOs can navigate the new era of trade",
+    "url": "https://www.mckinsey.com/mgi/our-research/how-ceos-can-navigate-the-new-era-of-trade",
+    "summary": "AI, geopolitical realignment, and shifting capital flows are redrawing trade corridors and reshaping competitive advantage—forcing leaders to rethink where and how they grow.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-04"
+  },
+  {
+    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+    "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+    "summary": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place across venture capital, defense technology, artificial intelligence, and advanced industry. Secure your spot today.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-04"
+  },
+  {
+    "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
+    "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+    "summary": "The California startup released the fourth-generation of its home assistance robot, Stretch.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-05",
     "pub_date": "2026-06-04"
   },
   {
@@ -16,11 +80,107 @@
     "pub_date": "2026-06-04"
   },
   {
+    "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+    "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+    "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-04"
+  },
+  {
+    "title": "How courts are coping with a flood of AI-generated lawsuits",
+    "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+    "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-06-04",
+    "pub_date": "2026-06-04"
+  },
+  {
+    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+    "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+    "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-04"
+  },
+  {
+    "title": "Preparing for agentic commerce: REWE’s AI transformation",
+    "url": "https://www.mckinsey.com/industries/retail/our-insights/preparing-for-agentic-commerce-rewes-ai-transformation",
+    "summary": "The German retail and tourism group’s chief digital and technology officer says AI is “the most fundamental change in the way we do business in 50 years.”",
+    "source_id": "mckinsey",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-04"
+  },
+  {
+    "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+    "url": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
+    "summary": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-04"
+  },
+  {
+    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+    "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+    "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-04"
+  },
+  {
+    "title": "Embracing complexity: Parloa’s vision for next-gen customer experience",
+    "url": "https://www.mckinsey.com/capabilities/operations/our-insights/embracing-complexity-parloas-vision-for-next-gen-customer-experience",
+    "summary": "Chris Silver, chief revenue officer at Parloa, talks with McKinsey partner Brian Blackader about the shift to adopting AI technologies in customer care, getting to success, and how he sees the future.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-04"
+  },
+  {
+    "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+    "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+    "summary": "Meta may have found one way to slash its massive data center bill: tents.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-04"
+  },
+  {
+    "title": "Meta rolls out a new AI creator assistant on Facebook",
+    "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+    "summary": "Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers to questions like \"When should I post?\" and \"What are people saying in my comments?\"",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-04"
+  },
+  {
+    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+    "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-04"
+  },
+  {
     "title": "Meta’s AI agent for WhatsApp Business is now available globally",
     "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
     "summary": "WhatsApp will charge businesses for using its AI agent based on token usage",
     "source_id": "techcrunch",
     "first_seen": "2026-06-03",
+    "pub_date": "2026-06-03"
+  },
+  {
+    "title": "Amazon will show AI product images when you search for some reason",
+    "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+    "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-04",
+    "pub_date": "2026-06-03"
+  },
+  {
+    "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+    "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+    "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-04",
     "pub_date": "2026-06-03"
   },
   {
@@ -36,6 +196,14 @@
     "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 5 key points in Trump&#8217;s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising to promote&#8230;",
     "source_id": "mit",
+    "first_seen": "2026-06-03",
+    "pub_date": "2026-06-03"
+  },
+  {
+    "title": "When warranty costs rival R&D spend: Remaking vehicle quality with AI",
+    "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/when-warranty-costs-rival-r-and-d-spend-remaking-vehicle-quality-with-ai",
+    "summary": "As warranty costs surge, automakers are turning to AI-enabled quality systems to detect risks earlier and reduce financial exposure.",
+    "source_id": "mckinsey",
     "first_seen": "2026-06-03",
     "pub_date": "2026-06-03"
   },
@@ -64,44 +232,12 @@
     "pub_date": "2026-06-03"
   },
   {
-    "title": "Amazon will show AI product images when you search for some reason",
-    "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-    "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
-    "source_id": "techcrunch",
-    "first_seen": "2026-06-04",
-    "pub_date": "2026-06-03"
-  },
-  {
-    "title": "When warranty costs rival R&D spend: Remaking vehicle quality with AI",
-    "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/when-warranty-costs-rival-r-and-d-spend-remaking-vehicle-quality-with-ai",
-    "summary": "As warranty costs surge, automakers are turning to AI-enabled quality systems to detect risks earlier and reduce financial exposure.",
-    "source_id": "mckinsey",
-    "first_seen": "2026-06-03",
-    "pub_date": "2026-06-03"
-  },
-  {
     "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
     "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
     "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
     "source_id": "techcrunch",
     "first_seen": "2026-06-04",
     "pub_date": "2026-06-03"
-  },
-  {
-    "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-    "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-    "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
-    "source_id": "techcrunch",
-    "first_seen": "2026-06-04",
-    "pub_date": "2026-06-03"
-  },
-  {
-    "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-    "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-    "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
-    "source_id": "techcrunch",
-    "first_seen": "2026-06-02",
-    "pub_date": "2026-06-02"
   },
   {
     "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
@@ -112,49 +248,9 @@
     "pub_date": "2026-06-02"
   },
   {
-    "title": "How small businesses can leverage AI",
-    "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-    "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;",
-    "source_id": "mit",
-    "first_seen": "2026-06-02",
-    "pub_date": "2026-06-02"
-  },
-  {
-    "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
-    "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-    "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
-    "source_id": "techcrunch",
-    "first_seen": "2026-06-03",
-    "pub_date": "2026-06-02"
-  },
-  {
-    "title": "ZeroDrift raises $10M to protect AI models from themselves",
-    "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-    "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
-    "source_id": "techcrunch",
-    "first_seen": "2026-06-02",
-    "pub_date": "2026-06-02"
-  },
-  {
-    "title": "The Download: AI can run your admin department now",
-    "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. Large companies can hire&#8230;",
-    "source_id": "mit",
-    "first_seen": "2026-06-02",
-    "pub_date": "2026-06-02"
-  },
-  {
     "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
     "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
     "summary": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figures, family members, or employers.",
-    "source_id": "techcrunch",
-    "first_seen": "2026-06-03",
-    "pub_date": "2026-06-02"
-  },
-  {
-    "title": "Uber caps employee AI spending after blowing through budget in 4 months",
-    "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-    "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
     "source_id": "techcrunch",
     "first_seen": "2026-06-03",
     "pub_date": "2026-06-02"
@@ -168,11 +264,27 @@
     "pub_date": "2026-06-02"
   },
   {
-    "title": "Rehumanizing global health care with agentic AI",
-    "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-    "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress and burnout among staff. And it’s getting worse.&#8230;",
+    "title": "Microsoft offers devs a better way to control AI agent behavior",
+    "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+    "summary": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-03",
+    "pub_date": "2026-06-02"
+  },
+  {
+    "title": "The Download: AI can run your admin department now",
+    "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. Large companies can hire&#8230;",
     "source_id": "mit",
     "first_seen": "2026-06-02",
+    "pub_date": "2026-06-02"
+  },
+  {
+    "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+    "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+    "summary": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-03",
     "pub_date": "2026-06-02"
   },
   {
@@ -184,34 +296,10 @@
     "pub_date": "2026-06-02"
   },
   {
-    "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
-    "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-    "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
-    "source_id": "techcrunch",
-    "first_seen": "2026-06-03",
-    "pub_date": "2026-06-02"
-  },
-  {
     "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
     "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
     "summary": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding.",
     "source_id": "techcrunch",
-    "first_seen": "2026-06-03",
-    "pub_date": "2026-06-02"
-  },
-  {
-    "title": "Microsoft offers devs a better way to control AI agent behavior",
-    "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
-    "summary": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files.",
-    "source_id": "techcrunch",
-    "first_seen": "2026-06-03",
-    "pub_date": "2026-06-02"
-  },
-  {
-    "title": "The next gold rush: How the Bay Area can keep its edge in the AI era",
-    "url": "https://www.mckinsey.com/industries/social-sector/our-insights/the-next-gold-rush-how-the-bay-area-can-keep-its-edge-in-the-ai-era",
-    "summary": "San Francisco is driving the AI revolution. How can the Bay Area sustain and expand this innovation ecosystem in the years to come?",
-    "source_id": "mckinsey",
     "first_seen": "2026-06-03",
     "pub_date": "2026-06-02"
   },
@@ -232,9 +320,89 @@
     "pub_date": "2026-06-02"
   },
   {
+    "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+    "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+    "summary": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-03",
+    "pub_date": "2026-06-02"
+  },
+  {
+    "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+    "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+    "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-02",
+    "pub_date": "2026-06-02"
+  },
+  {
+    "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+    "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-03",
+    "pub_date": "2026-06-02"
+  },
+  {
+    "title": "The next gold rush: How the Bay Area can keep its edge in the AI era",
+    "url": "https://www.mckinsey.com/industries/social-sector/our-insights/the-next-gold-rush-how-the-bay-area-can-keep-its-edge-in-the-ai-era",
+    "summary": "San Francisco is driving the AI revolution. How can the Bay Area sustain and expand this innovation ecosystem in the years to come?",
+    "source_id": "mckinsey",
+    "first_seen": "2026-06-03",
+    "pub_date": "2026-06-02"
+  },
+  {
+    "title": "ZeroDrift raises $10M to protect AI models from themselves",
+    "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+    "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-02",
+    "pub_date": "2026-06-02"
+  },
+  {
+    "title": "Rehumanizing global health care with agentic AI",
+    "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+    "summary": "The global health care sector is under increasing strain.&#160; Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress and burnout among staff. And it’s getting worse.&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-06-02",
+    "pub_date": "2026-06-02"
+  },
+  {
+    "title": "How small businesses can leverage AI",
+    "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+    "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-06-02",
+    "pub_date": "2026-06-02"
+  },
+  {
+    "title": "Water access is now a risk factor in SpaceX’s IPO",
+    "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+    "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-02",
+    "pub_date": "2026-06-01"
+  },
+  {
     "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
     "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
     "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-02",
+    "pub_date": "2026-06-01"
+  },
+  {
+    "title": "This AI weather startup is out-forecasting government agencies",
+    "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+    "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-01",
+    "pub_date": "2026-06-01"
+  },
+  {
+    "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+    "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+    "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
     "source_id": "techcrunch",
     "first_seen": "2026-06-02",
     "pub_date": "2026-06-01"
@@ -256,14 +424,6 @@
     "pub_date": "2026-06-01"
   },
   {
-    "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-    "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-    "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident.",
-    "source_id": "techcrunch",
-    "first_seen": "2026-06-02",
-    "pub_date": "2026-06-01"
-  },
-  {
     "title": "Alphabet plans to raise $80B to pay for AI buildout",
     "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
     "summary": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply,\" Alphabet said in its statement.",
@@ -272,27 +432,11 @@
     "pub_date": "2026-06-01"
   },
   {
-    "title": "This AI weather startup is out-forecasting government agencies",
-    "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-    "summary": "Windborne Systems' newest weather forecasting model beats the best government predictions by days.",
-    "source_id": "techcrunch",
-    "first_seen": "2026-06-01",
-    "pub_date": "2026-06-01"
-  },
-  {
     "title": "Anthropic files to go public",
     "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
     "summary": "The company said Monday it has filed confidentially for an IPO.",
     "source_id": "techcrunch",
     "first_seen": "2026-06-01",
-    "pub_date": "2026-06-01"
-  },
-  {
-    "title": "Water access is now a risk factor in SpaceX’s IPO",
-    "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
-    "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
-    "source_id": "techcrunch",
-    "first_seen": "2026-06-02",
     "pub_date": "2026-06-01"
   },
   {
@@ -314,16 +458,6 @@
     "pub_date": "2026-05-31"
   },
   {
-    "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-    "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-    "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
-    "source_id": "techcrunch",
-    "first_seen": "2026-05-31",
-    "pub_date": "2026-05-30",
-    "title_pt": "'Que piada': o novo modelo de cobrança por tokens do GitHub Copilot revolta desenvolvedores",
-    "summary_pt": "A partir de 1º de junho de 2026, o GitHub Copilot deixa de cobrar uma assinatura mensal fixa e passa a faturar com base no consumo de tokens, gerando onda de indignação entre desenvolvedores. Relatos em fóruns como Reddit e X mostram casos em que usuários que pagavam cerca de US$ 29 mensais passarão a gastar entre US$ 750 e até US$ 3.000 por mês no novo modelo.\n\nA reação é intensa e dividida. Uma parcela dos usuários denuncia o custo como proibitivo para pequenas empresas e desenvolvedores individuais, argumentando que a Microsoft incentivou o uso irrestrito da ferramenta e agora muda as regras abruptamente. Outros contra-argumentam que os gastos exorbitantes são fruto do \"vibe coding\" — geração excessiva de código sem critério técnico real.\n\nO debate expõe uma tensão estrutural do mercado de IA: durante o período de crescimento acelerado, as empresas subsidiaram amplamente o uso para ganhar usuários. Agora, com o amadurecimento do mercado, tentam recuperar as margens, mas enfrentam resistência de uma base de usuários que se acostumou com os custos subsidiados.\n\nPara empresas e gestores de TI, o episódio é um alerta sobre os riscos de dependência de ferramentas de IA com precificação variável. Orçamentos de desenvolvimento de software podem se tornar imprevisíveis à medida que o uso de IA escala. A recomendação implícita é implementar governança clara sobre o uso de tokens e treinar equipes para usar ferramentas de IA de forma direcionada, não indiscriminada."
-  },
-  {
     "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
     "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
     "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
@@ -332,6 +466,24 @@
     "pub_date": "2026-05-30",
     "title_pt": "Coloquei o assistente de IA 24/7 do Google, o Gemini Spark, para trabalhar — e ele é surpreendentemente útil",
     "summary_pt": "O Gemini Spark é o novo assistente agêntico do Google, apresentado pelo CEO Sundar Pichai no Google I/O de maio de 2026. Diferente de chatbots convencionais, o Spark roda em máquinas virtuais na nuvem e executa tarefas de forma contínua — sem exigir que o usuário mantenha o computador ligado. Ele se integra ao ecossistema Google (Gmail, Calendar, Docs, Sheets e Slides) e foi projetado para automatizar tarefas repetitivas da vida digital cotidiana.\n\nA repórter testou o Spark em cinco cenários práticos: busca de promoções em farmácias, criação de lista de itens para passeio, pesquisa de atividades de verão para adolescentes, resumo semanal de newsletters e monitoramento de queda de preço de produto. O assistente teve desempenho satisfatório na maioria das tarefas, mas cometeu erros pontuais: um código promocional inválido, a impossibilidade de integração com o Google Keep e uma interpretação incorreta da quantidade de artigos solicitados.\n\nA principal crítica não é sobre as capacidades do Spark em si, mas sobre a decisão do Google de lançá-lo como produto separado com marca própria. Numa era em que proliferam nomes e versões de IA, criar mais uma marca gera confusão desnecessária. A sugestão é que essas funcionalidades fossem incorporadas diretamente ao Gemini.\n\nPara empresas e gestores de tecnologia, o Spark representa um exemplo concreto de IA agêntica para produtividade. Suas limitações atuais — ausência de integrações fora do ecossistema Google e suporte ainda limitado a MCP — são relevantes para decisões de adoção. O produto tem potencial, mas ainda precisa amadurecer."
+  },
+  {
+    "title": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
+    "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+    "summary": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer],\" said one, half-kiddingly.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-06-02",
+    "pub_date": "2026-05-30"
+  },
+  {
+    "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+    "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+    "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-05-31",
+    "pub_date": "2026-05-30",
+    "title_pt": "'Que piada': o novo modelo de cobrança por tokens do GitHub Copilot revolta desenvolvedores",
+    "summary_pt": "A partir de 1º de junho de 2026, o GitHub Copilot deixa de cobrar uma assinatura mensal fixa e passa a faturar com base no consumo de tokens, gerando onda de indignação entre desenvolvedores. Relatos em fóruns como Reddit e X mostram casos em que usuários que pagavam cerca de US$ 29 mensais passarão a gastar entre US$ 750 e até US$ 3.000 por mês no novo modelo.\n\nA reação é intensa e dividida. Uma parcela dos usuários denuncia o custo como proibitivo para pequenas empresas e desenvolvedores individuais, argumentando que a Microsoft incentivou o uso irrestrito da ferramenta e agora muda as regras abruptamente. Outros contra-argumentam que os gastos exorbitantes são fruto do \"vibe coding\" — geração excessiva de código sem critério técnico real.\n\nO debate expõe uma tensão estrutural do mercado de IA: durante o período de crescimento acelerado, as empresas subsidiaram amplamente o uso para ganhar usuários. Agora, com o amadurecimento do mercado, tentam recuperar as margens, mas enfrentam resistência de uma base de usuários que se acostumou com os custos subsidiados.\n\nPara empresas e gestores de TI, o episódio é um alerta sobre os riscos de dependência de ferramentas de IA com precificação variável. Orçamentos de desenvolvimento de software podem se tornar imprevisíveis à medida que o uso de IA escala. A recomendação implícita é implementar governança clara sobre o uso de tokens e treinar equipes para usar ferramentas de IA de forma direcionada, não indiscriminada."
   },
   {
     "title": "SoftBank says it will invest up to €75 billion to build French data centers",
@@ -354,14 +506,6 @@
     "summary_pt": "Segundo um memorando interno obtido pelo The Information, a Meta está desenvolvendo um pingente com IA que pretende começar a testar no próximo ano. O dispositivo se baseia na tecnologia da Limitless, startup de wearables com IA adquirida pela Meta no final de 2025, que já produzia um pingente capaz de gravar conversas e ser acoplado à roupa ou usado como colar.\n\nO memo também indica que a empresa planeja expandir sua linha de óculos com IA e lançar uma assinatura corporativa chamada Wearables for Work. O objetivo seria reverter os resultados negativos da divisão Reality Labs, que registrou prejuízo de US$ 4 bilhões apenas no primeiro trimestre de 2026.\n\nWearables com IA anteriores, como o AI Pin da Humane, não conseguiram conquistar o mercado de massa — possivelmente por preocupações com privacidade e marketing inadequado. Mas empresas como OpenAI seguem apostando no segmento, sinalizando que a corrida por hardware de IA vestível continua intensa."
   },
   {
-    "title": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
-    "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
-    "summary": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox — but if you're 19, oh my God, this means you're really good; you might already have a Series A [offer],\" said one, half-kiddingly.",
-    "source_id": "techcrunch",
-    "first_seen": "2026-06-02",
-    "pub_date": "2026-05-30"
-  },
-  {
     "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
     "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
     "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
@@ -370,24 +514,6 @@
     "pub_date": "2026-05-30",
     "title_pt": "Com a guerra dos navegadores esquentando, conheça as melhores alternativas ao Chrome e ao Safari em 2026",
     "summary_pt": "Chrome e Safari dominam o mercado de navegadores, mas 2026 marca uma nova fase na disputa por usuários insatisfeitos com a integração crescente de IA nas ferramentas tradicionais. Três categorias de alternativas emergem com força: navegadores com IA nativa, navegadores focados em privacidade e navegadores de nicho voltados para bem-estar e produtividade.\n\nNo campo da IA, os destaques são o Comet (Perplexity), o Dia (The Browser Company), o Neon (Opera) e o Atlas (OpenAI). O Comet funciona como mecanismo de busca baseado em chatbot. O Dia tem consciência contextual de todos os sites visitados. O Neon da Opera consegue pesquisar, comprar e escrever código mesmo offline. O Atlas permite consultar o ChatGPT sobre resultados de busca diretamente no navegador.\n\nNa frente da privacidade, o Brave se destaca com bloqueio de anúncios e rastreadores. O DuckDuckGo, impulsionado pela rejeição à IA forçada do Google, registrou alta de 30% nas instalações. O Ladybird tenta construir um navegador de código aberto do zero, sem usar a base Chromium do Google.\n\nPara líderes de tecnologia, a integração de IA nos navegadores está se tornando um diferencial competitivo central. Empresas que definem políticas de uso de navegadores corporativos devem acompanhar esse cenário, pois as escolhas feitas agora influenciarão quais dados os colaboradores expõem e como a IA será acessada no ambiente de trabalho."
-  },
-  {
-    "title": "The future of AI and trade",
-    "url": "https://www.mckinsey.com/mgi/media-center/the-future-of-ai-and-trade",
-    "summary": "For all the constant buzz around AI, broad-based announcements about how AI has boosted profits are noticeably missing. The reason for this loud silence: it hasn’t happened—yet, write Olivia White and Tiago Devesa.",
-    "source_id": "mckinsey",
-    "first_seen": "2026-06-02",
-    "pub_date": "2026-05-29"
-  },
-  {
-    "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
-    "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
-    "source_id": "techcrunch",
-    "first_seen": "2026-05-31",
-    "pub_date": "2026-05-29",
-    "title_pt": "Hoje é o último dia para se inscrever como palestrante no TechCrunch Disrupt 2026",
-    "summary_pt": "Convocação para fundadores, investidores e especialistas se inscreverem para falar no TechCrunch Disrupt 2026, evento agendado para 13 a 15 de outubro no Moscone West, em San Francisco, com mais de 10.000 participantes do ecossistema de startups e venture capital."
   },
   {
     "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
@@ -400,46 +526,6 @@
     "summary_pt": "O artigo da MIT Technology Review analisa a encíclica papal \"Magnifica Humanitas\" (Magnífica Humanidade), publicada pelo Papa Leão XIV em maio de 2026, como um chamado ético e político à ação diante do avanço da inteligência artificial. A afirmação central do documento — \"a tecnologia nunca é neutra\" — é apresentada como ponto de partida para uma reflexão sobre responsabilidade coletiva num momento em que a IA está transformando o mundo com velocidade comparável à Revolução Industrial.\n\nOs autores argumentam que, na ausência de regulação efetiva por parte de governos e organismos internacionais, investidores institucionais têm preenchido esse vácuo. Coalizões como o Interfaith Center on Corporate Responsibility, representando mais de US$ 400 bilhões em ativos, têm apresentado resoluções em assembleias de acionistas de empresas como Alphabet, Amazon, Nvidia, Meta e Microsoft, exigindo transparência e responsabilização no uso da IA.\n\nA encíclica é posicionada não como ruptura, mas como ratificação de uma agenda de governança que já está em movimento. Com OpenAI, Anthropic e xAI se preparando para abrir capital, os mesmos mecanismos de pressão acionária poderão ser aplicados a empresas que hoje são privadas e praticamente imunes a esse tipo de escrutínio."
   },
   {
-    "title": "AI is already rewiring the aftermarket and services",
-    "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/ai-is-already-rewiring-the-aftermarket-and-services",
-    "summary": "For industrial companies, applying AI to the aftermarket and services could provide a source for differentiation on top of cost and time savings and enhanced customer experiences.",
-    "source_id": "mckinsey",
-    "first_seen": "2026-05-31",
-    "pub_date": "2026-05-29",
-    "title_pt": "A IA já está reconfigurando o pós-venda e os serviços na indústria automotiva e de manufatura",
-    "summary_pt": "O relatório da McKinsey examina como a inteligência artificial está transformando o mercado de pós-venda e serviços nas indústrias automotiva e industrial — segmentos que historicamente respondem pela maior parte das margens das empresas do setor. Em empresas de elevadores e escadas rolantes, por exemplo, os serviços podem representar até três quartos das margens totais.\n\nO artigo detalha como a IA está remodelando cada etapa do ciclo de vida de serviços: da inovação e desenvolvimento de produtos (com gêmeos digitais que reduzem custos de P&D em até 5%) à geração de demanda (copilots de vendas que dobraram as oportunidades de novos contratos em um OEM industrial), passando pela execução de ordens de serviço (diagnóstico remoto que reduziu horas de trabalho por tarefa em 15%).\n\nApesar do potencial, a McKinsey alerta que apenas cerca de 5% do EBIT das empresas pode ser atribuído ao uso de IA generativa. Os principais obstáculos são: falta de caminho claro do piloto para a escala, gestão insuficiente de dados, baixa adoção por parte das equipes de campo e dificuldades de integração com sistemas existentes.\n\nPara líderes industriais, o roteiro prático é: identificar os dois ou três momentos da jornada de serviço que mais impactam margem e experiência do cliente, definir quais decisões a IA deve automatizar versus apoiar, e garantir ownership claro para os resultados."
-  },
-  {
-    "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
-    "url": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
-    "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
-    "source_id": "techcrunch",
-    "first_seen": "2026-05-31",
-    "pub_date": "2026-05-29",
-    "title_pt": "O comedouro de pássaros com IA da Kiwibit é meu novo companheiro de quintal",
-    "summary_pt": "O Kiwibit Bird Feeder Pro 4K AI Camera é um comedouro inteligente que utiliza inteligência artificial para identificar mais de 10.000 espécies de pássaros em tempo real. Com câmera de 4K, painel solar integrado, Wi-Fi e lente de 130 graus, o dispositivo notifica o usuário no celular toda vez que um novo visitante aparece.\n\nO aplicativo companheiro registra cada visita, identifica as espécies automaticamente com base em algoritmo proprietário, e oferece informações detalhadas sobre cada pássaro. O produto ilustra como a IA embarcada em dispositivos domésticos está se tornando acessível e divertida para o consumidor comum, transformando interações cotidianas com a natureza em experiências gamificadas e conectadas."
-  },
-  {
-    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-    "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "source_id": "techcrunch",
-    "first_seen": "2026-05-31",
-    "pub_date": "2026-05-29",
-    "title_pt": "Você ouviu esses termos de IA e concordou com a cabeça — vamos resolver isso",
-    "summary_pt": "Com a explosão da inteligência artificial, surgiu também uma enxurrada de jargões técnicos que muitas vezes deixam profissionais e leigos sem saber exatamente o que significam. Este glossário do TechCrunch foi criado para preencher essa lacuna, explicando de forma clara os termos mais importantes do vocabulário de IA — e é atualizado regularmente à medida que o campo evolui.\n\nO artigo cobre desde conceitos fundamentais como AGI (Inteligência Artificial Geral), LLM (Modelos de Linguagem de Grande Escala), redes neurais e aprendizado profundo, até termos mais específicos como alucinações, inferência, cadeia de pensamento (chain of thought), ajuste fino (fine-tuning), tokens, e o novo fenômeno chamado RAMageddon — a escassez crescente de memória RAM causada pela demanda voraz da indústria de IA.\n\nPara líderes empresariais e equipes de tecnologia, compreender esses conceitos é cada vez mais essencial. Mal-entendidos sobre esses termos podem levar a decisões equivocadas de investimento ou adoção tecnológica. O glossário serve tanto como ponto de entrada para iniciantes quanto como referência rápida para profissionais da área."
-  },
-  {
-    "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
-    "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
-    "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
-    "source_id": "techcrunch",
-    "first_seen": "2026-05-31",
-    "pub_date": "2026-05-29",
-    "title_pt": "Scott Wu, da Cognition, diz que agentes de IA para programação não deveriam substituir humanos",
-    "summary_pt": "Scott Wu, CEO da Cognition e criador do Devin — considerado o primeiro e mais bem-sucedido agente de programação por IA —, levantou US$ 1 bilhão em uma rodada Série D avaliando a empresa em US$ 26 bilhões. Apesar desse marco, Wu é categórico: o objetivo do Devin nunca foi substituir programadores humanos, mas sim ampliar suas capacidades.\n\nWu vê o Devin como um \"parceiro\" que liberta os desenvolvedores das tarefas mais mecânicas e repetitivas — como atualizar sistemas legados ou migrar plataformas — para que possam se concentrar na criação e arquitetura de software. Na própria Cognition, 89% do código é commitado pelo Devin ou por agentes do Windsurf.\n\nWu é honesto sobre as limitações atuais: o Devin opera entre os níveis de um engenheiro júnior e um de nível médio, dependendo da tarefa. Para líderes de tecnologia e RH, o posicionamento de Wu oferece um contrapeso importante no debate sobre IA e emprego: a perspectiva de que a automação inteligente deve aumentar a capacidade humana, não erradicá-la."
-  },
-  {
     "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
     "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
     "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios.",
@@ -448,6 +534,14 @@
     "pub_date": "2026-05-29",
     "title_pt": "Após acordo de US$ 20 bilhões com a Nvidia, a startup de chips de IA Groq teria captando US$ 650 milhões",
     "summary_pt": "A Groq, startup especializada em chips de IA e inferência em nuvem, estaria levantando US$ 650 milhões em uma rodada interna com seus investidores existentes, segundo o Axios. A movimentação ocorre após um acordo atípico fechado em dezembro de 2025 com a Nvidia: pelo valor de aproximadamente US$ 20 bilhões, a Nvidia licenciou a tecnologia de hardware da Groq e absorveu alguns de seus executivos sênior — sem, porém, adquirir a empresa formalmente.\n\nAgora, esses mesmos investidores são chamados a financiar a nova fase da empresa: focar no negócio de nuvem de inferência, que permite a desenvolvedores e empresas hospedar aplicações de IA de alta demanda computacional. A inferência — o processamento que acontece após um prompt de IA — é hoje a maior necessidade do mercado, superando o treinamento de modelos."
+  },
+  {
+    "title": "The future of AI and trade",
+    "url": "https://www.mckinsey.com/mgi/media-center/the-future-of-ai-and-trade",
+    "summary": "For all the constant buzz around AI, broad-based announcements about how AI has boosted profits are noticeably missing. The reason for this loud silence: it hasn’t happened—yet, write Olivia White and Tiago Devesa.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-06-02",
+    "pub_date": "2026-05-29"
   },
   {
     "title": "Does your CEO have AI psychosis? Aaron Levie thinks most of them do.",
@@ -460,24 +554,24 @@
     "summary_pt": "Neste episódio do podcast Equity do TechCrunch, os apresentadores debatem o conceito de \"psicose de IA\" cunhado pelo fundador da Box, Aaron Levie. Para Levie, os CEOs que decidem substituir trabalhadores por agentes de IA são frequentemente os menos capacitados para entender o que esses trabalhadores realmente fazem no dia a dia — criando uma perigosa desconexão entre expectativas e realidade.\n\nO episódio contextualiza essa discussão com dados concretos: a ClickUp cortou 22% de sua força de trabalho em nome da IA; os demitidos em tecnologia em 2026 já quase igualam o total de 2025; e as instalações do DuckDuckGo cresceram 30% com usuários que rejeitam a integração forçada de IA na busca do Google.\n\nPara líderes de empresas, a mensagem central é clara: adotar IA sem compreendê-la operacionalmente é uma forma de gestão irresponsável. A onda de cortes motivados por IA pode gerar ganhos de curto prazo e danos de longo prazo — especialmente quando os tomadores de decisão estão desconectados das realidades do trabalho que pretendem automatizar."
   },
   {
-    "title": "What happens when companies become too AI-pilled?",
-    "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-    "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
+    "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+    "url": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+    "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
     "source_id": "techcrunch",
     "first_seen": "2026-05-31",
     "pub_date": "2026-05-29",
-    "title_pt": "O que acontece quando as empresas ficam obcecadas demais com IA?",
-    "summary_pt": "Este vídeo do TechCrunch debate o que acontece quando organizações abraçam a IA de forma acrítica e excessiva, tomando decisões de demissão e reestruturação antes de compreender as reais capacidades e limitações das ferramentas.\n\nO debate gira em torno de uma tensão paradoxal: ao mesmo tempo em que todos usam IA e a aprovam, uma parcela significativa dos usuários a rejeita. O crescimento de 30% nas instalações do DuckDuckGo — um buscador que rejeita a integração forçada de IA — é citado como evidência concreta desse fenômeno. Para líderes empresariais, a mensagem é que a adoção de IA precisa ser equilibrada com compreensão operacional real."
+    "title_pt": "O comedouro de pássaros com IA da Kiwibit é meu novo companheiro de quintal",
+    "summary_pt": "O Kiwibit Bird Feeder Pro 4K AI Camera é um comedouro inteligente que utiliza inteligência artificial para identificar mais de 10.000 espécies de pássaros em tempo real. Com câmera de 4K, painel solar integrado, Wi-Fi e lente de 130 graus, o dispositivo notifica o usuário no celular toda vez que um novo visitante aparece.\n\nO aplicativo companheiro registra cada visita, identifica as espécies automaticamente com base em algoritmo proprietário, e oferece informações detalhadas sobre cada pássaro. O produto ilustra como a IA embarcada em dispositivos domésticos está se tornando acessível e divertida para o consumidor comum, transformando interações cotidianas com a natureza em experiências gamificadas e conectadas."
   },
   {
-    "title": "When AI meets desire: Innovating human-centered luxury experiences in the agentic age",
-    "url": "https://www.mckinsey.com/industries/retail/our-insights/when-ai-meets-desire-innovating-human-centered-luxury-experiences-in-the-agentic-age",
-    "summary": "With luxury consumers rapidly embracing AI, the strategic question for merchants is no longer whether agents will mediate the journey, but who controls how brands are perceived.",
-    "source_id": "mckinsey",
+    "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+    "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+    "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
+    "source_id": "techcrunch",
     "first_seen": "2026-05-31",
     "pub_date": "2026-05-29",
-    "title_pt": "Quando a IA encontra o desejo: inovando experiências de luxo centradas no ser humano na era agêntica",
-    "summary_pt": "O relatório da McKinsey analisa como o comércio agêntico — mediado por assistentes de IA como Gemini, ChatGPT e Perplexity — está transformando a jornada de compra no setor de luxo. A tese central é que a \"porta de entrada\" da experiência de luxo está migrando para upstream: antes mesmo de o cliente chegar à boutique ou ao site da marca, sua intenção de compra já está sendo interpretada e moldada por sistemas de IA de terceiros. Segundo a pesquisa, 85% dos consumidores de luxo já usam assistentes de IA multipropósito para decisões de compra.\n\nO desafio estratégico não é tecnológico, mas de autoridade interpretativa: quem define como a marca é percebida quando um agente de IA é o primeiro ponto de contato? Se uma ferramenta genérica for a primeira a interpretar o desejo de um cliente, o risco não é receber uma sugestão errada de produto, mas ter a própria identidade da marca distorcida. A McKinsey estima que agentes de IA poderão mediar entre US$ 3 trilhões e US$ 5 trilhões do comércio global de bens até 2030.\n\nO relatório propõe um modelo conceitual de quatro \"salas\": o Foyer (descoberta inicial), a Galeria (curadoria de produtos), o Salão (autorização supervisionada com humanos no centro) e o Ateliê (pós-venda e fidelização). Cada sala exige um nível diferente de delegação à IA.\n\nPara líderes do setor, as implicações são concretas: marcas de luxo precisam codificar seus códigos estéticos e de serviço em formatos legíveis por máquina, construir camadas de interpretação de marca próprias e encarar a confiança como ativo de diferenciação. Esperar para agir é, em si, uma escolha estratégica arriscada."
+    "title_pt": "Scott Wu, da Cognition, diz que agentes de IA para programação não deveriam substituir humanos",
+    "summary_pt": "Scott Wu, CEO da Cognition e criador do Devin — considerado o primeiro e mais bem-sucedido agente de programação por IA —, levantou US$ 1 bilhão em uma rodada Série D avaliando a empresa em US$ 26 bilhões. Apesar desse marco, Wu é categórico: o objetivo do Devin nunca foi substituir programadores humanos, mas sim ampliar suas capacidades.\n\nWu vê o Devin como um \"parceiro\" que liberta os desenvolvedores das tarefas mais mecânicas e repetitivas — como atualizar sistemas legados ou migrar plataformas — para que possam se concentrar na criação e arquitetura de software. Na própria Cognition, 89% do código é commitado pelo Devin ou por agentes do Windsurf.\n\nWu é honesto sobre as limitações atuais: o Devin opera entre os níveis de um engenheiro júnior e um de nível médio, dependendo da tarefa. Para líderes de tecnologia e RH, o posicionamento de Wu oferece um contrapeso importante no debate sobre IA e emprego: a perspectiva de que a automação inteligente deve aumentar a capacidade humana, não erradicá-la."
   },
   {
     "title": "Coders are refusing to work without AI — and that could come back to bite them",
@@ -500,6 +594,36 @@
     "summary_pt": "A XCENA, startup sul-coreana com escritórios também nos EUA, acaba de fechar uma rodada Série B de US$ 135 milhões a uma avaliação de US$ 570 milhões. A tese da empresa é que a IA moderna enfrenta um gargalo estrutural frequentemente ignorado: a memória, e não o processamento (compute), é o elo mais fraco da cadeia de infraestrutura.\n\nEm cada consulta a um modelo de linguagem como o ChatGPT, os dados percorrem um circuito custoso entre memória, CPU e GPU — repetidamente, para cada palavra gerada. O chip da XCENA, chamado MX1, insere capacidade de processamento diretamente no módulo DRAM via conexão CXL, eliminando grande parte dessas viagens de dados. A empresa afirma que tarefas que antes exigiam 10 servidores poderiam rodar em apenas um.\n\nOs fundadores são ex-executivos de Samsung e SK Hynix, os maiores fabricantes de chips de memória do mundo. O chip MX1 ainda é protótipo, com produção em massa prevista para o final de 2026 e geração de receita a partir de 2027. Para CTOs e líderes de infraestrutura de IA, a XCENA representa uma aposta relevante na próxima fronteira de otimização de custos operacionais em grandes implantações de IA."
   },
   {
+    "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
+    "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-05-31",
+    "pub_date": "2026-05-29",
+    "title_pt": "Hoje é o último dia para se inscrever como palestrante no TechCrunch Disrupt 2026",
+    "summary_pt": "Convocação para fundadores, investidores e especialistas se inscreverem para falar no TechCrunch Disrupt 2026, evento agendado para 13 a 15 de outubro no Moscone West, em San Francisco, com mais de 10.000 participantes do ecossistema de startups e venture capital."
+  },
+  {
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "source_id": "techcrunch",
+    "first_seen": "2026-05-31",
+    "pub_date": "2026-05-29",
+    "title_pt": "Você ouviu esses termos de IA e concordou com a cabeça — vamos resolver isso",
+    "summary_pt": "Com a explosão da inteligência artificial, surgiu também uma enxurrada de jargões técnicos que muitas vezes deixam profissionais e leigos sem saber exatamente o que significam. Este glossário do TechCrunch foi criado para preencher essa lacuna, explicando de forma clara os termos mais importantes do vocabulário de IA — e é atualizado regularmente à medida que o campo evolui.\n\nO artigo cobre desde conceitos fundamentais como AGI (Inteligência Artificial Geral), LLM (Modelos de Linguagem de Grande Escala), redes neurais e aprendizado profundo, até termos mais específicos como alucinações, inferência, cadeia de pensamento (chain of thought), ajuste fino (fine-tuning), tokens, e o novo fenômeno chamado RAMageddon — a escassez crescente de memória RAM causada pela demanda voraz da indústria de IA.\n\nPara líderes empresariais e equipes de tecnologia, compreender esses conceitos é cada vez mais essencial. Mal-entendidos sobre esses termos podem levar a decisões equivocadas de investimento ou adoção tecnológica. O glossário serve tanto como ponto de entrada para iniciantes quanto como referência rápida para profissionais da área."
+  },
+  {
+    "title": "What happens when companies become too AI-pilled?",
+    "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &#8220;AI psychosis.” Indeed, ClickUp recently cut 22% of its workforce for AI agents, tech layoffs in 2026 are already nearly matching all of 2025, [&#8230;]",
+    "source_id": "techcrunch",
+    "first_seen": "2026-05-31",
+    "pub_date": "2026-05-29",
+    "title_pt": "O que acontece quando as empresas ficam obcecadas demais com IA?",
+    "summary_pt": "Este vídeo do TechCrunch debate o que acontece quando organizações abraçam a IA de forma acrítica e excessiva, tomando decisões de demissão e reestruturação antes de compreender as reais capacidades e limitações das ferramentas.\n\nO debate gira em torno de uma tensão paradoxal: ao mesmo tempo em que todos usam IA e a aprovam, uma parcela significativa dos usuários a rejeita. O crescimento de 30% nas instalações do DuckDuckGo — um buscador que rejeita a integração forçada de IA — é citado como evidência concreta desse fenômeno. Para líderes empresariais, a mensagem é que a adoção de IA precisa ser equilibrada com compreensão operacional real."
+  },
+  {
     "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
     "url": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
     "summary": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most anticipated tech events of the year. Register now.",
@@ -510,34 +634,34 @@
     "summary_pt": "Aviso promocional de encerramento do período Early Bird para o TechCrunch Disrupt 2026, que acontece de 13 a 15 de outubro no Moscone West, em San Francisco."
   },
   {
-    "title": "Move first or fall behind: How AI is rewriting the rules of banking",
-    "url": "https://www.mckinsey.com/industries/financial-services/our-insights/move-first-or-fall-behind-how-ai-is-rewriting-the-rules-of-banking",
-    "summary": "AI is poised to reshape banking not just by cutting costs, but by redistributing profits, redefining customer relationships, and accelerating competition. How should banks respond?",
+    "title": "AI is already rewiring the aftermarket and services",
+    "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/ai-is-already-rewiring-the-aftermarket-and-services",
+    "summary": "For industrial companies, applying AI to the aftermarket and services could provide a source for differentiation on top of cost and time savings and enhanced customer experiences.",
     "source_id": "mckinsey",
     "first_seen": "2026-05-31",
-    "pub_date": "2026-05-28",
-    "title_pt": "Mova-se primeiro ou fique para trás: como a IA está reescrevendo as regras do setor bancário",
-    "summary_pt": "Este episódio do podcast McKinsey traz o sócio sênior Ido Segev discutindo como a IA representa uma transformação estrutural — e não apenas incremental — para o setor bancário. A questão central para os bancos não é mais se devem adotar IA, mas com que velocidade e profundidade. O maior risco é a inércia: bancos que se moverem cedo capturarão vantagens de custo e rentabilidade que os atrasados não conseguirão recuperar facilmente.\n\nOs números são expressivos: Segev estima que a adoção plena de IA agêntica pode reduzir os custos bancários em 20 a 25%, o equivalente a US$ 250 a US$ 500 milhões por cada US$ 100 bilhões em ativos. Ao mesmo tempo, a competição deve comprimir os lucros da indústria em 9 a 10% ao longo do tempo.\n\nSegev identifica os principais obstáculos para escalar IA nos bancos: falta de foco nas iniciativas, silos entre áreas de negócio e TI, necessidade de requalificação dos funcionários, e a armadilha de confundir capacidade liberada com valor gerado. Para líderes do setor financeiro, as implicações são claras: os vencedores serão os bancos que adotarem IA de forma precisa — não necessariamente os maiores, mas os mais estratégicos."
+    "pub_date": "2026-05-29",
+    "title_pt": "A IA já está reconfigurando o pós-venda e os serviços na indústria automotiva e de manufatura",
+    "summary_pt": "O relatório da McKinsey examina como a inteligência artificial está transformando o mercado de pós-venda e serviços nas indústrias automotiva e industrial — segmentos que historicamente respondem pela maior parte das margens das empresas do setor. Em empresas de elevadores e escadas rolantes, por exemplo, os serviços podem representar até três quartos das margens totais.\n\nO artigo detalha como a IA está remodelando cada etapa do ciclo de vida de serviços: da inovação e desenvolvimento de produtos (com gêmeos digitais que reduzem custos de P&D em até 5%) à geração de demanda (copilots de vendas que dobraram as oportunidades de novos contratos em um OEM industrial), passando pela execução de ordens de serviço (diagnóstico remoto que reduziu horas de trabalho por tarefa em 15%).\n\nApesar do potencial, a McKinsey alerta que apenas cerca de 5% do EBIT das empresas pode ser atribuído ao uso de IA generativa. Os principais obstáculos são: falta de caminho claro do piloto para a escala, gestão insuficiente de dados, baixa adoção por parte das equipes de campo e dificuldades de integração com sistemas existentes.\n\nPara líderes industriais, o roteiro prático é: identificar os dois ou três momentos da jornada de serviço que mais impactam margem e experiência do cliente, definir quais decisões a IA deve automatizar versus apoiar, e garantir ownership claro para os resultados."
   },
   {
-    "title": "Building the AI advantage: How ADEO is preparing for retailâs next wave",
-    "url": "https://www.mckinsey.com/industries/retail/our-insights/building-the-ai-advantage-how-adeo-is-preparing-for-retails-next-wave",
-    "summary": "The global home-improvement retailerâs chief digital and information officer on unlocking the potential of AIâand keeping peopleâs feet on the ground.",
+    "title": "When AI meets desire: Innovating human-centered luxury experiences in the agentic age",
+    "url": "https://www.mckinsey.com/industries/retail/our-insights/when-ai-meets-desire-innovating-human-centered-luxury-experiences-in-the-agentic-age",
+    "summary": "With luxury consumers rapidly embracing AI, the strategic question for merchants is no longer whether agents will mediate the journey, but who controls how brands are perceived.",
     "source_id": "mckinsey",
     "first_seen": "2026-05-31",
-    "pub_date": "2026-05-28",
-    "title_pt": "Construindo a vantagem da IA: como a ADEO se prepara para a próxima onda do varejo",
-    "summary_pt": "O relatório da McKinsey examina como a ADEO, grupo francês de varejo de home improvement que controla marcas como Leroy Merlin, está se preparando estrategicamente para a transformação impulsionada pela inteligência artificial no setor varejista. A ADEO apostou em criar uma infraestrutura de dados unificada que conecta suas diversas unidades de negócio ao redor do mundo, permitindo que algoritmos de IA personalizem a experiência de compra, otimizem estoques e melhorem a cadeia de abastecimento.\n\nA empresa investe em capacitação interna para que colaboradores em toda a organização possam usar ferramentas de IA no dia a dia, disseminando a cultura de dados como diferencial competitivo. O caso da ADEO ilustra que a transformação por IA no varejo não é apenas uma questão tecnológica, mas organizacional: exige governança de dados robusta, alinhamento entre áreas de negócio e TI, e liderança disposta a tolerar experimentos e falhas rápidas.\n\nA conclusão do artigo reforça que o varejo do futuro pertence a quem conseguir transformar volume massivo de dados em decisões inteligentes em tempo real. Mesmo grupos tradicionais e multigeográficos podem liderar essa onda se investirem de forma consistente em fundações de dados e em uma cultura organizacional orientada à IA."
+    "pub_date": "2026-05-29",
+    "title_pt": "Quando a IA encontra o desejo: inovando experiências de luxo centradas no ser humano na era agêntica",
+    "summary_pt": "O relatório da McKinsey analisa como o comércio agêntico — mediado por assistentes de IA como Gemini, ChatGPT e Perplexity — está transformando a jornada de compra no setor de luxo. A tese central é que a \"porta de entrada\" da experiência de luxo está migrando para upstream: antes mesmo de o cliente chegar à boutique ou ao site da marca, sua intenção de compra já está sendo interpretada e moldada por sistemas de IA de terceiros. Segundo a pesquisa, 85% dos consumidores de luxo já usam assistentes de IA multipropósito para decisões de compra.\n\nO desafio estratégico não é tecnológico, mas de autoridade interpretativa: quem define como a marca é percebida quando um agente de IA é o primeiro ponto de contato? Se uma ferramenta genérica for a primeira a interpretar o desejo de um cliente, o risco não é receber uma sugestão errada de produto, mas ter a própria identidade da marca distorcida. A McKinsey estima que agentes de IA poderão mediar entre US$ 3 trilhões e US$ 5 trilhões do comércio global de bens até 2030.\n\nO relatório propõe um modelo conceitual de quatro \"salas\": o Foyer (descoberta inicial), a Galeria (curadoria de produtos), o Salão (autorização supervisionada com humanos no centro) e o Ateliê (pós-venda e fidelização). Cada sala exige um nível diferente de delegação à IA.\n\nPara líderes do setor, as implicações são concretas: marcas de luxo precisam codificar seus códigos estéticos e de serviço em formatos legíveis por máquina, construir camadas de interpretação de marca próprias e encarar a confiança como ativo de diferenciação. Esperar para agir é, em si, uma escolha estratégica arriscada."
   },
   {
-    "title": "The surprising economics of B2B growth: The new survival thresholdâand what it takes to thrive",
-    "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-surprising-economics-of-b2b-growth-the-new-survival-threshold-and-what-it-takes-to-thrive",
-    "summary": "The 2026 Global B2B Pulse Survey finds a divide between leaders and laggardsâand shows how integrating hyperpersonalization, AI, and sales accountability creates a new operating system for growth.",
-    "source_id": "mckinsey",
+    "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
+    "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+    "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
+    "source_id": "techcrunch",
     "first_seen": "2026-05-31",
     "pub_date": "2026-05-28",
-    "title_pt": "A economia surpreendente do crescimento B2B: o novo limiar de sobrevivência e o que é preciso para prosperar",
-    "summary_pt": "Baseado na Pesquisa Global B2B Pulse 2026 da McKinsey com quase 4.000 tomadores de decisão em 13 países, este artigo revela uma divisão crescente entre líderes e retardatários no mercado B2B. A conclusão central é que omnichannel e e-commerce, antes diferenciais competitivos, tornaram-se o mínimo necessário para sobreviver. Setenta e um por cento das empresas B2B já oferecem e-commerce, e cerca de um terço das receitas flui por canais digitais.\n\nO estudo identifica três motores que separam os líderes dos demais: hiperpersonalização real (um para um), escalonamento de IA generativa integrada aos fluxos comerciais e governança disciplinada de marketing baseado em contas (ABM). Sessenta por cento dos líderes reportam crescimento de receita de dois dígitos, contra apenas 21% dos retardatários.\n\nAs implicações práticas para empresas B2B são significativas: não basta investir em qualquer uma dessas capacidades isoladamente. A vantagem real vem da integração — dados unificados de clientes que alimentam modelos de IA, que por sua vez habilitam personalização em escala, gerida com accountability clara de vendas."
+    "title_pt": "Receita da Glean ultrapassa US$ 300 milhões com corte de custos de IA como principal argumento de venda",
+    "summary_pt": "A Glean, frequentemente descrita como o \"Google para empresas\", anunciou ter alcançado US$ 300 milhões em receita recorrente anualizada, representando um crescimento de três vezes em apenas 15 meses. O crescimento é notável porque acontece justamente quando grandes concorrentes como Google, Microsoft, OpenAI e Anthropic entram agressivamente no mercado de busca empresarial com IA.\n\nO diferencial competitivo da Glean está no \"context graph\" — uma camada de conhecimento construída por meio da conexão com os sistemas internos das empresas (CRM, Slack, e-mail, repositórios de código etc.), que permite que a IA entenda profundamente o contexto do negócio de cada cliente. Esse contexto rico faz com que os modelos de IA precisem consumir muito menos tokens para responder perguntas, traduzindo-se em redução significativa dos custos de IA para os clientes.\n\nPara líderes de tecnologia, o caso da Glean ilustra uma tendência crescente: ferramentas de IA que demonstram ROI claro em redução de custos operacionais têm maior facilidade de venda em um ambiente corporativo cada vez mais criterioso com gastos em IA."
   },
   {
     "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
@@ -550,14 +674,14 @@
     "summary_pt": "A Anthropic, criadora do assistente de IA Claude, fechou sua rodada Série H de US$ 65 bilhões a uma avaliação pós-dinheiro de US$ 965 bilhões — tornando-se a empresa privada mais valiosa da história da IA. A rodada foi co-liderada por Altimeter Capital, Dragoneer, Greenoaks, Sequoia Capital e outros grandes nomes institucionais. Entre os participantes estratégicos estão Samsung, SK Hynix e Micron.\n\nA captação representa provavelmente a última rodada privada antes do IPO da empresa. A Anthropic planeja usar os recursos para avançar em pesquisas de segurança e interpretabilidade, expandir capacidade computacional e escalar produtos e parcerias. No mesmo dia do anúncio, a empresa lançou o modelo Claude Opus 4.8.\n\nA receita recorrente anual cruzou os US$ 47 bilhões ainda em maio de 2026, e a empresa espera um crescimento de receita de 130% que a levará ao seu primeiro trimestre operacionalmente lucrativo. Para investidores e líderes corporativos, esses números refletem um reposicionamento profundo do mercado: as grandes apostas em IA já não são especulativas — são consideradas infraestrutura crítica."
   },
   {
-    "title": "The Download: climate tech goes public and the AI Hype Index returns",
-    "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, which builds small modular nuclear reactors, followed&#8230;",
-    "source_id": "mit",
+    "title": "The internet is being rebuilt for machines",
+    "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
+    "source_id": "techcrunch",
     "first_seen": "2026-05-31",
     "pub_date": "2026-05-28",
-    "title_pt": "O Download: empresas de tecnologia climática abrem capital e o Índice de Hype da IA retorna",
-    "summary_pt": "Esta edição do boletim diário The Download da MIT Technology Review traz dois temas centrais: a onda de IPOs de empresas de tecnologia climática e o retorno do Índice de Hype da IA. No front climático, Solv Energy, X-energy e Fervo Energy abriram capital com valuations bilionários em 2026, impulsionadas pela demanda crescente por energia limpa — em grande parte alimentada pelos data centers da era da IA.\n\nOutros destaques incluem: a ByteDance desenvolvendo CPUs customizadas diante da escassez de chips de IA; quatro gigantes da tecnologia (Amazon, Google, Meta e Microsoft) se unindo a uma iniciativa de energia limpa para data centers; e Jensen Huang, da Nvidia, ingressando no conselho da Universidade Tsinghua em Pequim. A newsletter oferece um panorama rico da interseção entre IA, energia e geopolítica."
+    "title_pt": "A internet está sendo reconstruída para máquinas",
+    "summary_pt": "Por décadas, a infraestrutura da internet foi projetada para humanos: padrões de tráfego previsíveis, sessões longas, interações pontuais. Os agentes de IA quebram esse modelo: eles podem disparar centenas de requisições simultâneas em segundos, consultar múltiplos bancos de dados, chamar APIs em paralelo e desaparecer tão rapidamente quanto chegaram. Essa diferença de comportamento está forçando uma reconstrução profunda da infraestrutura de nuvem.\n\nA AWS lançou a próxima geração do OpenSearch Serverless — um banco de dados vetorial totalmente gerenciado que escala instantaneamente para picos de tráfego de agentes e retorna a zero quando ocioso. Outros provedores seguem o mesmo caminho: Cloudflare, Microsoft Azure, Databricks e Snowflake se reposicionam para atender tráfego de agentes.\n\nOs dados confirmam a tendência: a Cloudflare estima que bots já representam 31% do tráfego HTTP global, e projeta que o tráfego não humano superará o humano ainda no primeiro semestre de 2027. Para arquitetos de sistemas, toda decisão de infraestrutura tomada hoje precisa considerar que os principais \"usuários\" de amanhã não serão pessoas — serão agentes autônomos."
   },
   {
     "title": "Asana acquires no-code agent-builder StackAI",
@@ -570,14 +694,14 @@
     "summary_pt": "A Asana anunciou a aquisição da StackAI por US$ 75 milhões, incorporando ao seu portfólio uma plataforma de automação de fluxos de trabalho com IA que permite criar agentes que operam dentro de sistemas empresariais existentes como Salesforce, Slack e Google Workspace, sem necessidade de programação.\n\nA Asana enquadra a aquisição como parte de sua transformação estratégica rumo a ser uma plataforma nativa de IA, posicionando-se como o \"sistema operacional para equipes humano-agente\". O contexto financeiro da Asana é desafiador — a empresa perdeu mais da metade de seu valor de mercado desde o lançamento do ChatGPT —, mas a nova liderança aposta nos produtos de trabalho humano-agente para uma recuperação.\n\nPara executivos e líderes de tecnologia, esta aquisição sinaliza uma consolidação acelerada no mercado de ferramentas de automação e IA empresarial. O movimento reflete a corrida das plataformas de gestão de trabalho para incorporar capacidades agênticas antes que grandes provedores de nuvem ocupem esse espaço."
   },
   {
-    "title": "Glean’s top line crosses $300M as AI budget cutting becomes its major selling point",
-    "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-    "summary": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.",
-    "source_id": "techcrunch",
+    "title": "Building the AI advantage: How ADEO is preparing for retailâs next wave",
+    "url": "https://www.mckinsey.com/industries/retail/our-insights/building-the-ai-advantage-how-adeo-is-preparing-for-retails-next-wave",
+    "summary": "The global home-improvement retailerâs chief digital and information officer on unlocking the potential of AIâand keeping peopleâs feet on the ground.",
+    "source_id": "mckinsey",
     "first_seen": "2026-05-31",
     "pub_date": "2026-05-28",
-    "title_pt": "Receita da Glean ultrapassa US$ 300 milhões com corte de custos de IA como principal argumento de venda",
-    "summary_pt": "A Glean, frequentemente descrita como o \"Google para empresas\", anunciou ter alcançado US$ 300 milhões em receita recorrente anualizada, representando um crescimento de três vezes em apenas 15 meses. O crescimento é notável porque acontece justamente quando grandes concorrentes como Google, Microsoft, OpenAI e Anthropic entram agressivamente no mercado de busca empresarial com IA.\n\nO diferencial competitivo da Glean está no \"context graph\" — uma camada de conhecimento construída por meio da conexão com os sistemas internos das empresas (CRM, Slack, e-mail, repositórios de código etc.), que permite que a IA entenda profundamente o contexto do negócio de cada cliente. Esse contexto rico faz com que os modelos de IA precisem consumir muito menos tokens para responder perguntas, traduzindo-se em redução significativa dos custos de IA para os clientes.\n\nPara líderes de tecnologia, o caso da Glean ilustra uma tendência crescente: ferramentas de IA que demonstram ROI claro em redução de custos operacionais têm maior facilidade de venda em um ambiente corporativo cada vez mais criterioso com gastos em IA."
+    "title_pt": "Construindo a vantagem da IA: como a ADEO se prepara para a próxima onda do varejo",
+    "summary_pt": "O relatório da McKinsey examina como a ADEO, grupo francês de varejo de home improvement que controla marcas como Leroy Merlin, está se preparando estrategicamente para a transformação impulsionada pela inteligência artificial no setor varejista. A ADEO apostou em criar uma infraestrutura de dados unificada que conecta suas diversas unidades de negócio ao redor do mundo, permitindo que algoritmos de IA personalizem a experiência de compra, otimizem estoques e melhorem a cadeia de abastecimento.\n\nA empresa investe em capacitação interna para que colaboradores em toda a organização possam usar ferramentas de IA no dia a dia, disseminando a cultura de dados como diferencial competitivo. O caso da ADEO ilustra que a transformação por IA no varejo não é apenas uma questão tecnológica, mas organizacional: exige governança de dados robusta, alinhamento entre áreas de negócio e TI, e liderança disposta a tolerar experimentos e falhas rápidas.\n\nA conclusão do artigo reforça que o varejo do futuro pertence a quem conseguir transformar volume massivo de dados em decisões inteligentes em tempo real. Mesmo grupos tradicionais e multigeográficos podem liderar essa onda se investirem de forma consistente em fundações de dados e em uma cultura organizacional orientada à IA."
   },
   {
     "title": "The AI Hype Index: AI gets booed in graduation season",
@@ -600,14 +724,34 @@
     "summary_pt": "Este artigo da McKinsey descreve como a IA agêntica está transformando radicalmente os modelos de entrega de software. O ponto de partida é um modelo de trabalho de 24 horas: durante o dia, equipes humanas revisam entregas e refinam guardrails; durante a noite, agentes de IA executam tarefas estruturadas em escala. Empresas pioneiras já relatam ganhos de três a cinco vezes na produtividade, com redução de 60% no tamanho das equipes.\n\nO artigo estrutura a transformação em quatro pilares: o sprint diário de 24 horas; a automação de handoffs entre requisitos, código e testes; a construção de uma infraestrutura de conhecimento em grafos semânticos como memória institucional; e a captura de valor por meio do redimensionamento de equipes.\n\nPara líderes de tecnologia, as implicações são profundas: as funções de engenharia migrarão de produção manual de código para supervisão, revisão arquitetural e modelagem de domínio. As organizações que começarem agora a reconstruir seu modelo operacional em torno da colaboração humano-agente redefinirão como o software cria valor."
   },
   {
-    "title": "The internet is being rebuilt for machines",
-    "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-    "summary": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.",
-    "source_id": "techcrunch",
+    "title": "The Download: climate tech goes public and the AI Hype Index returns",
+    "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, which builds small modular nuclear reactors, followed&#8230;",
+    "source_id": "mit",
     "first_seen": "2026-05-31",
     "pub_date": "2026-05-28",
-    "title_pt": "A internet está sendo reconstruída para máquinas",
-    "summary_pt": "Por décadas, a infraestrutura da internet foi projetada para humanos: padrões de tráfego previsíveis, sessões longas, interações pontuais. Os agentes de IA quebram esse modelo: eles podem disparar centenas de requisições simultâneas em segundos, consultar múltiplos bancos de dados, chamar APIs em paralelo e desaparecer tão rapidamente quanto chegaram. Essa diferença de comportamento está forçando uma reconstrução profunda da infraestrutura de nuvem.\n\nA AWS lançou a próxima geração do OpenSearch Serverless — um banco de dados vetorial totalmente gerenciado que escala instantaneamente para picos de tráfego de agentes e retorna a zero quando ocioso. Outros provedores seguem o mesmo caminho: Cloudflare, Microsoft Azure, Databricks e Snowflake se reposicionam para atender tráfego de agentes.\n\nOs dados confirmam a tendência: a Cloudflare estima que bots já representam 31% do tráfego HTTP global, e projeta que o tráfego não humano superará o humano ainda no primeiro semestre de 2027. Para arquitetos de sistemas, toda decisão de infraestrutura tomada hoje precisa considerar que os principais \"usuários\" de amanhã não serão pessoas — serão agentes autônomos."
+    "title_pt": "O Download: empresas de tecnologia climática abrem capital e o Índice de Hype da IA retorna",
+    "summary_pt": "Esta edição do boletim diário The Download da MIT Technology Review traz dois temas centrais: a onda de IPOs de empresas de tecnologia climática e o retorno do Índice de Hype da IA. No front climático, Solv Energy, X-energy e Fervo Energy abriram capital com valuations bilionários em 2026, impulsionadas pela demanda crescente por energia limpa — em grande parte alimentada pelos data centers da era da IA.\n\nOutros destaques incluem: a ByteDance desenvolvendo CPUs customizadas diante da escassez de chips de IA; quatro gigantes da tecnologia (Amazon, Google, Meta e Microsoft) se unindo a uma iniciativa de energia limpa para data centers; e Jensen Huang, da Nvidia, ingressando no conselho da Universidade Tsinghua em Pequim. A newsletter oferece um panorama rico da interseção entre IA, energia e geopolítica."
+  },
+  {
+    "title": "The surprising economics of B2B growth: The new survival thresholdâand what it takes to thrive",
+    "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-surprising-economics-of-b2b-growth-the-new-survival-threshold-and-what-it-takes-to-thrive",
+    "summary": "The 2026 Global B2B Pulse Survey finds a divide between leaders and laggardsâand shows how integrating hyperpersonalization, AI, and sales accountability creates a new operating system for growth.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-05-31",
+    "pub_date": "2026-05-28",
+    "title_pt": "A economia surpreendente do crescimento B2B: o novo limiar de sobrevivência e o que é preciso para prosperar",
+    "summary_pt": "Baseado na Pesquisa Global B2B Pulse 2026 da McKinsey com quase 4.000 tomadores de decisão em 13 países, este artigo revela uma divisão crescente entre líderes e retardatários no mercado B2B. A conclusão central é que omnichannel e e-commerce, antes diferenciais competitivos, tornaram-se o mínimo necessário para sobreviver. Setenta e um por cento das empresas B2B já oferecem e-commerce, e cerca de um terço das receitas flui por canais digitais.\n\nO estudo identifica três motores que separam os líderes dos demais: hiperpersonalização real (um para um), escalonamento de IA generativa integrada aos fluxos comerciais e governança disciplinada de marketing baseado em contas (ABM). Sessenta por cento dos líderes reportam crescimento de receita de dois dígitos, contra apenas 21% dos retardatários.\n\nAs implicações práticas para empresas B2B são significativas: não basta investir em qualquer uma dessas capacidades isoladamente. A vantagem real vem da integração — dados unificados de clientes que alimentam modelos de IA, que por sua vez habilitam personalização em escala, gerida com accountability clara de vendas."
+  },
+  {
+    "title": "Move first or fall behind: How AI is rewriting the rules of banking",
+    "url": "https://www.mckinsey.com/industries/financial-services/our-insights/move-first-or-fall-behind-how-ai-is-rewriting-the-rules-of-banking",
+    "summary": "AI is poised to reshape banking not just by cutting costs, but by redistributing profits, redefining customer relationships, and accelerating competition. How should banks respond?",
+    "source_id": "mckinsey",
+    "first_seen": "2026-05-31",
+    "pub_date": "2026-05-28",
+    "title_pt": "Mova-se primeiro ou fique para trás: como a IA está reescrevendo as regras do setor bancário",
+    "summary_pt": "Este episódio do podcast McKinsey traz o sócio sênior Ido Segev discutindo como a IA representa uma transformação estrutural — e não apenas incremental — para o setor bancário. A questão central para os bancos não é mais se devem adotar IA, mas com que velocidade e profundidade. O maior risco é a inércia: bancos que se moverem cedo capturarão vantagens de custo e rentabilidade que os atrasados não conseguirão recuperar facilmente.\n\nOs números são expressivos: Segev estima que a adoção plena de IA agêntica pode reduzir os custos bancários em 20 a 25%, o equivalente a US$ 250 a US$ 500 milhões por cada US$ 100 bilhões em ativos. Ao mesmo tempo, a competição deve comprimir os lucros da indústria em 9 a 10% ao longo do tempo.\n\nSegev identifica os principais obstáculos para escalar IA nos bancos: falta de foco nas iniciativas, silos entre áreas de negócio e TI, necessidade de requalificação dos funcionários, e a armadilha de confundir capacidade liberada com valor gerado. Para líderes do setor financeiro, as implicações são claras: os vencedores serão os bancos que adotarem IA de forma precisa — não necessariamente os maiores, mas os mais estratégicos."
   },
   {
     "title": "The Download: keeping up with AI, and the future of IVF",
@@ -630,14 +774,14 @@
     "summary_pt": "Este artigo da McKinsey explora como as lideranças corporativas devem repensar a governança diante da transformação acelerada pela IA. Executivos de segurança e membros de conselhos de administração identificam quatro prioridades centrais: fortalecer a governança e a accountability, equilibrar inovação com gestão de riscos, construir capacidades de gestão de risco em tempo real e melhorar a fluência em IA nos conselhos.\n\nO debate destaca que a IA representa a maior transformação da geração atual: diferente de software convencional, ela é embedded em todos os sistemas e modifica o paradigma de segurança para uma superfície de ataque multidirecional. Organizações líderes em engenharia estão avançando rapidamente porque integram segurança ao design dos sistemas desde o início.\n\nPara conselhos e líderes de tecnologia, as implicações práticas incluem: criar comitês de tecnologia dedicados com fluência em IA, estabelecer frameworks de IA responsável com revisão contínua, e aprender com os erros de outros sem esperar errar internamente. A IA está cruzando o limiar de tópico de inovação para risco corporativo central, exigindo novos modelos de reporte e accountability explícita."
   },
   {
-    "title": "Rethinking organizational design in the age of agentic AI",
-    "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-    "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite a lack of readiness across people, processes, and workflows.&#160; The sticky&#8230;",
+    "title": "The Download: puncturing the AI jobs panic",
+    "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI’s threat to white-collar jobs, there’s still scant evidence that the technology has had a large-scale impact on&#8230;",
     "source_id": "mit",
     "first_seen": "2026-05-31",
     "pub_date": "2026-05-26",
-    "title_pt": "Repensando o design organizacional na era da IA agêntica",
-    "summary_pt": "Este artigo aborda a crescente lacuna entre ambição e execução na adoção corporativa de IA agêntica. Embora 85% das organizações declarem querer ser \"agênticas\" nos próximos três anos, 76% afirmam que sua infraestrutura e operações atuais não suportam essa mudança. O problema central é que as empresas estão adicionando agentes de IA como \"fita adesiva\" sobre modelos operacionais projetados para humanos, em vez de redesenhar a organização.\n\nO artigo apresenta o conceito de Agentic Business Transformation (ABT), estruturado em três pilares: a stack tecnológica (que deve ser reconfigurada para que agentes atuem como tecido conectivo); a força de trabalho (onde gestores precisarão gerenciar equipes híbridas humano-agente); e as métricas de sucesso (que devem migrar de outputs para outcomes).\n\nPara líderes empresariais, a conclusão prática é que implantar IA agêntica sem redesenhar o modelo operacional, a força de trabalho e as métricas de sucesso é uma receita para frustração e desaceleração do ROI. A transformação agêntica é uma mudança de sistema, não uma iniciativa pontual de tecnologia."
+    "title_pt": "O Download: desmistificando o pânico sobre IA e empregos",
+    "summary_pt": "Esta edição do The Download da MIT Technology Review confronta a narrativa dominante sobre o impacto da IA no mercado de trabalho com o que os dados realmente mostram. A análise dos dados trabalhistas dos EUA revela que o desemprego nas ocupações mais expostas à IA está, na verdade, mais baixo do que em empregos menos expostos. Também não há sinais de migrações em massa de trabalhadores de profissões ameaçadas para empregos manuais.\n\nEm paralelo, um artigo de opinião alerta para um problema mais silencioso: a IA pode estar enfraquecendo o primeiro degrau da escada de carreira. Um estudo de Stanford encontrou queda acentuada no emprego de trabalhadores jovens em ocupações expostas à IA após a disseminação da IA generativa, sugerindo que a tecnologia está substituindo as tarefas juniores que antes davam aos jovens sua primeira experiência profissional.\n\nPara líderes empresariais, a mensagem prática é clara: ao invés de reagir a manchetes alarmistas, é necessário adotar uma análise granular de como a IA está afetando diferentes segmentos da força de trabalho."
   },
   {
     "title": "Japanâs $100 billion opportunity in general-purpose robotics",
@@ -650,24 +794,14 @@
     "summary_pt": "Este artigo da McKinsey examina como o Japão, historicamente líder em robótica industrial, corre o risco de perder protagonismo na próxima onda da robótica: máquinas de uso geral alimentadas por IA avançada. O mercado global de robótica de uso geral deve crescer de menos de US$ 1 bilhão em 2025 para US$ 370 bilhões em 2040. O Japão almeja capturar 30% desse mercado, mas enfrenta déficits sérios: perde para China e EUA em patentes de humanoides, em ecossistemas de startups e em velocidade de comercialização.\n\nO artigo detalha duas abordagens competitivas emergentes: a chinesa (hardware-first, foco em implantação massiva para coleta de dados) e a americana (AI-centric, prioridade em autonomia e software). Para os fabricantes japoneses, os autores recomendam aproveitar a tradição de coordenação precisa de componentes para criar plataformas de software unificadas e desenvolver modelos de negócio de Robotics as a Service (RaaS).\n\nA conclusão é inequívoca: a próxima fase da competição em robótica não será vencida apenas por hardware — dependerá de como as empresas combinam engenharia de precisão com IA, dados e implantação em larga escala."
   },
   {
-    "title": "The Download: puncturing the AI jobs panic",
-    "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A reality check on the AI jobs hysteria Despite the growing hysteria over AI’s threat to white-collar jobs, there’s still scant evidence that the technology has had a large-scale impact on&#8230;",
+    "title": "Rethinking organizational design in the age of agentic AI",
+    "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite a lack of readiness across people, processes, and workflows.&#160; The sticky&#8230;",
     "source_id": "mit",
     "first_seen": "2026-05-31",
     "pub_date": "2026-05-26",
-    "title_pt": "O Download: desmistificando o pânico sobre IA e empregos",
-    "summary_pt": "Esta edição do The Download da MIT Technology Review confronta a narrativa dominante sobre o impacto da IA no mercado de trabalho com o que os dados realmente mostram. A análise dos dados trabalhistas dos EUA revela que o desemprego nas ocupações mais expostas à IA está, na verdade, mais baixo do que em empregos menos expostos. Também não há sinais de migrações em massa de trabalhadores de profissões ameaçadas para empregos manuais.\n\nEm paralelo, um artigo de opinião alerta para um problema mais silencioso: a IA pode estar enfraquecendo o primeiro degrau da escada de carreira. Um estudo de Stanford encontrou queda acentuada no emprego de trabalhadores jovens em ocupações expostas à IA após a disseminação da IA generativa, sugerindo que a tecnologia está substituindo as tarefas juniores que antes davam aos jovens sua primeira experiência profissional.\n\nPara líderes empresariais, a mensagem prática é clara: ao invés de reagir a manchetes alarmistas, é necessário adotar uma análise granular de como a IA está afetando diferentes segmentos da força de trabalho."
-  },
-  {
-    "title": "The next era of healthcare is personal",
-    "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-next-era-of-healthcare-is-personal",
-    "summary": "Moderna CEO StÃ©phane Bancel explains how mRNA, AI, and individualized care could transform everything from vaccines to cancer treatment.",
-    "source_id": "mckinsey",
-    "first_seen": "2026-05-31",
-    "pub_date": "2026-05-21",
-    "title_pt": "A próxima era da saúde é pessoal",
-    "summary_pt": "Neste podcast da McKinsey, Stéphane Bancel, CEO da Moderna, explica como a tecnologia mRNA e a IA estão inaugurando uma nova era de medicina personalizada que rompe com o modelo de \"tamanho único para todos\". A ideia central é que a biologia é fundamentalmente uma ciência baseada em informação: o mRNA é uma molécula de informação que instrui as células a produzirem respostas imunológicas específicas, permitindo que medicamentos sejam projetados como software.\n\nO exemplo mais concreto é o tratamento individualizado para câncer de pele: se dois pacientes forem diagnosticados com melanoma no mesmo dia, a Moderna produzirá um medicamento quimicamente diferente para cada um, baseado na instabilidade específica do DNA de cada pessoa. Dados de cinco anos de sobrevivência mostram 50% de melhoria em relação ao tratamento padrão.\n\nA IA está acelerando dois fronts: na descoberta de medicamentos, robôs realizam experimentos e dados retroalimentam sistemas de IA em ciclos contínuos; na operação corporativa, a empresa integra IA em RH, vendas, manufatura robótica e gestão de qualidade. Para líderes de saúde e tecnologia, a medicina personalizada em escala industrial não é ficção científica, mas uma realidade comercial a dois anos de distância."
+    "title_pt": "Repensando o design organizacional na era da IA agêntica",
+    "summary_pt": "Este artigo aborda a crescente lacuna entre ambição e execução na adoção corporativa de IA agêntica. Embora 85% das organizações declarem querer ser \"agênticas\" nos próximos três anos, 76% afirmam que sua infraestrutura e operações atuais não suportam essa mudança. O problema central é que as empresas estão adicionando agentes de IA como \"fita adesiva\" sobre modelos operacionais projetados para humanos, em vez de redesenhar a organização.\n\nO artigo apresenta o conceito de Agentic Business Transformation (ABT), estruturado em três pilares: a stack tecnológica (que deve ser reconfigurada para que agentes atuem como tecido conectivo); a força de trabalho (onde gestores precisarão gerenciar equipes híbridas humano-agente); e as métricas de sucesso (que devem migrar de outputs para outcomes).\n\nPara líderes empresariais, a conclusão prática é que implantar IA agêntica sem redesenhar o modelo operacional, a força de trabalho e as métricas de sucesso é uma receita para frustração e desaceleração do ROI. A transformação agêntica é uma mudança de sistema, não uma iniciativa pontual de tecnologia."
   },
   {
     "title": "Global Banking Annual Review 2026: Precision with speed",
@@ -680,6 +814,16 @@
     "summary_pt": "O relatório anual da McKinsey sobre o setor bancário global registra outro ano de resultados recordes: lucro líquido global de US$ 1,3 trilhão em 2025, alta de 7% sobre 2024. Ao mesmo tempo, o relatório lança um alerta: os múltiplos de valuation dos bancos continuam sendo os mais baixos de qualquer setor, sugerindo que investidores não acreditam que o desempenho atual seja sustentável.\n\nO relatório identifica quatro ameaças convergentes: fintechs maduras que já respondem por 17% das receitas combinadas com bancos tradicionais; neobancos como Revolut (69 milhões de clientes, ROE de 35%) e Nubank (131 milhões de clientes, ROE de 30%); IA agêntica e stablecoins que permitem que clientes otimizem depósitos e crédito sem os bancos tradicionais; e mudança no comportamento dos consumidores jovens, cuja confiança em fintechs já supera a dos bancos tradicionais.\n\nA resposta estratégica preconizada é \"precisão com velocidade\": os bancos que adotarem IA de forma estratégica — não necessariamente os maiores, mas os mais ágeis — capturarão participação de mercado dos retardatários em ritmo acelerado e sem precedentes históricos."
   },
   {
+    "title": "The next era of healthcare is personal",
+    "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-next-era-of-healthcare-is-personal",
+    "summary": "Moderna CEO StÃ©phane Bancel explains how mRNA, AI, and individualized care could transform everything from vaccines to cancer treatment.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-05-31",
+    "pub_date": "2026-05-21",
+    "title_pt": "A próxima era da saúde é pessoal",
+    "summary_pt": "Neste podcast da McKinsey, Stéphane Bancel, CEO da Moderna, explica como a tecnologia mRNA e a IA estão inaugurando uma nova era de medicina personalizada que rompe com o modelo de \"tamanho único para todos\". A ideia central é que a biologia é fundamentalmente uma ciência baseada em informação: o mRNA é uma molécula de informação que instrui as células a produzirem respostas imunológicas específicas, permitindo que medicamentos sejam projetados como software.\n\nO exemplo mais concreto é o tratamento individualizado para câncer de pele: se dois pacientes forem diagnosticados com melanoma no mesmo dia, a Moderna produzirá um medicamento quimicamente diferente para cada um, baseado na instabilidade específica do DNA de cada pessoa. Dados de cinco anos de sobrevivência mostram 50% de melhoria em relação ao tratamento padrão.\n\nA IA está acelerando dois fronts: na descoberta de medicamentos, robôs realizam experimentos e dados retroalimentam sistemas de IA em ciclos contínuos; na operação corporativa, a empresa integra IA em RH, vendas, manufatura robótica e gestão de qualidade. Para líderes de saúde e tecnologia, a medicina personalizada em escala industrial não é ficção científica, mas uma realidade comercial a dois anos de distância."
+  },
+  {
     "title": "Author Talks: Testing AIâs limits in a one-year experiment",
     "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-testing-ais-limits-in-a-one-year-experiment",
     "summary": "What happens when AI runs your life for a year? NBC News Chief Technology Analyst Joanna Stern reveals surprising gainsâand unsettling trade-offsâto embedding AI into everything from labor to leisure.",
@@ -688,6 +832,14 @@
     "pub_date": "2026-05-20",
     "title_pt": "Conversas com Autores: Testando os limites da IA em um experimento de um ano",
     "summary_pt": "Este conteúdo no formato \"Author Talks\" da McKinsey apresenta uma conversa com um autor que realizou um experimento prático de um ano para explorar e testar os limites reais da inteligência artificial em contextos profissionais e criativos. O formato da McKinsey costuma combinar entrevistas com insights práticos aplicáveis a líderes empresariais sobre como usar IA de forma inteligente e responsável, evitando tanto o ceticismo excessivo quanto o entusiasmo acrítico."
+  },
+  {
+    "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+    "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.At its annual I/O developer conference, Google announced a sweeping redesign of the search box itself — the literal text field where billions of qu...",
+    "source_id": "venturebeat",
+    "first_seen": "2026-06-01",
+    "pub_date": "2026-05-19"
   },
   {
     "title": "For industrials, the next decade belongs to builders",
@@ -700,14 +852,6 @@
     "summary_pt": "O artigo da McKinsey argumenta que, no setor industrial, a próxima década será definida por empresas e líderes que adotam uma postura proativa de construção — seja de novos negócios, capacidades digitais ou modelos operacionais — em vez de apenas otimizar o que já existe. O foco em \"builders\" sugere que a vantagem competitiva no setor industrial virá da capacidade de criar ativamente novas fontes de valor, aproveitando tendências como IA, automação e transição energética.\n\nA mensagem central é que empresas industriais tradicionais que ficarem presas em ciclos de otimização incremental perderão para novos entrantes mais ágeis que constroem ao redor das tecnologias emergentes. Para líderes do setor, o momento de agir é agora — a janela para construir vantagens duradouras está se fechando."
   },
   {
-    "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-    "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.At its annual I/O developer conference, Google announced a sweeping redesign of the search box itself — the literal text field where billions of qu...",
-    "source_id": "venturebeat",
-    "first_seen": "2026-06-01",
-    "pub_date": "2026-05-19"
-  },
-  {
     "title": "Renewables O&M reimagined: Boosting performance with AI and conventional levers",
     "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/renewables-o-and-m-reimagined-boosting-performance-with-ai-and-conventional-levers",
     "summary": "Operators with growing onshore wind and solar PV portfolios can unlock hidden value by using a mix of conventional techniques and AI to optimize their operations and maintenance strategies.",
@@ -718,16 +862,6 @@
     "summary_pt": "O setor de energia renovável, especialmente eólica onshore e solar fotovoltaica, cresce rapidamente — mas juros altos, inflação e queda nos preços de energia estão comprimindo margens. A análise da McKinsey revela uma lacuna de desempenho de 12 a 15% entre portfólios medianos e os de melhor desempenho, com valor potencial não capturado de até 9,1 milhões de euros por GW ao ano em eólica onshore.\n\nO artigo defende que a operação e manutenção (O&M) representa uma oportunidade significativa e frequentemente negligenciada. Ferramentas de manutenção preditiva baseadas em dados, agendamento otimizado por IA generativa, pacotes de trabalho digitais para técnicos em campo e gestão autônoma de inventário podem transformar operações fragmentadas em sistemas integrados e prescritivos.\n\nPara líderes do setor, rever a estratégia de O&M não é apenas uma oportunidade — é um imperativo competitivo. Em um ambiente onde as margens estão sob pressão, operadores que combinam técnicas convencionais sólidas com soluções habilitadas por IA estarão melhor posicionados para sustentar a rentabilidade de seus portfólios crescentes."
   },
   {
-    "title": "From AI table stakes to AI advantage: Building competitive moats",
-    "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/from-ai-table-stakes-to-ai-advantage-building-competitive-moats",
-    "summary": "When everyone has access to the same AI models, the winners are those who use them to build advantages that competitors canât copy.",
-    "source_id": "mckinsey",
-    "first_seen": "2026-05-31",
-    "pub_date": "2026-05-15",
-    "title_pt": "De requisito básico de IA a vantagem competitiva: construindo fossos defensáveis",
-    "summary_pt": "O artigo parte de uma constatação central: com quase 90% das organizações usando IA em pelo menos uma função de negócios, o acesso aos mesmos grandes modelos de linguagem está se tornando onipresente — e, portanto, não constitui diferencial. Assim como apps e sites não geraram vantagem sustentável por si sós, a adoção genérica de IA tampouco garante retornos superiores. A verdadeira competição agora se dá na capacidade de transformar modelos comuns em fossos competitivos difíceis de replicar.\n\nOs autores identificam seis fossos estratégicos: economias de escala, dados privilegiados, embeddedness (soluções indispensáveis ao integrar fluxos de trabalho centrais), efeitos de rede, disrupção de modelo de negócio, e ativos físicos escassos. O artigo traz exemplos quantificados: a DBS Bank reduziu o tempo de desenvolvimento de soluções de IA de 12-18 meses para 2-3 meses; o JPMorgan Chase reporta retornos de IA próximos a US$ 2 bilhões anuais.\n\nPara CEOs e conselhos, a prescrição é objetiva: identificar um a três fossos onde se tem vantagem estrutural e construir os sistemas habilitadores que os reforcem ao longo do tempo. Em um ambiente onde os modelos se tornam commodities, vencer significa ser a organização que mais rapidamente converte modelos comuns em fossos incomuns."
-  },
-  {
     "title": "Where AI is creating real value in real estate",
     "url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/where-ai-is-creating-real-value-in-real-estate",
     "summary": "Agentic AI is moving real estate beyond isolated tools toward full workflow transformationâunlocking new value, redefining roles, and reshaping how organizations operate.",
@@ -736,6 +870,16 @@
     "pub_date": "2026-05-15",
     "title_pt": "Onde a IA está criando valor real no mercado imobiliário",
     "summary_pt": "O artigo argumenta que a adoção de IA no setor imobiliário está acelerando, mas a maioria das iniciativas ainda se concentra em automação de tarefas isoladas, sem transformar fluxos de trabalho de ponta a ponta. O Instituto Global McKinsey estima que a IA pode desbloquear entre US$ 430 bilhões e US$ 550 bilhões em valor ao longo da cadeia imobiliária.\n\nO diferencial entre experimentação e transformação real reside em três práticas: vincular investimentos em IA a impacto mensurável no P&L, ter patrocínio sênior tratando a IA como iniciativa estratégica central, e adotar uma abordagem por domínios — redesenhando fluxos de trabalho completos como locação, operações prediais e gestão de ativos, em vez de automatizar passos individuais. Essa abordagem permite ganhos de 10% a 30% em indicadores como receita operacional líquida.\n\nOs domínios com maior criação de valor incluem instalações e manutenção (triagem de chamados, resolução mais rápida), locação (modelo de atendimento 24/7 que captura mais leads) e operações de back-office onde a IA pode cortar 60% a 80% do tempo necessário."
+  },
+  {
+    "title": "From AI table stakes to AI advantage: Building competitive moats",
+    "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/from-ai-table-stakes-to-ai-advantage-building-competitive-moats",
+    "summary": "When everyone has access to the same AI models, the winners are those who use them to build advantages that competitors canât copy.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-05-31",
+    "pub_date": "2026-05-15",
+    "title_pt": "De requisito básico de IA a vantagem competitiva: construindo fossos defensáveis",
+    "summary_pt": "O artigo parte de uma constatação central: com quase 90% das organizações usando IA em pelo menos uma função de negócios, o acesso aos mesmos grandes modelos de linguagem está se tornando onipresente — e, portanto, não constitui diferencial. Assim como apps e sites não geraram vantagem sustentável por si sós, a adoção genérica de IA tampouco garante retornos superiores. A verdadeira competição agora se dá na capacidade de transformar modelos comuns em fossos competitivos difíceis de replicar.\n\nOs autores identificam seis fossos estratégicos: economias de escala, dados privilegiados, embeddedness (soluções indispensáveis ao integrar fluxos de trabalho centrais), efeitos de rede, disrupção de modelo de negócio, e ativos físicos escassos. O artigo traz exemplos quantificados: a DBS Bank reduziu o tempo de desenvolvimento de soluções de IA de 12-18 meses para 2-3 meses; o JPMorgan Chase reporta retornos de IA próximos a US$ 2 bilhões anuais.\n\nPara CEOs e conselhos, a prescrição é objetiva: identificar um a três fossos onde se tem vantagem estrutural e construir os sistemas habilitadores que os reforcem ao longo do tempo. Em um ambiente onde os modelos se tornam commodities, vencer significa ser a organização que mais rapidamente converte modelos comuns em fossos incomuns."
   },
   {
     "title": "HackerOne CEO Kara Sprague on how AI is reshaping cybersecurity",
