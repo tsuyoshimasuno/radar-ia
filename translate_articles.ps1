@@ -91,9 +91,16 @@ function Get-TranslationClaude($title, $markdown) {
     return $null
 }
 
+# Flag de cota esgotada — compartilhada entre chamadas
+$script:GeminiQuotaExhausted = $false
+
 # ── Traduz via Gemini API (Google AI Studio) ──────────────────────────────────
-# Gemini free tier: 15 RPM → aguarda 4s entre chamadas + retry em 429
+# Gemini free tier: 15 RPM e cota diária limitada.
+# Estratégia: 1 retry de 65s (suficiente para reset de rate limit por minuto).
+# Se ainda 429 após retry, a cota DIÁRIA está esgotada → para tudo imediatamente.
 function Get-TranslationGemini($title, $markdown) {
+    if ($script:GeminiQuotaExhausted) { return $null }
+
     $url     = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=$GeminiKey"
     $headers = @{ "Content-Type" = "application/json" }
 
@@ -105,8 +112,7 @@ function Get-TranslationGemini($title, $markdown) {
         generationConfig = @{ temperature = 0.3; maxOutputTokens = 1500 }
     } | ConvertTo-Json -Depth 10
 
-    $maxRetries = 3
-    for ($attempt = 1; $attempt -le $maxRetries; $attempt++) {
+    for ($attempt = 1; $attempt -le 2; $attempt++) {
         try {
             $resp   = Invoke-RestMethod -Uri $url -Method POST -Headers $headers -Body $body -TimeoutSec 60
             $raw    = $resp.candidates[0].content.parts[0].text.Trim()
@@ -116,12 +122,17 @@ function Get-TranslationGemini($title, $markdown) {
         } catch {
             $msg = $_.Exception.Message
             if ($msg -match '429') {
-                $wait = 60 * $attempt
-                Write-Host "  [429] Rate limit Gemini. Aguardando ${wait}s (tentativa $attempt/$maxRetries)..." -ForegroundColor Yellow
-                Start-Sleep -Seconds $wait
+                if ($attempt -eq 1) {
+                    Write-Host "  [429] Rate limit Gemini. Aguardando 65s..." -ForegroundColor Yellow
+                    Start-Sleep -Seconds 65
+                } else {
+                    Write-Host "  [!] Cota diaria do Gemini esgotada. Artigos restantes serao traduzidos amanha." -ForegroundColor Red
+                    $script:GeminiQuotaExhausted = $true
+                    return $null
+                }
             } else {
                 Write-Host "  [!] Gemini API falhou: $msg" -ForegroundColor Red
-                break
+                return $null
             }
         }
     }
@@ -151,6 +162,12 @@ function Invoke-TranslateArticles($articles, $label) {
         if ($count -ge $MaxArticles) { break }
 
         Write-Host "[$label] $($art.title.Substring(0, [Math]::Min(65,$art.title.Length)))..." -ForegroundColor Cyan
+
+        # Para imediatamente se a cota diária do Gemini foi esgotada e não há Claude
+        if ($script:GeminiQuotaExhausted -and -not $ClaudeKey) {
+            Write-Host "  Cota Gemini esgotada. Interrompendo — restantes traduzidos no proximo run." -ForegroundColor Yellow
+            break
+        }
 
         $md = Get-ArticleMarkdown $art.url
         if (-not $md) { Start-Sleep -Seconds 2; continue }
