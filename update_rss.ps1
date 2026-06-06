@@ -7,9 +7,7 @@ $Today     = (Get-Date).ToString("yyyy-MM-dd")
 $utf8NoBom = New-Object System.Text.UTF8Encoding $false
 
 $Feeds = @(
-    [PSCustomObject]@{ sourceId = 'techcrunch';  aiOnly = $true;  fallback = $null
-                       url = 'https://techcrunch.com/category/artificial-intelligence/feed/' },
-    [PSCustomObject]@{ sourceId = 'venturebeat'; aiOnly = $true;  fallback = $null
+[PSCustomObject]@{ sourceId = 'venturebeat'; aiOnly = $true;  fallback = $null
                        url = 'https://venturebeat.com/category/ai/feed/' },
     [PSCustomObject]@{ sourceId = 'mit';         aiOnly = $false; fallback = $null
                        url = 'https://www.technologyreview.com/feed/' },

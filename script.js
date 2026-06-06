@@ -6,8 +6,7 @@ const SOURCES = [
     { id: 'mit',         name: 'MIT Tech Review',  color: '#ff6b6b', tier: 'auto',   rssUrl: 'https://www.technologyreview.com/feed/' },
     { id: 'anthropic',   name: 'Anthropic Blog',   color: '#8b5cf6', tier: 'auto',   rssUrl: null },
     { id: 'deepmind',    name: 'DeepMind Blog',    color: '#06b6d4', tier: 'auto',   rssUrl: null },
-    { id: 'techcrunch',  name: 'TechCrunch',       color: '#00c896', tier: 'rss',    rssUrl: 'https://techcrunch.com/category/artificial-intelligence/feed/' },
-    { id: 'venturebeat', name: 'VentureBeat',      color: '#f59e0b', tier: 'rss',    rssUrl: 'https://venturebeat.com/category/ai/feed/' },
+{ id: 'venturebeat', name: 'VentureBeat',      color: '#f59e0b', tier: 'rss',    rssUrl: 'https://venturebeat.com/category/ai/feed/' },
     { id: 'gartner',     name: 'Gartner',          color: '#ffb800', tier: 'manual', rssUrl: 'https://news.google.com/rss/search?q=site:gartner.com+%22artificial+intelligence%22&hl=pt-BR&gl=BR&ceid=BR:pt-419' },
     { id: 'forrester',   name: 'Forrester',        color: '#e879f9', tier: 'manual', rssUrl: null },
     { id: 'svpg',        name: 'SVPG',             color: '#f97316', tier: 'manual', rssUrl: null },
@@ -713,8 +712,7 @@ async function fetchUrlMetadata(url) {
     if (domain.includes('gartner'))    sourceId = 'gartner';
     if (domain.includes('mckinsey'))   sourceId = 'mckinsey';
     if (domain.includes('mit') || domain.includes('technologyreview')) sourceId = 'mit';
-    if (domain.includes('techcrunch')) sourceId = 'techcrunch';
-    if (domain.includes('venturebeat')) sourceId = 'venturebeat';
+if (domain.includes('venturebeat')) sourceId = 'venturebeat';
     if (domain.includes('anthropic'))  sourceId = 'anthropic';
     if (domain.includes('deepmind') || domain.includes('google')) sourceId = 'deepmind';
     if (domain.includes('forrester'))  sourceId = 'forrester';
