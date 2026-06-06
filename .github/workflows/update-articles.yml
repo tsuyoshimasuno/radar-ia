@@ -25,9 +25,15 @@ jobs:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
         run: ./update_gartner.ps1
 
-      - name: Traduzir artigos novos (Gemini + Firecrawl)
+      - name: Aplicar traduções manuais conhecidas
+        shell: pwsh
+        run: ./apply_translations.ps1
+
+      - name: Traduzir artigos novos via IA (Claude ou Gemini)
+        continue-on-error: true
         shell: pwsh
         env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
         run: ./translate_articles.ps1

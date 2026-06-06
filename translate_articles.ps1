@@ -1,8 +1,10 @@
 # translate_articles.ps1
 # Traduz títulos e gera resumos em português para artigos ainda não traduzidos.
-# Requer: $env:GEMINI_API_KEY definida (Google AI Studio - gratuito).
+# Tenta Claude API (ANTHROPIC_API_KEY) primeiro, depois Gemini (GEMINI_API_KEY) como fallback.
+# Requer Firecrawl para extrair o conteúdo completo dos artigos.
 
 param(
+    [string]$ClaudeKey    = $env:ANTHROPIC_API_KEY,
     [string]$GeminiKey    = $env:GEMINI_API_KEY,
     [string]$FirecrawlKey = $env:FIRECRAWL_API_KEY,
     [int]$MaxArticles = 999
@@ -10,11 +12,13 @@ param(
 
 if (-not $FirecrawlKey) { $FirecrawlKey = "fc-32d2207f249a4b808c42f6eba17900bb" }
 $FirecrawlKey = $FirecrawlKey.Trim().TrimStart([char]0xFEFF)
-if ($GeminiKey) { $GeminiKey = $GeminiKey.Trim().TrimStart([char]0xFEFF) }
+if ($GeminiKey)  { $GeminiKey  = $GeminiKey.Trim().TrimStart([char]0xFEFF) }
+if ($ClaudeKey)  { $ClaudeKey  = $ClaudeKey.Trim().TrimStart([char]0xFEFF) }
 
-if (-not $GeminiKey) {
-    Write-Host "ERRO: defina a variavel GEMINI_API_KEY ou passe -GeminiKey 'AIza...'" -ForegroundColor Red
-    exit 1
+if (-not $ClaudeKey -and -not $GeminiKey) {
+    Write-Host "AVISO: Nenhuma API key de traducao configurada (ANTHROPIC_API_KEY ou GEMINI_API_KEY)." -ForegroundColor Yellow
+    Write-Host "       Configure ao menos uma nas secrets do GitHub Actions para habilitar traducao automatica." -ForegroundColor Yellow
+    exit 0
 }
 
 $RssDbPath     = "$PSScriptRoot\rss_articles.json"
@@ -22,6 +26,26 @@ $GartnerDbPath = "$PSScriptRoot\gartner_articles.json"
 $RssJsPath     = "$PSScriptRoot\rss_data.js"
 $GartnerJsPath = "$PSScriptRoot\gartner_data.js"
 $utf8NoBom     = New-Object System.Text.UTF8Encoding $false
+
+$TranslationPrompt = @'
+Voce e um analista especializado em tecnologia e inteligencia artificial.
+
+Titulo original do artigo: "{TITLE}"
+
+Conteudo do artigo:
+{CONTENT}
+
+Tarefas:
+1. Traduza o titulo para portugues do Brasil de forma natural e precisa.
+2. Escreva um resumo detalhado em portugues do Brasil com 3 a 5 paragrafos cobrindo:
+   - Contexto e relevancia do tema
+   - Principais argumentos, dados ou descobertas apresentados
+   - Implicacoes praticas para empresas e lideres de tecnologia
+   - Conclusao ou posicionamento do autor
+
+Responda APENAS com JSON valido neste formato (sem markdown, sem explicacoes):
+{"title_pt":"...","summary_pt":"..."}
+'@
 
 # ── Busca conteúdo do artigo via Firecrawl ────────────────────────────────────
 function Get-ArticleMarkdown($url) {
@@ -37,35 +61,46 @@ function Get-ArticleMarkdown($url) {
     }
 }
 
-# ── Traduz e resume via Gemini API (Google AI Studio - gratuito) ──────────────
-function Get-Translation($title, $markdown) {
+# ── Traduz via Claude API (Anthropic) ─────────────────────────────────────────
+function Get-TranslationClaude($title, $markdown) {
+    $url     = "https://api.anthropic.com/v1/messages"
+    $headers = @{
+        "x-api-key"         = $ClaudeKey
+        "anthropic-version" = "2023-06-01"
+        "content-type"      = "application/json"
+    }
+
+    $excerpt = if ($markdown.Length -gt 8000) { $markdown.Substring(0, 8000) } else { $markdown }
+    $prompt  = $TranslationPrompt -replace '\{TITLE\}', $title -replace '\{CONTENT\}', $excerpt
+
+    $body = @{
+        model      = "claude-haiku-4-5-20251001"
+        max_tokens = 1500
+        messages   = @(@{ role = "user"; content = $prompt })
+    } | ConvertTo-Json -Depth 10
+
+    try {
+        $resp   = Invoke-RestMethod -Uri $url -Method POST -Headers $headers -Body $body -TimeoutSec 60
+        $raw    = $resp.content[0].text.Trim()
+        $raw    = $raw -replace '^```json\s*', '' -replace '\s*```$', ''
+        $parsed = $raw | ConvertFrom-Json
+        if ($parsed.title_pt -and $parsed.summary_pt) { return $parsed }
+    } catch {
+        Write-Host "  [!] Claude API falhou: $($_.Exception.Message)" -ForegroundColor Red
+    }
+    return $null
+}
+
+# ── Traduz via Gemini API (Google AI Studio) ──────────────────────────────────
+function Get-TranslationGemini($title, $markdown) {
     $url     = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=$GeminiKey"
     $headers = @{ "Content-Type" = "application/json" }
 
     $excerpt = if ($markdown.Length -gt 8000) { $markdown.Substring(0, 8000) } else { $markdown }
-
-    $prompt = @"
-Você é um analista especializado em tecnologia e inteligência artificial.
-
-Título original do artigo: "$title"
-
-Conteúdo do artigo:
-$excerpt
-
-Tarefas:
-1. Traduza o título para português do Brasil de forma natural e precisa.
-2. Escreva um resumo detalhado em português do Brasil com 3 a 5 parágrafos cobrindo:
-   - Contexto e relevância do tema
-   - Principais argumentos, dados ou descobertas apresentados
-   - Implicações práticas para empresas e líderes de tecnologia
-   - Conclusão ou posicionamento do autor
-
-Responda APENAS com JSON válido neste formato (sem markdown, sem explicações):
-{"title_pt":"...","summary_pt":"..."}
-"@
+    $prompt  = $TranslationPrompt -replace '\{TITLE\}', $title -replace '\{CONTENT\}', $excerpt
 
     $body = @{
-        contents        = @(@{ parts = @(@{ text = $prompt }) })
+        contents         = @(@{ parts = @(@{ text = $prompt }) })
         generationConfig = @{ temperature = 0.3; maxOutputTokens = 1500 }
     } | ConvertTo-Json -Depth 10
 
@@ -77,6 +112,21 @@ Responda APENAS com JSON válido neste formato (sem markdown, sem explicações)
         if ($parsed.title_pt -and $parsed.summary_pt) { return $parsed }
     } catch {
         Write-Host "  [!] Gemini API falhou: $($_.Exception.Message)" -ForegroundColor Red
+    }
+    return $null
+}
+
+# ── Tenta Claude primeiro, depois Gemini como fallback ────────────────────────
+function Get-Translation($title, $markdown) {
+    if ($ClaudeKey) {
+        Write-Host "    Traduzindo via Claude..." -ForegroundColor DarkGray
+        $result = Get-TranslationClaude $title $markdown
+        if ($result) { return $result }
+        Write-Host "    Tentando Gemini como fallback..." -ForegroundColor DarkGray
+    }
+    if ($GeminiKey) {
+        $result = Get-TranslationGemini $title $markdown
+        if ($result) { return $result }
     }
     return $null
 }

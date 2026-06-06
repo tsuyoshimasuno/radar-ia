@@ -470,6 +470,86 @@ A mensagem central para CEOs de tecnologia é urgente: demonstrar retornos lucra
 '@
 $translations.Add([PSCustomObject]@{url="https://www.gartner.com/en/articles/ai-value-crisis";title_pt="A IA está enfrentando uma crise de valor — e o que fazer a respeito";summary_pt=$t48s})
 
+# ── Artigo 49 ──────────────────────────────────────────────────────────────────
+$t49s = @'
+A ativista ambiental Erin Brockovich — conhecida pela batalha histórica contra a Pacific Gas & Electric nos anos 1990, eternizada no filme homônimo — está direcionando sua atenção para um novo alvo: a falta de transparência que envolve a operação dos data centers da era da inteligência artificial.
+
+Com a explosão da demanda por computação de IA, data centers estão sendo construídos em ritmo acelerado em todo o mundo. Porém, poucas informações chegam ao público sobre o impacto ambiental dessas instalações — consumo intenso de água para resfriamento, demanda crescente por energia elétrica e potenciais riscos às comunidades do entorno.
+
+A atuação de Brockovich sinaliza uma tendência importante: a pressão social e regulatória sobre o impacto ambiental da IA tende a crescer. Para líderes de tecnologia e gestores de infraestrutura, transparência proativa e compromissos mensuráveis de sustentabilidade deixam de ser opcionais e passam a ser um requisito para operar com legitimidade pública.
+'@
+$translations.Add([PSCustomObject]@{url="https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/";title_pt="Erin Brockovich mira o sigilo dos data centers";summary_pt=$t49s})
+
+# ── Artigo 50 ──────────────────────────────────────────────────────────────────
+$t50s = @'
+Por um quarto de século, a caixa de busca do Google foi uma das interfaces mais reconhecíveis da computação: um retângulo branco, um cursor piscante, algumas palavras digitadas e uma lista de links azuis. No Google I/O de 2026, a empresa anunciou a reformulação mais profunda desse paradigma desde o lançamento do buscador — a primeira mudança real na interface de busca em 25 anos.
+
+A nova interface reflete o reposicionamento estratégico do Google diante da IA generativa: em vez de retornar listas de links, a busca passa a interpretar intenções e fornecer respostas geradas por modelos de linguagem. A mudança vai além da estética — representa uma transformação no modelo de negócio publicitário que sustentou a empresa por décadas.
+
+Para líderes de marketing digital e estratégia de conteúdo, as implicações são diretas: as estratégias de SEO baseadas em posicionamento de links perdem relevância, e a presença nos resultados de IA passa a ser o novo campo de batalha pela atenção dos usuários. Quem não adaptar suas estratégias de conteúdo para ser citado por modelos de IA poderá perder visibilidade significativa nos próximos anos.
+'@
+$translations.Add([PSCustomObject]@{url="https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think";title_pt="Google redesenha a caixa de busca pela primeira vez em 25 anos — e por que isso importa mais do que parece";summary_pt=$t50s})
+
+# ── Artigo 51 ──────────────────────────────────────────────────────────────────
+$t51s = @'
+A Railway, plataforma de nuvem baseada em San Francisco que acumulou dois milhões de desenvolvedores sem gastar um centavo em marketing, anunciou uma rodada Série B de US$ 100 milhões liderada pela TQ Ventures, com participação de FPV Ventures, Redpoint e outros. A captação ocorre em um momento em que a demanda explosiva por aplicações de inteligência artificial expõe as limitações da infraestrutura de nuvem tradicional.
+
+Ao contrário das grandes provedoras de nuvem, a Railway se posiciona como uma plataforma de deploy simplificada e nativamente adaptada para cargas de trabalho de IA — reduzindo a complexidade operacional que costuma acompanhar implantações em AWS, GCP ou Azure. O modelo de crescimento orgânico, baseado em boca a boca entre desenvolvedores, é um diferencial relevante em um mercado dominado por grandes gastos em marketing.
+
+Para líderes de engenharia e CTOs, a Railway representa uma aposta interessante na simplificação do stack de infraestrutura para IA — especialmente para equipes que buscam velocidade de deploy sem o overhead operacional das nuvens tradicionais. O crescimento da base de usuários sem investimento em marketing sugere forte product-market fit e relevância real no ecossistema de desenvolvimento.
+'@
+$translations.Add([PSCustomObject]@{url="https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud";title_pt="Railway capta US$ 100 milhões para desafiar a AWS com infraestrutura de nuvem nativa para IA";summary_pt=$t51s})
+
+# ── Artigo 52 ──────────────────────────────────────────────────────────────────
+$t52s = @'
+A revolução da IA no desenvolvimento de software tem um preço elevado. O Claude Code, agente de terminal da Anthropic capaz de escrever, depurar e implantar código de forma autônoma, conquistou a imaginação de desenvolvedores em todo o mundo — mas sua precificação, que varia de US$ 20 a US$ 200 mensais dependendo do uso, gerou crescente resistência entre os próprios programadores que deveria beneficiar.
+
+Surgindo como alternativa de código aberto, o Goose — desenvolvido pela Block — oferece capacidades similares de agente de codificação sem custo de assinatura. A comparação expõe uma tensão estrutural no mercado de ferramentas de IA para desenvolvedores: a adoção acelerada criou dependência de ferramentas pagas, enquanto o ecossistema open source responde com alternativas cada vez mais competitivas.
+
+Para equipes de engenharia e líderes de TI, a escolha entre ferramentas pagas com suporte robusto e alternativas gratuitas com maior risco operacional tornou-se uma decisão estratégica relevante. O custo total de propriedade das ferramentas de IA para desenvolvimento precisa ser avaliado com rigor — custos variáveis baseados em tokens podem tornar orçamentos de engenharia imprevisíveis à medida que o uso escala.
+'@
+$translations.Add([PSCustomObject]@{url="https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free";title_pt="Claude Code custa até US$ 200 por mês. O Goose faz o mesmo de graça.";summary_pt=$t52s})
+
+# ── Artigo 53 ──────────────────────────────────────────────────────────────────
+$t53s = @'
+Alfred Wahlforss, fundador da Listen Labs, estava sem opções: sua startup precisava contratar mais de 100 engenheiros, mas competir com os pacotes de US$ 100 milhões oferecidos por Mark Zuckerberg parecia impossível. A solução foi gastar US$ 5.000 — um quinto do orçamento de marketing — em um outdoor em San Francisco exibindo o que parecia ser nonsense: cinco sequências de números aleatórios. Na verdade, eram tokens de IA que, decodificados, revelavam uma mensagem de recrutamento. A campanha viralizou e trouxe a visibilidade necessária para uma rodada de US$ 69 milhões.
+
+A Listen Labs desenvolve uma plataforma de entrevistas com clientes alimentada por IA, permitindo que empresas conduzam pesquisas qualitativas em escala sem a necessidade de moderadores humanos. Os agentes de IA conduzem entrevistas aprofundadas, fazem perguntas de acompanhamento e sintetizam insights — comprimindo semanas de pesquisa qualitativa em horas.
+
+Para líderes de pesquisa de mercado, produto e experiência do cliente, a Listen Labs representa uma mudança significativa na forma como insights podem ser coletados. A democratização de entrevistas qualitativas aprofundadas — antes restrita por custo e tempo — abre caminho para ciclos de feedback muito mais frequentes e granulares com usuários reais.
+'@
+$translations.Add([PSCustomObject]@{url="https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai";title_pt="Listen Labs capta US$ 69 milhões após viral de outdoor com tokens de IA para escalar entrevistas com clientes";summary_pt=$t53s})
+
+# ── Artigo 54 ──────────────────────────────────────────────────────────────────
+$t54s = @'
+A Salesforce anunciou uma reformulação completa do Slackbot, o assistente integrado ao Slack, transformando-o de uma simples ferramenta de notificações em um agente de IA totalmente funcional. O novo Slackbot é capaz de buscar dados empresariais, redigir documentos e executar ações em nome dos colaboradores — disputando diretamente o espaço ocupado pelo Microsoft Copilot e pelo Google Workspace AI.
+
+Disponível para clientes Business+ e Enterprise+, o novo Slackbot acessa informações de sistemas integrados como Salesforce CRM, ferramentas de RH e outras aplicações corporativas. A Salesforce posiciona o produto como o "agente nativo" para times que já vivem dentro do Slack, eliminando a necessidade de alternar entre ferramentas para completar tarefas.
+
+Para líderes de tecnologia e operações, a guerra pela IA corporativa no ambiente de trabalho se intensifica: quem definir o assistente padrão nos fluxos de trabalho diários ganhará influência significativa sobre produtividade, dados e adoção de novos produtos. A decisão de qual plataforma de IA adotar para o dia a dia das equipes tem implicações estratégicas de longo prazo para o ecossistema de ferramentas corporativas.
+'@
+$translations.Add([PSCustomObject]@{url="https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and";title_pt="Salesforce lança novo agente de IA no Slackbot em batalha contra Microsoft e Google pela IA corporativa";summary_pt=$t54s})
+
+# ── Artigo 55 ──────────────────────────────────────────────────────────────────
+$t55s = @'
+A Anthropic lançou o Cowork, uma nova capacidade agêntica que estende o poder do Claude Code — seu produto de maior sucesso — para usuários não técnicos. De acordo com fontes internas, a equipe construiu o recurso inteiro em aproximadamente uma semana e meia, utilizando o próprio Claude Code para isso. O lançamento representa um ponto de inflexão importante na corrida para levar agentes de IA práticos ao público geral.
+
+Ao contrário do Claude Code, que opera via terminal e exige familiaridade técnica, o Cowork atua diretamente sobre arquivos no desktop — analisando documentos, organizando informações, gerando conteúdo e executando tarefas de forma autônoma em interfaces familiares ao usuário comum. Não é necessário escrever código, configurar ambientes ou entender de APIs.
+
+Para líderes de produto e empresas que buscam democratizar o uso de IA internamente, o Cowork sinaliza que a fronteira da automação agêntica avança rapidamente em direção a usuários sem perfil técnico. Ferramentas que antes exigiam engenheiros para serem operadas passam a ser acessíveis a qualquer colaborador, acelerando a adoção corporativa de IA além dos times técnicos.
+'@
+$translations.Add([PSCustomObject]@{url="https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no";title_pt="Anthropic lança Cowork, agente do Claude Desktop que trabalha nos seus arquivos — sem precisar programar";summary_pt=$t55s})
+
+# ── Artigo 56 ──────────────────────────────────────────────────────────────────
+$t56s = @'
+A Nous Research, startup de IA de código aberto financiada pela Paradigm — firma de venture capital focada em cripto —, lançou o NousCoder-14B, um novo modelo de programação competitivo. Com apenas 14 bilhões de parâmetros, o modelo afirma igualar ou superar sistemas proprietários muito maiores, e foi treinado em apenas quatro dias usando 48 GPUs Nvidia B200.
+
+O lançamento chega num momento em que ferramentas como o Claude Code dominam a atenção do mercado de desenvolvimento com IA, mas com preços que geram resistência crescente. O NousCoder-14B posiciona-se como uma alternativa open source de alto desempenho para agentes de codificação — potencialmente rodando localmente sem custos de inferência por token.
+
+Para CTOs, líderes de engenharia e times de plataforma, a chegada de modelos open source competitivos em programação tem implicações práticas relevantes: é possível construir agentes de código internos com controle total sobre dados e propriedade intelectual, sem dependência de APIs externas e sem os custos variáveis que têm gerado atrito no mercado de ferramentas de IA para desenvolvimento.
+'@
+$translations.Add([PSCustomObject]@{url="https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in";title_pt="NousCoder-14B da Nous Research é modelo open source de codificação que chega no momento do Claude Code";summary_pt=$t56s})
+
 # ── Cria lookup por URL ───────────────────────────────────────────────────────
 $lookup = @{}
 foreach ($t in $translations) { $lookup[$t.url] = $t }
