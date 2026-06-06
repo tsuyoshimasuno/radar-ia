@@ -25,6 +25,13 @@ jobs:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
         run: ./update_gartner.ps1
 
+      - name: Atualizar artigos TI Inside
+        continue-on-error: true
+        shell: pwsh
+        env:
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+        run: ./update_tiinside.ps1
+
       - name: Aplicar traduções manuais conhecidas
         shell: pwsh
         run: ./apply_translations.ps1

@@ -10,6 +10,7 @@ const SOURCES = [
     { id: 'gartner',     name: 'Gartner',          color: '#ffb800', tier: 'manual', rssUrl: 'https://news.google.com/rss/search?q=site:gartner.com+%22artificial+intelligence%22&hl=pt-BR&gl=BR&ceid=BR:pt-419' },
     { id: 'forrester',   name: 'Forrester',        color: '#e879f9', tier: 'manual', rssUrl: null },
     { id: 'svpg',        name: 'SVPG',             color: '#f97316', tier: 'manual', rssUrl: null },
+    { id: 'tiinside',   name: 'TI Inside',        color: '#10b981', tier: 'auto',   rssUrl: null },
 ];
 
 const SOURCE_MAP = Object.fromEntries(SOURCES.map(s => [s.id, s]));
