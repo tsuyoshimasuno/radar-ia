@@ -500,21 +500,37 @@ function buildArticleRow(art) {
     return row;
 }
 
+function renderInline(text) {
+    return escapeHtml(text).replace(/\*\*([^*\n]+)\*\*/g, '<strong>$1</strong>');
+}
+
 function summaryToHtml(text) {
     if (!text) return '<p>Resumo não disponível para este artigo.</p>';
     return text.split(/\n\n+/).map(para => {
+        para = para.trim();
+        if (!para) return '';
         const lines = para.split('\n');
-        if (lines.some(l => l.startsWith('- '))) {
-            const nonBullet = lines.filter(l => !l.startsWith('- '));
-            const bullets   = lines.filter(l =>  l.startsWith('- '));
+
+        // Bloco de bullets (linhas começando com "- ")
+        if (lines.some(l => l.trimStart().startsWith('- '))) {
+            const nonBullet = lines.filter(l => !l.trimStart().startsWith('- '));
+            const bullets   = lines.filter(l =>  l.trimStart().startsWith('- '));
             const label = nonBullet.length
-                ? `<p class="summary-label">${escapeHtml(nonBullet.join(' ').trim())}</p>`
+                ? `<p class="summary-label">${renderInline(nonBullet.join(' ').trim())}</p>`
                 : '';
-            const items = bullets.map(l => `<li>${escapeHtml(l.slice(2))}</li>`).join('');
+            const items = bullets.map(l => `<li>${renderInline(l.replace(/^\s*-\s*/, ''))}</li>`).join('');
             return `${label}<ul>${items}</ul>`;
         }
-        return `<p>${escapeHtml(para.trim())}</p>`;
-    }).join('');
+
+        // Cabeçalho de seção: parágrafo inteiro com **negrito**
+        const headerMatch = para.match(/^\*\*([^*]+)\*\*$/);
+        if (headerMatch) {
+            return `<h4 class="summary-section">${escapeHtml(headerMatch[1])}</h4>`;
+        }
+
+        // Parágrafo normal com possível negrito inline
+        return `<p>${renderInline(para)}</p>`;
+    }).filter(Boolean).join('');
 }
 
 function escapeHtml(str) {

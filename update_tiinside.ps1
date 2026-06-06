@@ -10,11 +10,15 @@
 
 param(
     [string]$FirecrawlKey = $env:FIRECRAWL_API_KEY,
+    [string]$ClaudeKey    = $env:ANTHROPIC_API_KEY,
+    [string]$GeminiKey    = $env:GEMINI_API_KEY,
     [string]$CutoffDate   = (Get-Date).ToString("yyyy-MM-dd")
 )
 
 if (-not $FirecrawlKey) { $FirecrawlKey = "fc-32d2207f249a4b808c42f6eba17900bb" }
 $FirecrawlKey = $FirecrawlKey.Trim().TrimStart([char]0xFEFF)
+if ($ClaudeKey) { $ClaudeKey = $ClaudeKey.Trim().TrimStart([char]0xFEFF) }
+if ($GeminiKey) { $GeminiKey = $GeminiKey.Trim().TrimStart([char]0xFEFF) }
 
 $ListingUrl = "https://tiinside.com.br/top-news/inteligencia-artificial/"
 $RssDbPath  = "$PSScriptRoot\rss_articles.json"
@@ -22,6 +26,76 @@ $RssJsPath  = "$PSScriptRoot\rss_data.js"
 $Today      = (Get-Date).ToString("yyyy-MM-dd")
 $utf8NoBom  = New-Object System.Text.UTF8Encoding $false
 $Headers    = @{ "Authorization" = "Bearer $FirecrawlKey"; "Content-Type" = "application/json" }
+
+# Prompt para gerar resumo estruturado em PT-BR (artigo ja esta em portugues)
+$SummaryPrompt = @'
+Voce e um analista de tecnologia e inteligencia artificial escrevendo para executivos brasileiros.
+
+Titulo: "{TITLE}"
+
+Conteudo do artigo:
+{CONTENT}
+
+Escreva um resumo estruturado em portugues do Brasil usando este formato:
+
+**Titulo da Secao 1**
+- Ponto principal com **dado ou nome em negrito** se relevante
+- Outro ponto importante
+- Contexto ou impacto
+
+**Titulo da Secao 2**
+- Achado ou dado relevante com **destaque em negrito**
+- Implicacao pratica para empresas ou lideres
+
+Use 2 a 4 secoes com 2 a 4 bullets cada. Destaque numeros, nomes de empresas e conceitos-chave em **negrito**.
+
+Responda APENAS com o resumo formatado (sem JSON, sem explicacoes, direto o texto).
+'@
+
+function Get-StructuredSummary($title, $content) {
+    $excerpt = if ($content.Length -gt 6000) { $content.Substring(0, 6000) } else { $content }
+    $prompt  = $SummaryPrompt -replace '\{TITLE\}', $title -replace '\{CONTENT\}', $excerpt
+
+    # Tenta Claude primeiro
+    if ($ClaudeKey) {
+        try {
+            $body = @{
+                model      = "claude-haiku-4-5-20251001"
+                max_tokens = 800
+                messages   = @(@{ role = "user"; content = $prompt })
+            } | ConvertTo-Json -Depth 10
+            $resp = Invoke-RestMethod -Uri "https://api.anthropic.com/v1/messages" `
+                -Method POST -TimeoutSec 60 `
+                -Headers @{ "x-api-key" = $ClaudeKey; "anthropic-version" = "2023-06-01"; "content-type" = "application/json" } `
+                -Body $body
+            $result = $resp.content[0].text.Trim()
+            if ($result.Length -gt 100) { return $result }
+        } catch {
+            Write-Host "    [!] Claude falhou para summary: $($_.Exception.Message)" -ForegroundColor DarkYellow
+        }
+    }
+
+    # Fallback: Gemini
+    if ($GeminiKey) {
+        try {
+            $body = @{
+                contents         = @(@{ parts = @(@{ text = $prompt }) })
+                generationConfig = @{ temperature = 0.3; maxOutputTokens = 800 }
+            } | ConvertTo-Json -Depth 10
+            $resp = Invoke-RestMethod `
+                -Uri "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=$GeminiKey" `
+                -Method POST -TimeoutSec 60 `
+                -Headers @{ "Content-Type" = "application/json" } `
+                -Body $body
+            $result = $resp.candidates[0].content.parts[0].text.Trim()
+            if ($result.Length -gt 100) { return $result }
+        } catch {
+            Write-Host "    [!] Gemini falhou para summary: $($_.Exception.Message)" -ForegroundColor DarkYellow
+        }
+    }
+
+    return $null  # sem API: usa o corpo do artigo diretamente
+}
 
 Write-Host "=== TIInside: buscando artigos (data >= $CutoffDate) ===" -ForegroundColor Magenta
 
@@ -131,9 +205,16 @@ foreach ($item in ($candidatos | Sort-Object pub_date)) {
     $shortSummary = if ($bodyLines.Count -gt 0) { $bodyLines[0] } else { "" }
     if ($shortSummary.Length -gt 400) { $shortSummary = $shortSummary.Substring(0, 397) + "..." }
 
-    # summary_pt: corpo completo em PT-BR (para painel de leitura, max 3000 chars)
-    $summaryPt = $articleBody
-    if ($summaryPt.Length -gt 3000) { $summaryPt = $summaryPt.Substring(0, 2997) + "..." }
+    # summary_pt: tenta gerar resumo estruturado via IA; fallback para corpo do artigo
+    $summaryPt = $null
+    if ($ClaudeKey -or $GeminiKey) {
+        $summaryPt = Get-StructuredSummary $title $articleBody
+        if ($summaryPt) { Write-Host "    [resumo estruturado gerado]" -ForegroundColor DarkGreen }
+    }
+    if (-not $summaryPt) {
+        $summaryPt = $articleBody
+        if ($summaryPt.Length -gt 3000) { $summaryPt = $summaryPt.Substring(0, 2997) + "..." }
+    }
 
     $entry = [PSCustomObject]@{
         title      = $title

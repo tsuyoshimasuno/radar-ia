@@ -37,13 +37,15 @@ Conteudo do artigo:
 
 Tarefas:
 1. Traduza o titulo para portugues do Brasil de forma natural e precisa.
-2. Escreva um resumo detalhado em portugues do Brasil com 3 a 5 paragrafos cobrindo:
-   - Contexto e relevancia do tema
-   - Principais argumentos, dados ou descobertas apresentados
-   - Implicacoes praticas para empresas e lideres de tecnologia
-   - Conclusao ou posicionamento do autor
+2. Escreva um resumo estruturado em portugues do Brasil usando o formato abaixo:
 
-Responda APENAS com JSON valido neste formato (sem markdown, sem explicacoes):
+FORMATO DO RESUMO (use exatamente esta estrutura de markdown):
+- Use **Titulo da Secao** em uma linha separada para cada bloco tematico (2 a 4 secoes)
+- Abaixo de cada titulo, use bullets "- " para os pontos principais (2 a 4 bullets por secao)
+- Use **negrito** inline para destacar numeros, nomes de empresas, conceitos-chave e dados relevantes
+- Cubra: contexto e relevancia, principais dados/descobertas, implicacoes praticas para lideres
+
+Responda APENAS com JSON valido neste formato (sem markdown externo, sem explicacoes):
 {"title_pt":"...","summary_pt":"..."}
 '@
 

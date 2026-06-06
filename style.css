@@ -1201,6 +1201,21 @@ body {
     top: 0.05em;
 }
 
+.reading-summary h4.summary-section {
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: var(--text-primary);
+    margin: 1.1rem 0 0.35rem;
+    padding-left: 0.6rem;
+    border-left: 2px solid var(--primary-color);
+    letter-spacing: 0.01em;
+}
+
+.reading-summary strong {
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
 .reading-topics {
     list-style: none;
     display: flex;
