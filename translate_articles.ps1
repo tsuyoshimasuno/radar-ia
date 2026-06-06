@@ -92,6 +92,7 @@ function Get-TranslationClaude($title, $markdown) {
 }
 
 # ── Traduz via Gemini API (Google AI Studio) ──────────────────────────────────
+# Gemini free tier: 15 RPM → aguarda 4s entre chamadas + retry em 429
 function Get-TranslationGemini($title, $markdown) {
     $url     = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=$GeminiKey"
     $headers = @{ "Content-Type" = "application/json" }
@@ -104,14 +105,25 @@ function Get-TranslationGemini($title, $markdown) {
         generationConfig = @{ temperature = 0.3; maxOutputTokens = 1500 }
     } | ConvertTo-Json -Depth 10
 
-    try {
-        $resp   = Invoke-RestMethod -Uri $url -Method POST -Headers $headers -Body $body -TimeoutSec 60
-        $raw    = $resp.candidates[0].content.parts[0].text.Trim()
-        $raw    = $raw -replace '^```json\s*', '' -replace '\s*```$', ''
-        $parsed = $raw | ConvertFrom-Json
-        if ($parsed.title_pt -and $parsed.summary_pt) { return $parsed }
-    } catch {
-        Write-Host "  [!] Gemini API falhou: $($_.Exception.Message)" -ForegroundColor Red
+    $maxRetries = 3
+    for ($attempt = 1; $attempt -le $maxRetries; $attempt++) {
+        try {
+            $resp   = Invoke-RestMethod -Uri $url -Method POST -Headers $headers -Body $body -TimeoutSec 60
+            $raw    = $resp.candidates[0].content.parts[0].text.Trim()
+            $raw    = $raw -replace '^```json\s*', '' -replace '\s*```$', ''
+            $parsed = $raw | ConvertFrom-Json
+            if ($parsed.title_pt -and $parsed.summary_pt) { return $parsed }
+        } catch {
+            $msg = $_.Exception.Message
+            if ($msg -match '429') {
+                $wait = 60 * $attempt
+                Write-Host "  [429] Rate limit Gemini. Aguardando ${wait}s (tentativa $attempt/$maxRetries)..." -ForegroundColor Yellow
+                Start-Sleep -Seconds $wait
+            } else {
+                Write-Host "  [!] Gemini API falhou: $msg" -ForegroundColor Red
+                break
+            }
+        }
     }
     return $null
 }
@@ -150,7 +162,9 @@ function Invoke-TranslateArticles($articles, $label) {
             Write-Host "  [OK] $($result.title_pt.Substring(0,[Math]::Min(65,$result.title_pt.Length)))" -ForegroundColor Green
             $count++
         }
-        Start-Sleep -Milliseconds 600
+        # Gemini free tier: 15 RPM → 4s mínimo; Claude suporta cadência maior
+        $sleepMs = if ($ClaudeKey) { 1000 } else { 5000 }
+        Start-Sleep -Milliseconds $sleepMs
     }
     return $count
 }
