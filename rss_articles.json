@@ -1,18 +1,18 @@
 [
   {
-    "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-    "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out&#8230;",
-    "source_id": "mit",
-    "first_seen": "2026-08-14",
-    "pub_date": "2026-08-13"
-  },
-  {
     "title": "How kids feel about AI, in their own words",
     "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
     "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;",
     "source_id": "mit",
     "first_seen": "2026-08-13",
+    "pub_date": "2026-08-13"
+  },
+  {
+    "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
+    "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-08-14",
     "pub_date": "2026-08-13"
   },
   {
@@ -32,14 +32,6 @@
     "pub_date": "2026-08-12"
   },
   {
-    "title": "Agentic AI and the future of global business services",
-    "url": "https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-and-the-future-of-global-business-services",
-    "summary": "Agentic AI is reshaping global business services, but realizing its potential will require leaders to rethink workflows, talent, and operating models.",
-    "source_id": "mckinsey",
-    "first_seen": "2026-08-12",
-    "pub_date": "2026-08-11"
-  },
-  {
     "title": "How AI-led commercial transformation can power industrial growth",
     "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/how-ai-led-commercial-transformation-can-power-industrial-growth",
     "summary": "Industrial companies are entering the most consequential commercial reset in decades—and many are less prepared than they believe.",
@@ -56,9 +48,17 @@
     "pub_date": "2026-08-11"
   },
   {
-    "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
-    "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&#8230;",
+    "title": "Agentic AI and the future of global business services",
+    "url": "https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-and-the-future-of-global-business-services",
+    "summary": "Agentic AI is reshaping global business services, but realizing its potential will require leaders to rethink workflows, talent, and operating models.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-08-12",
+    "pub_date": "2026-08-11"
+  },
+  {
+    "title": "AI professors are negotiating the new realities of academic research",
+    "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;",
     "source_id": "mit",
     "first_seen": "2026-08-11",
     "pub_date": "2026-08-10"
@@ -72,20 +72,28 @@
     "pub_date": "2026-08-10"
   },
   {
-    "title": "AI professors are negotiating the new realities of academic research",
-    "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;",
-    "source_id": "mit",
-    "first_seen": "2026-08-11",
-    "pub_date": "2026-08-10"
-  },
-  {
     "title": "These startups are chasing the next big thing in LLMs",
     "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
     "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&#8230;",
     "source_id": "mit",
     "first_seen": "2026-08-10",
     "pub_date": "2026-08-10"
+  },
+  {
+    "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+    "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-08-11",
+    "pub_date": "2026-08-10"
+  },
+  {
+    "title": "AI fluency: The next foundation of US economic competitiveness",
+    "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/ai-fluency-the-next-foundation-of-us-economic-competitiveness",
+    "summary": "AI is advancing faster than organizations can adapt. Reaching the next productivity frontier will depend on workers across the economy acquiring the needed habits and skills.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-08-07",
+    "pub_date": "2026-08-07"
   },
   {
     "title": "How to close the agentic adoption gap",
@@ -104,17 +112,9 @@
     "pub_date": "2026-08-07"
   },
   {
-    "title": "AI fluency: The next foundation of US economic competitiveness",
-    "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/ai-fluency-the-next-foundation-of-us-economic-competitiveness",
-    "summary": "AI is advancing faster than organizations can adapt. Reaching the next productivity frontier will depend on workers across the economy acquiring the needed habits and skills.",
-    "source_id": "mckinsey",
-    "first_seen": "2026-08-07",
-    "pub_date": "2026-08-07"
-  },
-  {
-    "title": "Growth favors the bold: AI as force multiplier",
-    "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/growth-favors-the-bold-ai-as-force-multiplier",
-    "summary": "Seven myths hamper growth in the new world of AI-driven growth. Overcoming them requires leaders to focus on redesigning how commercial decisions are made.",
+    "title": "How AI-enabled execution became Reckitt’s ‘tenfold game changer’",
+    "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/how-we-help-clients/how-ai-enabled-execution-became-reckitts-tenfold-game-changer",
+    "summary": "RGMx helped Reckitt improve pricing, promotions, and assortment. Smart Execution helps those choices land at the point of sale by using AI and data to strengthen product availability and retailer partnerships.",
     "source_id": "mckinsey",
     "first_seen": "2026-08-07",
     "pub_date": "2026-08-06"
@@ -128,9 +128,9 @@
     "pub_date": "2026-08-06"
   },
   {
-    "title": "How AI-enabled execution became Reckitt’s ‘tenfold game changer’",
-    "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/how-we-help-clients/how-ai-enabled-execution-became-reckitts-tenfold-game-changer",
-    "summary": "RGMx helped Reckitt improve pricing, promotions, and assortment. Smart Execution helps those choices land at the point of sale by using AI and data to strengthen product availability and retailer partnerships.",
+    "title": "Growth favors the bold: AI as force multiplier",
+    "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/growth-favors-the-bold-ai-as-force-multiplier",
+    "summary": "Seven myths hamper growth in the new world of AI-driven growth. Overcoming them requires leaders to focus on redesigning how commercial decisions are made.",
     "source_id": "mckinsey",
     "first_seen": "2026-08-07",
     "pub_date": "2026-08-06"
@@ -168,19 +168,19 @@
     "pub_date": "2026-08-03"
   },
   {
-    "title": "Trump’s AI protectionism has come for robotics",
-    "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;",
-    "source_id": "mit",
-    "first_seen": "2026-08-04",
-    "pub_date": "2026-08-03"
-  },
-  {
     "title": "Here’s why AI agents lie and cheat to reach their goals",
     "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
     "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
     "source_id": "mit",
     "first_seen": "2026-08-03",
+    "pub_date": "2026-08-03"
+  },
+  {
+    "title": "Trump’s AI protectionism has come for robotics",
+    "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-08-04",
     "pub_date": "2026-08-03"
   },
   {
@@ -200,6 +200,14 @@
     "pub_date": "2026-07-31"
   },
   {
+    "title": "AI transformations: Views from AMD, Dell, Liquid AI, and Mercedes-Benz",
+    "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/ai-transformations-views-from-amd-dell-liquid-ai-and-mercedes-benz",
+    "summary": "Executives from AMD, Dell, Liquid AI, and Mercedes-Benz discuss how to structure processes with AI in mind and why enterprise-wide transformation is about people, not just technology.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-07-31",
+    "pub_date": "2026-07-30"
+  },
+  {
     "title": "The Download: tricking LLMs, and reviving geothermal plants",
     "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack  It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a&#8230;",
@@ -208,10 +216,10 @@
     "pub_date": "2026-07-30"
   },
   {
-    "title": "The shift to 800-volt DC at data centers: Implications for providers",
-    "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-shift-to-800-volt-dc-at-data-centers-implications-for-providers",
-    "summary": "As AI increases energy demand, data centers are moving to higher voltage systems, creating new opportunities for electricity and component providers.",
-    "source_id": "mckinsey",
+    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
+    "source_id": "mit",
     "first_seen": "2026-07-31",
     "pub_date": "2026-07-30"
   },
@@ -232,33 +240,25 @@
     "pub_date": "2026-07-30"
   },
   {
-    "title": "AI transformations: Views from AMD, Dell, Liquid AI, and Mercedes-Benz",
-    "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/ai-transformations-views-from-amd-dell-liquid-ai-and-mercedes-benz",
-    "summary": "Executives from AMD, Dell, Liquid AI, and Mercedes-Benz discuss how to structure processes with AI in mind and why enterprise-wide transformation is about people, not just technology.",
+    "title": "The shift to 800-volt DC at data centers: Implications for providers",
+    "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-shift-to-800-volt-dc-at-data-centers-implications-for-providers",
+    "summary": "As AI increases energy demand, data centers are moving to higher voltage systems, creating new opportunities for electricity and component providers.",
     "source_id": "mckinsey",
     "first_seen": "2026-07-31",
     "pub_date": "2026-07-30"
   },
   {
-    "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-    "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-    "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which&#8230;",
-    "source_id": "mit",
-    "first_seen": "2026-07-31",
-    "pub_date": "2026-07-30"
-  },
-  {
-    "title": "The Download: a chip talent battle, and deflating AI hype",
-    "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix   Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading&#8230;",
+    "title": "The AI Hype Index: Unsexy AI",
+    "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+    "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;",
     "source_id": "mit",
     "first_seen": "2026-07-31",
     "pub_date": "2026-07-29"
   },
   {
-    "title": "The AI Hype Index: Unsexy AI",
-    "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-    "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,&#8230;",
+    "title": "The Download: a chip talent battle, and deflating AI hype",
+    "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix   Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading&#8230;",
     "source_id": "mit",
     "first_seen": "2026-07-31",
     "pub_date": "2026-07-29"
@@ -336,17 +336,17 @@
     "pub_date": "2026-07-23"
   },
   {
-    "title": "Powering supply chain with agentic AI",
-    "url": "https://www.mckinsey.com/capabilities/operations/our-insights/powering-supply-chain-with-agentic-ai",
-    "summary": "Agentic AI could fundamentally reshape supply chain operations, but realizing its potential will require companies to move beyond isolated use cases and orchestrate work across people, processes, and technology.",
+    "title": "Evolving model risk management in the age of AI",
+    "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/evolving-model-risk-management-in-the-age-of-ai",
+    "summary": "Banks are evolving their model risk management frameworks in light of supporting rapid adoption and growth of AI models, while also ensuring risk-sensitive value creation.",
     "source_id": "mckinsey",
     "first_seen": "2026-07-31",
     "pub_date": "2026-07-22"
   },
   {
-    "title": "Evolving model risk management in the age of AI",
-    "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/evolving-model-risk-management-in-the-age-of-ai",
-    "summary": "Banks are evolving their model risk management frameworks in light of supporting rapid adoption and growth of AI models, while also ensuring risk-sensitive value creation.",
+    "title": "Powering supply chain with agentic AI",
+    "url": "https://www.mckinsey.com/capabilities/operations/our-insights/powering-supply-chain-with-agentic-ai",
+    "summary": "Agentic AI could fundamentally reshape supply chain operations, but realizing its potential will require companies to move beyond isolated use cases and orchestrate work across people, processes, and technology.",
     "source_id": "mckinsey",
     "first_seen": "2026-07-31",
     "pub_date": "2026-07-22"
@@ -360,17 +360,17 @@
     "pub_date": "2026-07-22"
   },
   {
-    "title": "The cost of intelligence: How CIOs can manage AI demand at scale",
-    "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-cost-of-intelligence-how-cios-can-manage-ai-demand-at-scale",
-    "summary": "As AI costs spiral, CIOs need to manage enterprise AI demand to optimize for outcomes, not just cost.",
+    "title": "From instinct to real-time insight: Transforming steel sales with AI",
+    "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/overview/from-instinct-to-real-time-insight-transforming-steel-sales-with-ai",
+    "summary": "ArcelorMittal Brazil partnered with McKinsey to redesign its sales journey. A gen AI–powered tool removed the friction of everyday selling, freeing salespeople to focus on what mattered most: creating value for customers.",
     "source_id": "mckinsey",
     "first_seen": "2026-07-31",
     "pub_date": "2026-07-20"
   },
   {
-    "title": "From instinct to real-time insight: Transforming steel sales with AI",
-    "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/overview/from-instinct-to-real-time-insight-transforming-steel-sales-with-ai",
-    "summary": "ArcelorMittal Brazil partnered with McKinsey to redesign its sales journey. A gen AI–powered tool removed the friction of everyday selling, freeing salespeople to focus on what mattered most: creating value for customers.",
+    "title": "The cost of intelligence: How CIOs can manage AI demand at scale",
+    "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-cost-of-intelligence-how-cios-can-manage-ai-demand-at-scale",
+    "summary": "As AI costs spiral, CIOs need to manage enterprise AI demand to optimize for outcomes, not just cost.",
     "source_id": "mckinsey",
     "first_seen": "2026-07-31",
     "pub_date": "2026-07-20"
@@ -400,17 +400,9 @@
     "pub_date": "2026-07-16"
   },
   {
-    "title": "The future of delivering software as a medical device",
-    "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device",
-    "summary": "Software is reshaping how medtech organizations create value. A new approach to quality assurance during software-as-a-medical-device development, supported by agentic AI, can help them realize it.",
-    "source_id": "mckinsey",
-    "first_seen": "2026-07-31",
-    "pub_date": "2026-07-15"
-  },
-  {
-    "title": "How can the public sector meet the AI moment?",
-    "url": "https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector",
-    "summary": "AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how services are delivered.",
+    "title": "Patrick Finn on how tension can lead to healthcare’s reinvention",
+    "url": "https://www.mckinsey.com/industries/healthcare/our-insights/patrick-finn-on-how-tension-can-lead-to-healthcares-reinvention",
+    "summary": "McKinsey Senior Partner Patrick Finn examines the current unique moment in healthcare and why AI could help reshape who leads healthcare’s next era.",
     "source_id": "mckinsey",
     "first_seen": "2026-07-31",
     "pub_date": "2026-07-15"
@@ -432,9 +424,17 @@
     "pub_date": "2026-07-15"
   },
   {
-    "title": "Patrick Finn on how tension can lead to healthcare’s reinvention",
-    "url": "https://www.mckinsey.com/industries/healthcare/our-insights/patrick-finn-on-how-tension-can-lead-to-healthcares-reinvention",
-    "summary": "McKinsey Senior Partner Patrick Finn examines the current unique moment in healthcare and why AI could help reshape who leads healthcare’s next era.",
+    "title": "The future of delivering software as a medical device",
+    "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device",
+    "summary": "Software is reshaping how medtech organizations create value. A new approach to quality assurance during software-as-a-medical-device development, supported by agentic AI, can help them realize it.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-07-31",
+    "pub_date": "2026-07-15"
+  },
+  {
+    "title": "How can the public sector meet the AI moment?",
+    "url": "https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector",
+    "summary": "AI can help public sector agencies improve outcomes for residents and make every taxpayer dollar go further. But realizing that potential requires moving beyond experimentation and rewiring how services are delivered.",
     "source_id": "mckinsey",
     "first_seen": "2026-07-31",
     "pub_date": "2026-07-15"
@@ -448,17 +448,9 @@
     "pub_date": "2026-07-01"
   },
   {
-    "title": "Colocation data centers: The infrastructure race behind AI",
-    "url": "https://www.mckinsey.com/mgi/our-research/colocation-data-centers-the-infrastructure-race-behind-ai",
-    "summary": "Data center capital expenditures are surging as AI workloads grow, yet competitiveness increasingly depends on securing advanced accelerators, reliable electricity, and fast project delivery.",
-    "source_id": "mckinsey",
-    "first_seen": "2026-07-01",
-    "pub_date": "2026-06-30"
-  },
-  {
-    "title": "The Download: AI “coworkers” and stratospheric internet",
-    "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one&#8230;",
+    "title": "Agriculture is ready for AI, but its data isn’t",
+    "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+    "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8...",
     "source_id": "mit",
     "first_seen": "2026-07-01",
     "pub_date": "2026-06-30"
@@ -472,14 +464,6 @@
     "pub_date": "2026-06-30"
   },
   {
-    "title": "Building tech in the world’s secret R&D hub",
-    "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-    "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world&#8217;s most influential technology companies&#8230;",
-    "source_id": "mit",
-    "first_seen": "2026-07-01",
-    "pub_date": "2026-06-30"
-  },
-  {
     "title": "Nuclear power: A renaissance in the making",
     "url": "https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making",
     "summary": "The explosion of AI data centers and the continued electrification of automobiles and other products have greatly increased demand for electricity, sparking renewed interest in producing nuclear power.",
@@ -488,18 +472,50 @@
     "pub_date": "2026-06-30"
   },
   {
-    "title": "Agriculture is ready for AI, but its data isn’t",
-    "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-    "summary": "Artificial intelligence is transforming what is possible in agriculture, but industry leaders should be wary of investing in AI without first laying the groundwork.&#160; The use cases are promising, especially for an industry navigating volatile fertilizer costs, unpredictable weather, and margins that leave little room for error. Research shows AI-enabled predictive models can improve crop&#8...",
+    "title": "Building tech in the world’s secret R&D hub",
+    "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+    "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world&#8217;s most influential technology companies&#8230;",
     "source_id": "mit",
     "first_seen": "2026-07-01",
     "pub_date": "2026-06-30"
+  },
+  {
+    "title": "The Download: AI “coworkers” and stratospheric internet",
+    "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI agents are not your “coworkers” Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-07-01",
+    "pub_date": "2026-06-30"
+  },
+  {
+    "title": "Colocation data centers: The infrastructure race behind AI",
+    "url": "https://www.mckinsey.com/mgi/our-research/colocation-data-centers-the-infrastructure-race-behind-ai",
+    "summary": "Data center capital expenditures are surging as AI workloads grow, yet competitiveness increasingly depends on securing advanced accelerators, reliable electricity, and fast project delivery.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-07-01",
+    "pub_date": "2026-06-30"
+  },
+  {
+    "title": "Agent confidence on the technical frontier",
+    "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+    "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-07-01",
+    "pub_date": "2026-06-29"
   },
   {
     "title": "From linear gates to learning loops: Rewiring biopharma R&D with AI",
     "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/from-linear-gates-to-learning-loops-rewiring-biopharma-r-and-d-with-ai",
     "summary": "An AI-powered R&D model built on connected decision loops—replacing the current sequential, fragmented workflow—can reduce uncertainty, compress timelines, and accelerate medicines to market.",
     "source_id": "mckinsey",
+    "first_seen": "2026-07-01",
+    "pub_date": "2026-06-29"
+  },
+  {
+    "title": "The Download: metric weaknesses and AI elephant warnings",
+    "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a lot of people bitten&#8230;",
+    "source_id": "mit",
     "first_seen": "2026-07-01",
     "pub_date": "2026-06-29"
   },
@@ -516,22 +532,6 @@
     "url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/african-bedrock-how-the-continents-minerals-can-help-power-the-world",
     "summary": "Critical minerals underpin everything from AI to low-carbon energy, and African mining sits at the epicenter. Three key moves can help unlock the continent’s natural minerals advantage.",
     "source_id": "mckinsey",
-    "first_seen": "2026-07-01",
-    "pub_date": "2026-06-29"
-  },
-  {
-    "title": "The Download: metric weaknesses and AI elephant warnings",
-    "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a lot of people bitten&#8230;",
-    "source_id": "mit",
-    "first_seen": "2026-07-01",
-    "pub_date": "2026-06-29"
-  },
-  {
-    "title": "Agent confidence on the technical frontier",
-    "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-    "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;",
-    "source_id": "mit",
     "first_seen": "2026-07-01",
     "pub_date": "2026-06-29"
   },
@@ -560,14 +560,6 @@
     "pub_date": "2026-06-26"
   },
   {
-    "title": "Repositioning retail for the AI era",
-    "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-    "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;",
-    "source_id": "mit",
-    "first_seen": "2026-06-26",
-    "pub_date": "2026-06-25"
-  },
-  {
     "title": "What matters most to investors in 2026 and what it means for companies",
     "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/what-matters-most-to-investors-in-2026-and-what-it-means-for-companies",
     "summary": "Even before the Middle East conflict began, geopolitics surged as the foremost investor concern. AI disruption and capital allocation discipline are also top of mind.",
@@ -584,6 +576,24 @@
     "pub_date": "2026-06-25"
   },
   {
+    "title": "Repositioning retail for the AI era",
+    "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+    "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-06-26",
+    "pub_date": "2026-06-25"
+  },
+  {
+    "title": "Unidas acelera adoção de IA para acelerar novo ciclo de crescimento",
+    "title_pt": "Unidas acelera adoção de IA para acelerar novo ciclo de crescimento",
+    "url": "https://tiinside.com.br/24/06/2026/unidas-acelera-adocao-de-ia-para-acelerar-novo-ciclo-de-crescimento/",
+    "summary": "A Unidas concluiu uma das mais complexas jornadas de transformação digital desenvolvidas nos últimos anos e agora entra em uma nova etapa de inovação baseada em dados, inteligência artificial e experiência digital. A informação é de Alexei Korb, diretor executivo de Tecnologia e Inovação da companhia, responsável por liderar a modernização tecnológica da empresa e a construção das bases que sus...",
+    "summary_pt": "A Unidas concluiu uma das mais complexas jornadas de transformação digital desenvolvidas nos últimos anos e agora entra em uma nova etapa de inovação baseada em dados, inteligência artificial e experiência digital. A informação é de Alexei Korb, diretor executivo de Tecnologia e Inovação da companhia, responsável por liderar a modernização tecnológica da empresa e a construção das bases que sustentarão os próximos ciclos de crescimento.\nSegundo o executivo, a companhia se consolidou como a única plataforma de mobilidade do mercado brasileiro presente em todos os segmentos do setor, atendendo desde clientes de locação eventual até grandes corporações com operações de gestão de frotas.\n\"A Unidas atua em todos os segmentos de mobilidade. Temos carro por assinatura para pessoas físicas e jurídicas, gestão de frotas leves e pesadas, locação eventual de veículos e também a venda de seminovos. Isso nos permite atender praticamente todas as necessidades de mobilidade dos nossos clientes\", afirma Korb.\nA atual configuração da empresa é resultado da integração entre a Ouro Verde e a Unidas. O processo teve início em 2019, quando a Brookfield adquiriu a Ouro Verde, e ganhou novo capítulo em 2022 com a aquisição da Unidas. Desde então, a companhia iniciou um amplo movimento de consolidação operacional, tecnológica e de processos.\n**A integração como principal desafio**\nDe acordo com Korb, o principal desafio enfrentado entre 2023 e 2025 foi justamente a unificação das duas organizações, que possuíam sistemas, processos e culturas diferentes.\nPara enfrentar essa missão, a empresa estruturou um programa de transformação digital composto por 14 grandes projetos estratégicos.\nEntre as iniciativas implementadas estão a unificação dos sistemas de gestão de frotas, a modernização dos canais de locação, a implantação de novas plataformas de CRM, a migração para o SAP S/4HANA, a consolidação das operações de RH e jurídico, a construção de uma arquitetura moderna de dados baseada em data lake e a migração da maior parte dos ambientes para a nuvem.\n\"O objetivo era criar uma fundação tecnológica única que permitisse à empresa operar de forma integrada e preparar a organização para os próximos desafios\", explica o executivo.\nA transformação envolveu não apenas tecnologia, mas também a integração de diferentes canais de relacionamento, unidades de negócio e operações distribuídas por todo o território nacional.\nSegundo Korb, a modernização permitiu que a companhia passasse a operar de forma mais eficiente, reduzindo complexidades e aumentando sua capacidade de responder rapidamente às demandas dos clientes.\n**Nova fase mira crescimento impulsionado por tecnologia**\nCom a etapa de integração praticamente concluída, a Unidas volta suas atenções para uma nova agenda estratégica. O foco agora é utilizar a tecnologia como principal alavanca de crescimento. Para isso, a companhia definiu três grandes pilares de atuação para os próximos anos:\nEvolução da experiência digital d...",
+    "source_id": "tiinside",
+    "first_seen": "2026-06-24",
+    "pub_date": "2026-06-24"
+  },
+  {
     "title": "The age of thinking machines: Perspectives on the future of robotics",
     "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-age-of-thinking-machines-perspectives-on-the-future-of-robotics",
     "summary": "The next frontier of AI is physical. Embodied intelligence, in the form of robots, could change how we live and work by 2040.",
@@ -592,10 +602,18 @@
     "pub_date": "2026-06-24"
   },
   {
-    "title": "The emergence of the web data infrastructure layer for AI",
-    "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
-    "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;",
+    "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
+    "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+    "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now, the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;",
     "source_id": "mit",
+    "first_seen": "2026-06-24",
+    "pub_date": "2026-06-24"
+  },
+  {
+    "title": "Resolve AI CEO Spiros Xanthos: AI’s impact on software production systems",
+    "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/resolve-ai-ceo-spiros-xanthos-ais-impact-on-software-production-systems",
+    "summary": "Automating software’s deployment, production, and monitoring systems has been challenging. Resolve AI’s CEO explains how AI could improve reliability, pace, and workload.",
+    "source_id": "mckinsey",
     "first_seen": "2026-06-24",
     "pub_date": "2026-06-24"
   },
@@ -608,9 +626,9 @@
     "pub_date": "2026-06-24"
   },
   {
-    "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
-    "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-    "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now, the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;",
+    "title": "The emergence of the web data infrastructure layer for AI",
+    "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+    "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models.&#160; To understand this challenge, consider the foundation of the web itself. The web was not designed&#8230;",
     "source_id": "mit",
     "first_seen": "2026-06-24",
     "pub_date": "2026-06-24"
@@ -624,22 +642,20 @@
     "pub_date": "2026-06-24"
   },
   {
-    "title": "Resolve AI CEO Spiros Xanthos: AI’s impact on software production systems",
-    "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/resolve-ai-ceo-spiros-xanthos-ais-impact-on-software-production-systems",
-    "summary": "Automating software’s deployment, production, and monitoring systems has been challenging. Resolve AI’s CEO explains how AI could improve reliability, pace, and workload.",
-    "source_id": "mckinsey",
-    "first_seen": "2026-06-24",
-    "pub_date": "2026-06-24"
+    "title": "The Download: the future of chipmaking and Anthropic’s government clash",
+    "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine. It’s about the size of a double-decker&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-06-23",
+    "pub_date": "2026-06-23"
   },
   {
-    "title": "Unidas acelera adoção de IA para acelerar novo ciclo de crescimento",
-    "title_pt": "Unidas acelera adoção de IA para acelerar novo ciclo de crescimento",
-    "url": "https://tiinside.com.br/24/06/2026/unidas-acelera-adocao-de-ia-para-acelerar-novo-ciclo-de-crescimento/",
-    "summary": "A Unidas concluiu uma das mais complexas jornadas de transformação digital desenvolvidas nos últimos anos e agora entra em uma nova etapa de inovação baseada em dados, inteligência artificial e experiência digital. A informação é de Alexei Korb, diretor executivo de Tecnologia e Inovação da companhia, responsável por liderar a modernização tecnológica da empresa e a construção das bases que sus...",
-    "summary_pt": "A Unidas concluiu uma das mais complexas jornadas de transformação digital desenvolvidas nos últimos anos e agora entra em uma nova etapa de inovação baseada em dados, inteligência artificial e experiência digital. A informação é de Alexei Korb, diretor executivo de Tecnologia e Inovação da companhia, responsável por liderar a modernização tecnológica da empresa e a construção das bases que sustentarão os próximos ciclos de crescimento.\nSegundo o executivo, a companhia se consolidou como a única plataforma de mobilidade do mercado brasileiro presente em todos os segmentos do setor, atendendo desde clientes de locação eventual até grandes corporações com operações de gestão de frotas.\n\"A Unidas atua em todos os segmentos de mobilidade. Temos carro por assinatura para pessoas físicas e jurídicas, gestão de frotas leves e pesadas, locação eventual de veículos e também a venda de seminovos. Isso nos permite atender praticamente todas as necessidades de mobilidade dos nossos clientes\", afirma Korb.\nA atual configuração da empresa é resultado da integração entre a Ouro Verde e a Unidas. O processo teve início em 2019, quando a Brookfield adquiriu a Ouro Verde, e ganhou novo capítulo em 2022 com a aquisição da Unidas. Desde então, a companhia iniciou um amplo movimento de consolidação operacional, tecnológica e de processos.\n**A integração como principal desafio**\nDe acordo com Korb, o principal desafio enfrentado entre 2023 e 2025 foi justamente a unificação das duas organizações, que possuíam sistemas, processos e culturas diferentes.\nPara enfrentar essa missão, a empresa estruturou um programa de transformação digital composto por 14 grandes projetos estratégicos.\nEntre as iniciativas implementadas estão a unificação dos sistemas de gestão de frotas, a modernização dos canais de locação, a implantação de novas plataformas de CRM, a migração para o SAP S/4HANA, a consolidação das operações de RH e jurídico, a construção de uma arquitetura moderna de dados baseada em data lake e a migração da maior parte dos ambientes para a nuvem.\n\"O objetivo era criar uma fundação tecnológica única que permitisse à empresa operar de forma integrada e preparar a organização para os próximos desafios\", explica o executivo.\nA transformação envolveu não apenas tecnologia, mas também a integração de diferentes canais de relacionamento, unidades de negócio e operações distribuídas por todo o território nacional.\nSegundo Korb, a modernização permitiu que a companhia passasse a operar de forma mais eficiente, reduzindo complexidades e aumentando sua capacidade de responder rapidamente às demandas dos clientes.\n**Nova fase mira crescimento impulsionado por tecnologia**\nCom a etapa de integração praticamente concluída, a Unidas volta suas atenções para uma nova agenda estratégica. O foco agora é utilizar a tecnologia como principal alavanca de crescimento. Para isso, a companhia definiu três grandes pilares de atuação para os próximos anos:\nEvolução da experiência digital d...",
-    "source_id": "tiinside",
+    "title": "Beyond productivity: How AI creates value in private equity",
+    "url": "https://www.mckinsey.com/capabilities/business-building/our-insights/beyond-productivity-how-ai-creates-value-in-private-equity",
+    "summary": "Private equity–backed companies that broadly embrace AI have median revenue multiples more than twice those of companies focused solely on productivity initiatives.",
+    "source_id": "mckinsey",
     "first_seen": "2026-06-24",
-    "pub_date": "2026-06-24"
+    "pub_date": "2026-06-23"
   },
   {
     "title": "AI data readiness: The key to scaling impact",
@@ -666,43 +682,11 @@
     "pub_date": "2026-06-23"
   },
   {
-    "title": "Beyond productivity: How AI creates value in private equity",
-    "url": "https://www.mckinsey.com/capabilities/business-building/our-insights/beyond-productivity-how-ai-creates-value-in-private-equity",
-    "summary": "Private equity–backed companies that broadly embrace AI have median revenue multiples more than twice those of companies focused solely on productivity initiatives.",
-    "source_id": "mckinsey",
-    "first_seen": "2026-06-24",
-    "pub_date": "2026-06-23"
-  },
-  {
-    "title": "The Download: the future of chipmaking and Anthropic’s government clash",
-    "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine. It’s about the size of a double-decker&#8230;",
-    "source_id": "mit",
-    "first_seen": "2026-06-23",
-    "pub_date": "2026-06-23"
-  },
-  {
-    "title": "From campaigns to continuous growth: AI capabilities shaping marketing",
-    "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/from-campaigns-to-continuous-growth-ai-capabilities-shaping-marketing",
-    "summary": "Capabilities built around insights, creativity, personalization, agentic commerce, and orchestration form the five core pillars of the future of marketing.",
-    "source_id": "mckinsey",
-    "first_seen": "2026-06-22",
-    "pub_date": "2026-06-22"
-  },
-  {
     "title": "Capturing Central Europe’s AI opportunity",
     "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/capturing-central-europes-ai-opportunity",
     "summary": "AI is advancing too quickly to remain a side initiative for businesses. Central European companies can get ahead by redesigning business domains—and the organization—around AI.",
     "source_id": "mckinsey",
     "first_seen": "2026-06-23",
-    "pub_date": "2026-06-22"
-  },
-  {
-    "title": "From anxiety to advantage: A marketing organization that thrives with AI",
-    "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/from-anxiety-to-advantage-a-marketing-organization-that-thrives-with-ai",
-    "summary": "Marketers are using AI, but surface-level enthusiasm is masking the anxiety, indecision, and operating-model gaps holding back meaningful change.",
-    "source_id": "mckinsey",
-    "first_seen": "2026-06-22",
     "pub_date": "2026-06-22"
   },
   {
@@ -714,9 +698,25 @@
     "pub_date": "2026-06-22"
   },
   {
-    "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-    "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-    "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the&#8230;",
+    "title": "From campaigns to continuous growth: AI capabilities shaping marketing",
+    "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/from-campaigns-to-continuous-growth-ai-capabilities-shaping-marketing",
+    "summary": "Capabilities built around insights, creativity, personalization, agentic commerce, and orchestration form the five core pillars of the future of marketing.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-06-22",
+    "pub_date": "2026-06-22"
+  },
+  {
+    "title": "From anxiety to advantage: A marketing organization that thrives with AI",
+    "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/from-anxiety-to-advantage-a-marketing-organization-that-thrives-with-ai",
+    "summary": "Marketers are using AI, but surface-level enthusiasm is masking the anxiety, indecision, and operating-model gaps holding back meaningful change.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-06-22",
+    "pub_date": "2026-06-22"
+  },
+  {
+    "title": "The Download: AI bottleneck debates, and BCI trials take off",
+    "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck&#8230;",
     "source_id": "mit",
     "first_seen": "2026-06-19",
     "pub_date": "2026-06-19"
@@ -740,24 +740,6 @@
     "pub_date": "2026-06-19"
   },
   {
-    "title": "ISG nomeia a Oracle como líder do Guia para Compradores de Plataformas de IA e Dados",
-    "title_pt": "ISG nomeia a Oracle como líder do Guia para Compradores de Plataformas de IA e Dados",
-    "url": "https://tiinside.com.br/19/06/2026/isg-nomeia-a-oracle-como-lider-do-guia-para-compradores-de-plataformas-de-ia-e-dados/",
-    "summary": "O ISG reconheceu a Oracle como Exemplar em nove relatórios, incluindo IA e Plataformas de Dados, Agentes de IA, Governança e Operações de IA, IA Agential e Gerativa, e IA e Dados Soberanos. \"A rápida adoção da IA agente está mudando as expectativas empresariais tanto para IA quanto para plataformas de dados\", disse David Menninger, diretor executivo e analista distinto da ISG. \"O desempenho de ...",
-    "summary_pt": "O ISG reconheceu a Oracle como Exemplar em nove relatórios, incluindo IA e Plataformas de Dados, Agentes de IA, Governança e Operações de IA, IA Agential e Gerativa, e IA e Dados Soberanos. \"A rápida adoção da IA agente está mudando as expectativas empresariais tanto para IA quanto para plataformas de dados\", disse David Menninger, diretor executivo e analista distinto da ISG. \"O desempenho de alto nível da Oracle, combinado com o reconhecimento em nível Exemplar em múltiplos relatórios, reflete uma abordagem pronta para empresas ao ajudar organizações a construir sistemas coesos para resultados de IA, relevantes e personalizados em tempo real.\"\nT.K. Anand, vice-presidente executivo da Oracle, complementa: \"A Oracle AI Data Platform ajuda organizações a levar a IA para onde seus dados vivem, fundamentar a IA generativa e agente no contexto empresarial, e passar da experimentação para a produção com a segurança, confiabilidade e escala que as empresas exigem. Temos orgulho de sermos reconhecidos pela ISG como o Líder Geral e acreditamos que isso demonstra nosso compromisso em ajudar os clientes a escalar com sucesso a IA.\"",
-    "source_id": "tiinside",
-    "first_seen": "2026-06-19",
-    "pub_date": "2026-06-19"
-  },
-  {
-    "title": "The Download: AI bottleneck debates, and BCI trials take off",
-    "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck&#8230;",
-    "source_id": "mit",
-    "first_seen": "2026-06-19",
-    "pub_date": "2026-06-19"
-  },
-  {
     "title": "QuintoAndar inaugura novo escritório e anuncia investimento de R$ 2 bilhões em tecnologia",
     "title_pt": "QuintoAndar inaugura novo escritório e anuncia investimento de R$ 2 bilhões em tecnologia",
     "url": "https://tiinside.com.br/19/06/2026/quintoandar-inaugura-novo-escritorio-e-anuncia-investimento-de-r-2-bilhoes-em-tecnologia/",
@@ -768,20 +750,22 @@
     "pub_date": "2026-06-19"
   },
   {
-    "title": "AI is turning every company into a software company",
-    "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/ai-is-turning-every-company-into-a-software-company",
-    "summary": "As AI makes software faster and cheaper to build, the real competitive edge shifts to how it’s used—pushing leaders to rethink what work looks like and how teams spend their time.",
-    "source_id": "mckinsey",
+    "title": "ISG nomeia a Oracle como líder do Guia para Compradores de Plataformas de IA e Dados",
+    "title_pt": "ISG nomeia a Oracle como líder do Guia para Compradores de Plataformas de IA e Dados",
+    "url": "https://tiinside.com.br/19/06/2026/isg-nomeia-a-oracle-como-lider-do-guia-para-compradores-de-plataformas-de-ia-e-dados/",
+    "summary": "O ISG reconheceu a Oracle como Exemplar em nove relatórios, incluindo IA e Plataformas de Dados, Agentes de IA, Governança e Operações de IA, IA Agential e Gerativa, e IA e Dados Soberanos. \"A rápida adoção da IA agente está mudando as expectativas empresariais tanto para IA quanto para plataformas de dados\", disse David Menninger, diretor executivo e analista distinto da ISG. \"O desempenho de ...",
+    "summary_pt": "O ISG reconheceu a Oracle como Exemplar em nove relatórios, incluindo IA e Plataformas de Dados, Agentes de IA, Governança e Operações de IA, IA Agential e Gerativa, e IA e Dados Soberanos. \"A rápida adoção da IA agente está mudando as expectativas empresariais tanto para IA quanto para plataformas de dados\", disse David Menninger, diretor executivo e analista distinto da ISG. \"O desempenho de alto nível da Oracle, combinado com o reconhecimento em nível Exemplar em múltiplos relatórios, reflete uma abordagem pronta para empresas ao ajudar organizações a construir sistemas coesos para resultados de IA, relevantes e personalizados em tempo real.\"\nT.K. Anand, vice-presidente executivo da Oracle, complementa: \"A Oracle AI Data Platform ajuda organizações a levar a IA para onde seus dados vivem, fundamentar a IA generativa e agente no contexto empresarial, e passar da experimentação para a produção com a segurança, confiabilidade e escala que as empresas exigem. Temos orgulho de sermos reconhecidos pela ISG como o Líder Geral e acreditamos que isso demonstra nosso compromisso em ajudar os clientes a escalar com sucesso a IA.\"",
+    "source_id": "tiinside",
     "first_seen": "2026-06-19",
-    "pub_date": "2026-06-18"
+    "pub_date": "2026-06-19"
   },
   {
-    "title": "Brilliant Moves: Coffee with FairPrice Group’s Vipul Chawla",
-    "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-fairprice-groups-vipul-chawla",
-    "summary": "FairPrice Group’s Vipul Chawla chats with McKinsey’s Gautam Kumra about using AI to remove friction from shopping, navigating supply chain shocks, and balancing innovation with the mission to keep daily essentials affordable.",
-    "source_id": "mckinsey",
+    "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+    "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+    "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the&#8230;",
+    "source_id": "mit",
     "first_seen": "2026-06-19",
-    "pub_date": "2026-06-18"
+    "pub_date": "2026-06-19"
   },
   {
     "title": "Rewiring Talent to Value in the age of AI",
@@ -797,6 +781,22 @@
     "summary": "The British fashion retailer’s chief technology officer discusses why agentic AI represents ‘a structural shift’ in how consumers engage with brands.",
     "source_id": "mckinsey",
     "first_seen": "2026-06-18",
+    "pub_date": "2026-06-18"
+  },
+  {
+    "title": "Brilliant Moves: Coffee with FairPrice Group’s Vipul Chawla",
+    "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-fairprice-groups-vipul-chawla",
+    "summary": "FairPrice Group’s Vipul Chawla chats with McKinsey’s Gautam Kumra about using AI to remove friction from shopping, navigating supply chain shocks, and balancing innovation with the mission to keep daily essentials affordable.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-06-19",
+    "pub_date": "2026-06-18"
+  },
+  {
+    "title": "AI is turning every company into a software company",
+    "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/ai-is-turning-every-company-into-a-software-company",
+    "summary": "As AI makes software faster and cheaper to build, the real competitive edge shifts to how it’s used—pushing leaders to rethink what work looks like and how teams spend their time.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-06-19",
     "pub_date": "2026-06-18"
   },
   {
@@ -890,14 +890,6 @@
     "pub_date": "2026-06-11"
   },
   {
-    "title": "Elevating the customer experience: IKEA’s agentic AI journey",
-    "url": "https://www.mckinsey.com/industries/retail/our-insights/elevating-the-customer-experience-ikeas-agentic-ai-journey",
-    "summary": "The Swedish home-furnishing giant’s chief digital officer discusses the need to prioritize AI initiatives amid ‘the risk of doing everything but maybe nothing.’",
-    "source_id": "mckinsey",
-    "first_seen": "2026-06-11",
-    "pub_date": "2026-06-11"
-  },
-  {
     "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
     "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
     "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s AGI safety and alignment research, the mass-market arrival of agents that can carry out tasks without human oversight and follow instructions given to them by other&#8230;",
@@ -906,9 +898,17 @@
     "pub_date": "2026-06-11"
   },
   {
-    "title": "Europe’s new e‑commerce agenda: How AI is resetting growth and competition",
-    "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/europes-new-ecommerce-agenda-how-ai-is-resetting-growth-and-competition",
-    "summary": "From agentic shopping to retail media and omnichannel intelligence, AI is changing the economics of digital commerce. Here’s how leaders can turn experimentation into a durable advantage.",
+    "title": "Elevating the customer experience: IKEA’s agentic AI journey",
+    "url": "https://www.mckinsey.com/industries/retail/our-insights/elevating-the-customer-experience-ikeas-agentic-ai-journey",
+    "summary": "The Swedish home-furnishing giant’s chief digital officer discusses the need to prioritize AI initiatives amid ‘the risk of doing everything but maybe nothing.’",
+    "source_id": "mckinsey",
+    "first_seen": "2026-06-11",
+    "pub_date": "2026-06-11"
+  },
+  {
+    "title": "AI usage among white-collar workers and students in Hong Kong: survey findings",
+    "url": "https://www.mckinsey.com/cn/updates/ai-usage-among-white-collar-workers-and-students-in-hong-kong-survey-findings",
+    "summary": "",
     "source_id": "mckinsey",
     "first_seen": "2026-06-10",
     "pub_date": "2026-06-10"
@@ -917,6 +917,14 @@
     "title": "Rewiring retail in Europe: The AI imperative",
     "url": "https://www.mckinsey.com/industries/retail/our-insights/rewiring-retail-in-europe-the-ai-imperative",
     "summary": "AI is already reshaping the European retail value chain. The question now is how leaders modernize while strengthening the human experience—with a €240 billion to €320 billion opportunity at stake.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-06-10",
+    "pub_date": "2026-06-10"
+  },
+  {
+    "title": "Europe’s new e‑commerce agenda: How AI is resetting growth and competition",
+    "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/europes-new-ecommerce-agenda-how-ai-is-resetting-growth-and-competition",
+    "summary": "From agentic shopping to retail media and omnichannel intelligence, AI is changing the economics of digital commerce. Here’s how leaders can turn experimentation into a durable advantage.",
     "source_id": "mckinsey",
     "first_seen": "2026-06-10",
     "pub_date": "2026-06-10"
@@ -932,22 +940,6 @@
     "pub_date": "2026-06-10"
   },
   {
-    "title": "AI usage among white-collar workers and students in Hong Kong: survey findings",
-    "url": "https://www.mckinsey.com/cn/updates/ai-usage-among-white-collar-workers-and-students-in-hong-kong-survey-findings",
-    "summary": "",
-    "source_id": "mckinsey",
-    "first_seen": "2026-06-10",
-    "pub_date": "2026-06-10"
-  },
-  {
-    "title": "Learning to lead in a hybrid human-AI enterprise",
-    "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-    "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across&#8230;",
-    "source_id": "mit",
-    "first_seen": "2026-06-09",
-    "pub_date": "2026-06-09"
-  },
-  {
     "title": "Where value is won and lost in distribution",
     "url": "https://www.mckinsey.com/industries/industrials/our-insights/where-value-is-won-and-lost-in-distribution",
     "summary": "The state of distribution in the United States is defined by permanent volatility, especially from the emergence of AI. The ability to address five current themes will define leaders in this new era.",
@@ -956,11 +948,11 @@
     "pub_date": "2026-06-09"
   },
   {
-    "title": "Reinventing autonomous driving in the age of generative AI",
-    "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/reinventing-autonomous-driving-in-the-age-of-generative-ai",
-    "summary": "As AI-native systems take hold, autonomous driving is becoming a race for compute power, software, data, and semiconductors.",
-    "source_id": "mckinsey",
-    "first_seen": "2026-06-10",
+    "title": "Learning to lead in a hybrid human-AI enterprise",
+    "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-06-09",
     "pub_date": "2026-06-09"
   },
   {
@@ -988,11 +980,19 @@
     "pub_date": "2026-06-09"
   },
   {
-    "title": "Blackstone’s Legal & Compliance AI transformation started with technology. It succeeded because it put people first",
-    "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/how-we-help-clients/blackstones-legal-and-compliance-ai-transformation-started-with-technology",
-    "summary": "By first redesigning how decisions flow—clarifying ownership and codifying precedent—the financial services firm was able to rewire its Legal & Compliance group with technology at the core.",
+    "title": "Reinventing autonomous driving in the age of generative AI",
+    "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/reinventing-autonomous-driving-in-the-age-of-generative-ai",
+    "summary": "As AI-native systems take hold, autonomous driving is becoming a race for compute power, software, data, and semiconductors.",
     "source_id": "mckinsey",
-    "first_seen": "2026-06-09",
+    "first_seen": "2026-06-10",
+    "pub_date": "2026-06-09"
+  },
+  {
+    "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+    "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament. It hosts more teams than ever before. It’s the first&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-06-08",
     "pub_date": "2026-06-08"
   },
   {
@@ -1000,14 +1000,6 @@
     "url": "https://www.mckinsey.com/industries/public-sector/our-insights/reimagining-federal-procurement-in-the-digital-and-ai-age",
     "summary": "Digitalizing federal procurement can improve decision-making, increase efficiency and transparency, and bolster resilience—all of which are critical in today’s high-pressure environment.",
     "source_id": "mckinsey",
-    "first_seen": "2026-06-08",
-    "pub_date": "2026-06-08"
-  },
-  {
-    "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
-    "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this year’s World Cup ball may not fly as far Much is new about this month’s FIFA World Cup tournament. It hosts more teams than ever before. It’s the first&#8230;",
-    "source_id": "mit",
     "first_seen": "2026-06-08",
     "pub_date": "2026-06-08"
   },
@@ -1020,30 +1012,12 @@
     "pub_date": "2026-06-08"
   },
   {
-    "title": "Reforma Tributária: sua empresa está pronta para os impactos no RH e na Folha de Pagamento?",
-    "title_pt": "Reforma Tributária: sua empresa está pronta para os impactos no RH e na Folha de Pagamento?",
-    "url": "https://tiinside.com.br/05/06/2026/reforma-tributaria-sua-empresa-esta-pronta-para-os-impactos-no-rh-e-na-folha-de-pagamento/",
-    "summary": "A Reforma Tributária já está em andamento e seus impactos vão muito além das áreas fiscal e contábil. RH, Folha de Pagamento, Finanças e Tecnologia terão papel fundamental para garantir que as empresas se adaptem às novas exigências com segurança, eficiência e conformidade.",
-    "summary_pt": "A Reforma Tributária já está em andamento e seus impactos vão muito além das áreas fiscal e contábil. RH, Folha de Pagamento, Finanças e Tecnologia terão papel fundamental para garantir que as empresas se adaptem às novas exigências com segurança, eficiência e conformidade.\nMas sua organização está preparada para essa transformação?\nPara ajudar empresas a entenderem os desafios e oportunidades desse novo cenário, a TI Inside e a ADP promovem  dia 23 de junho, o webinar gratuito \" **Da Reforma à Transformação: Como preparar o RH e a Folha para o novo cenário tributário no Brasil\".**\nDurante o encontro, especialistas do mercado vão mostrar como a Reforma Tributária pode se tornar um catalisador para a modernização dos processos de RH e da gestão da folha de pagamento, impulsionando ganhos de produtividade, automação, governança e redução de riscos operacionais.\n- Como a Reforma Tributária impacta as áreas de RH, Folha e Finanças;\n- Quais mudanças exigirão maior atenção das empresas nos próximos anos;\n- Como a automação pode reduzir erros, retrabalho e custos operacionais;\n- Os benefícios da terceirização da folha em um ambiente regulatório cada vez mais complexo;\n- Como garantir compliance, padronização e previsibilidade em um cenário de constantes mudanças;\n- O papel da tecnologia na construção de operações mais escaláveis e eficientes.\nEste é um momento decisivo para as organizações que desejam transformar obrigações regulatórias em vantagem competitiva. Participar deste webinar é uma oportunidade para antecipar tendências, esclarecer dúvidas e conhecer estratégias práticas para preparar sua empresa para o futuro.\n**Palestrantes confirmados:**\n- Alexandre Moro – Senior Latam Director Field Sales da ADP\n- Armando Silva – Senior Director Accounting da ADP\n- Cássia Paixão – Especialista Tributária da Qyon Tecnologia\n- Claudiney Santos – Editor da TI Inside (mediador)",
-    "source_id": "tiinside",
-    "first_seen": "2026-06-06",
-    "pub_date": "2026-06-05"
-  },
-  {
-    "title": "The Meta hack shows there’s more to AI security than Mythos",
-    "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-    "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran&#8230;",
-    "source_id": "mit",
-    "first_seen": "2026-06-05",
-    "pub_date": "2026-06-05"
-  },
-  {
-    "title": "Are AI chatbots making us lose control of our brains?",
-    "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
-    "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early&#8230;",
-    "source_id": "mit",
-    "first_seen": "2026-06-05",
-    "pub_date": "2026-06-05"
+    "title": "Blackstone’s Legal & Compliance AI transformation started with technology. It succeeded because it put people first",
+    "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/how-we-help-clients/blackstones-legal-and-compliance-ai-transformation-started-with-technology",
+    "summary": "By first redesigning how decisions flow—clarifying ownership and codifying precedent—the financial services firm was able to rewire its Legal & Compliance group with technology at the core.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-06-09",
+    "pub_date": "2026-06-08"
   },
   {
     "title": "Resetting cost competitiveness in pulp and paper packaging",
@@ -1051,6 +1025,16 @@
     "summary": "Overcapacity, volatile costs, and weak demand are compressing margins. Successful companies are harnessing AI to pursue cross-functional interventions that target the total cost baseline of a mill.",
     "source_id": "mckinsey",
     "first_seen": "2026-06-05",
+    "pub_date": "2026-06-05"
+  },
+  {
+    "title": "Inspira leva IA jurídica a escritórios e advogados autônomos",
+    "title_pt": "Inspira leva IA jurídica a escritórios e advogados autônomos",
+    "url": "https://tiinside.com.br/05/06/2026/inspira-leva-ia-juridica-a-escritorios-e-advogados-autonomos/",
+    "summary": "A transformação digital do setor jurídico ganha um novo capítulo com o avanço das plataformas de inteligência artificial especializadas. Em um mercado que busca equilibrar produtividade, segurança de dados e qualidade técnica, a legaltech Inspira anunciou o lançamento de três novas soluções que ampliam sua plataforma de IA jurídica e consolidam um ecossistema integrado para escritórios de advoc...",
+    "summary_pt": "A transformação digital do setor jurídico ganha um novo capítulo com o avanço das plataformas de inteligência artificial especializadas. Em um mercado que busca equilibrar produtividade, segurança de dados e qualidade técnica, a legaltech Inspira anunciou o lançamento de três novas soluções que ampliam sua plataforma de IA jurídica e consolidam um ecossistema integrado para escritórios de advocacia, departamentos jurídicos corporativos e profissionais autônomos.\nA iniciativa ocorre em um momento de crescente adoção de inteligência artificial pelo setor. Segundo estimativas do Goldman Sachs, cerca de 80% das tarefas jurídicas rotineiras podem ser automatizadas com o apoio da tecnologia. Já o Estudo Demográfico da Advocacia Brasileira, realizado pela FGV em 2024, aponta que 95% dos profissionais do Direito reconhecem que as ferramentas tecnológicas contribuem para aumentar a eficiência do trabalho jurídico.\nAs novidades apresentadas pela Inspira incluem o Chat, o Agente e o Acervo, soluções desenvolvidas para centralizar atividades jurídicas em uma única plataforma e reduzir a dependência de aplicações genéricas de IA, frequentemente utilizadas sem controles específicos para proteção de informações sensíveis.\nO Chat funciona como uma interface de linguagem natural voltada para consultas jurídicas, análise documental e elaboração de peças processuais. A proposta é permitir que advogados realizem pesquisas e produzam conteúdo com referências verificáveis dentro de um ambiente controlado, sem a necessidade de transferir documentos para plataformas externas.\nJá o Agente foi projetado para executar tarefas mais complexas e de maior duração. A ferramenta cria um plano de trabalho que pode ser validado pelo profissional e, posteriormente, realiza as atividades em segundo plano, permitindo que o usuário mantenha o foco em demandas estratégicas enquanto a IA conduz etapas operacionais.\nO terceiro lançamento, denominado Acervo, aplica inteligência artificial à gestão do conhecimento jurídico. A solução transforma bibliotecas digitais, regulamentos, manuais internos, livros e bases documentais em um ambiente pesquisável por IA, entregando respostas acompanhadas de referências completas, incluindo autor, obra e página de origem.\nSegundo Rafael Grimaldi, cofundador e CEO da Inspira, o objetivo é ampliar o acesso à tecnologia especializada e oferecer uma alternativa segura às ferramentas de IA de uso geral. De acordo com o executivo, a plataforma foi desenvolvida para atender aos requisitos de confidencialidade exigidos pela advocacia e permitir que profissionais de diferentes portes tenham acesso à mesma infraestrutura tecnológica utilizada por grandes organizações.\nA expansão representa também uma mudança estratégica para a empresa. Tradicionalmente voltada para escritórios de médio e grande porte e departamentos jurídicos corporativos, a Inspira passa agora a oferecer sua infraestrutura para advogados autônomos, ampliando sua atuação no segmento B2C.\nA com...",
+    "source_id": "tiinside",
+    "first_seen": "2026-06-06",
     "pub_date": "2026-06-05"
   },
   {
@@ -1062,11 +1046,19 @@
     "pub_date": "2026-06-05"
   },
   {
-    "title": "Inspira leva IA jurídica a escritórios e advogados autônomos",
-    "title_pt": "Inspira leva IA jurídica a escritórios e advogados autônomos",
-    "url": "https://tiinside.com.br/05/06/2026/inspira-leva-ia-juridica-a-escritorios-e-advogados-autonomos/",
-    "summary": "A transformação digital do setor jurídico ganha um novo capítulo com o avanço das plataformas de inteligência artificial especializadas. Em um mercado que busca equilibrar produtividade, segurança de dados e qualidade técnica, a legaltech Inspira anunciou o lançamento de três novas soluções que ampliam sua plataforma de IA jurídica e consolidam um ecossistema integrado para escritórios de advoc...",
-    "summary_pt": "A transformação digital do setor jurídico ganha um novo capítulo com o avanço das plataformas de inteligência artificial especializadas. Em um mercado que busca equilibrar produtividade, segurança de dados e qualidade técnica, a legaltech Inspira anunciou o lançamento de três novas soluções que ampliam sua plataforma de IA jurídica e consolidam um ecossistema integrado para escritórios de advocacia, departamentos jurídicos corporativos e profissionais autônomos.\nA iniciativa ocorre em um momento de crescente adoção de inteligência artificial pelo setor. Segundo estimativas do Goldman Sachs, cerca de 80% das tarefas jurídicas rotineiras podem ser automatizadas com o apoio da tecnologia. Já o Estudo Demográfico da Advocacia Brasileira, realizado pela FGV em 2024, aponta que 95% dos profissionais do Direito reconhecem que as ferramentas tecnológicas contribuem para aumentar a eficiência do trabalho jurídico.\nAs novidades apresentadas pela Inspira incluem o Chat, o Agente e o Acervo, soluções desenvolvidas para centralizar atividades jurídicas em uma única plataforma e reduzir a dependência de aplicações genéricas de IA, frequentemente utilizadas sem controles específicos para proteção de informações sensíveis.\nO Chat funciona como uma interface de linguagem natural voltada para consultas jurídicas, análise documental e elaboração de peças processuais. A proposta é permitir que advogados realizem pesquisas e produzam conteúdo com referências verificáveis dentro de um ambiente controlado, sem a necessidade de transferir documentos para plataformas externas.\nJá o Agente foi projetado para executar tarefas mais complexas e de maior duração. A ferramenta cria um plano de trabalho que pode ser validado pelo profissional e, posteriormente, realiza as atividades em segundo plano, permitindo que o usuário mantenha o foco em demandas estratégicas enquanto a IA conduz etapas operacionais.\nO terceiro lançamento, denominado Acervo, aplica inteligência artificial à gestão do conhecimento jurídico. A solução transforma bibliotecas digitais, regulamentos, manuais internos, livros e bases documentais em um ambiente pesquisável por IA, entregando respostas acompanhadas de referências completas, incluindo autor, obra e página de origem.\nSegundo Rafael Grimaldi, cofundador e CEO da Inspira, o objetivo é ampliar o acesso à tecnologia especializada e oferecer uma alternativa segura às ferramentas de IA de uso geral. De acordo com o executivo, a plataforma foi desenvolvida para atender aos requisitos de confidencialidade exigidos pela advocacia e permitir que profissionais de diferentes portes tenham acesso à mesma infraestrutura tecnológica utilizada por grandes organizações.\nA expansão representa também uma mudança estratégica para a empresa. Tradicionalmente voltada para escritórios de médio e grande porte e departamentos jurídicos corporativos, a Inspira passa agora a oferecer sua infraestrutura para advogados autônomos, ampliando sua atuação no segmento B2C.\nA com...",
+    "title": "The Meta hack shows there’s more to AI security than Mythos",
+    "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+    "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-05"
+  },
+  {
+    "title": "Reforma Tributária: sua empresa está pronta para os impactos no RH e na Folha de Pagamento?",
+    "title_pt": "Reforma Tributária: sua empresa está pronta para os impactos no RH e na Folha de Pagamento?",
+    "url": "https://tiinside.com.br/05/06/2026/reforma-tributaria-sua-empresa-esta-pronta-para-os-impactos-no-rh-e-na-folha-de-pagamento/",
+    "summary": "A Reforma Tributária já está em andamento e seus impactos vão muito além das áreas fiscal e contábil. RH, Folha de Pagamento, Finanças e Tecnologia terão papel fundamental para garantir que as empresas se adaptem às novas exigências com segurança, eficiência e conformidade.",
+    "summary_pt": "A Reforma Tributária já está em andamento e seus impactos vão muito além das áreas fiscal e contábil. RH, Folha de Pagamento, Finanças e Tecnologia terão papel fundamental para garantir que as empresas se adaptem às novas exigências com segurança, eficiência e conformidade.\nMas sua organização está preparada para essa transformação?\nPara ajudar empresas a entenderem os desafios e oportunidades desse novo cenário, a TI Inside e a ADP promovem  dia 23 de junho, o webinar gratuito \" **Da Reforma à Transformação: Como preparar o RH e a Folha para o novo cenário tributário no Brasil\".**\nDurante o encontro, especialistas do mercado vão mostrar como a Reforma Tributária pode se tornar um catalisador para a modernização dos processos de RH e da gestão da folha de pagamento, impulsionando ganhos de produtividade, automação, governança e redução de riscos operacionais.\n- Como a Reforma Tributária impacta as áreas de RH, Folha e Finanças;\n- Quais mudanças exigirão maior atenção das empresas nos próximos anos;\n- Como a automação pode reduzir erros, retrabalho e custos operacionais;\n- Os benefícios da terceirização da folha em um ambiente regulatório cada vez mais complexo;\n- Como garantir compliance, padronização e previsibilidade em um cenário de constantes mudanças;\n- O papel da tecnologia na construção de operações mais escaláveis e eficientes.\nEste é um momento decisivo para as organizações que desejam transformar obrigações regulatórias em vantagem competitiva. Participar deste webinar é uma oportunidade para antecipar tendências, esclarecer dúvidas e conhecer estratégias práticas para preparar sua empresa para o futuro.\n**Palestrantes confirmados:**\n- Alexandre Moro – Senior Latam Director Field Sales da ADP\n- Armando Silva – Senior Director Accounting da ADP\n- Cássia Paixão – Especialista Tributária da Qyon Tecnologia\n- Claudiney Santos – Editor da TI Inside (mediador)",
     "source_id": "tiinside",
     "first_seen": "2026-06-06",
     "pub_date": "2026-06-05"
@@ -1082,9 +1074,33 @@
     "pub_date": "2026-06-05"
   },
   {
+    "title": "Are AI chatbots making us lose control of our brains?",
+    "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+    "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-05"
+  },
+  {
+    "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+    "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-06-04",
+    "pub_date": "2026-06-04"
+  },
+  {
     "title": "Embracing complexity: Parloa’s vision for next-gen customer experience",
     "url": "https://www.mckinsey.com/capabilities/operations/our-insights/embracing-complexity-parloas-vision-for-next-gen-customer-experience",
     "summary": "Chris Silver, chief revenue officer at Parloa, talks with McKinsey partner Brian Blackader about the shift to adopting AI technologies in customer care, getting to success, and how he sees the future.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-06-05",
+    "pub_date": "2026-06-04"
+  },
+  {
+    "title": "How CEOs can navigate the new era of trade",
+    "url": "https://www.mckinsey.com/mgi/our-research/how-ceos-can-navigate-the-new-era-of-trade",
+    "summary": "AI, geopolitical realignment, and shifting capital flows are redrawing trade corridors and reshaping competitive advantage—forcing leaders to rethink where and how they grow.",
     "source_id": "mckinsey",
     "first_seen": "2026-06-05",
     "pub_date": "2026-06-04"
@@ -1098,22 +1114,6 @@
     "pub_date": "2026-06-04"
   },
   {
-    "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
-    "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by&#8230;",
-    "source_id": "mit",
-    "first_seen": "2026-06-04",
-    "pub_date": "2026-06-04"
-  },
-  {
-    "title": "How CEOs can navigate the new era of trade",
-    "url": "https://www.mckinsey.com/mgi/our-research/how-ceos-can-navigate-the-new-era-of-trade",
-    "summary": "AI, geopolitical realignment, and shifting capital flows are redrawing trade corridors and reshaping competitive advantage—forcing leaders to rethink where and how they grow.",
-    "source_id": "mckinsey",
-    "first_seen": "2026-06-05",
-    "pub_date": "2026-06-04"
-  },
-  {
     "title": "How courts are coping with a flood of AI-generated lawsuits",
     "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
     "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting&#8230;",
@@ -1122,11 +1122,11 @@
     "pub_date": "2026-06-04"
   },
   {
-    "title": "Intel reage à ofensiva da NVIDIA e reforça papel das CPUs na era da IA agêntica",
-    "title_pt": "Intel reage à ofensiva da NVIDIA e reforça papel das CPUs na era da IA agêntica",
-    "url": "https://tiinside.com.br/03/06/2026/intel-reage-a-ofensiva-da-nvidia-e-reforca-papel-das-cpus-na-era-da-ia-agentica/",
-    "summary": "Poucos dias após a NVIDIA anunciar a CPU Vera, projetada especificamente para aplicações de inteligência artificial agêntica, a Intel apresentou uma ampla atualização de seu portfólio para data centers, redes e infraestrutura de IA, reforçando uma mensagem clara ao mercado: a CPU continua sendo o elemento central para orquestração, movimentação de dados e escalabilidade dos novos ambientes de IA.",
-    "summary_pt": "Poucos dias após a NVIDIA anunciar a CPU Vera, projetada especificamente para aplicações de inteligência artificial agêntica, a Intel apresentou uma ampla atualização de seu portfólio para data centers, redes e infraestrutura de IA, reforçando uma mensagem clara ao mercado: a CPU continua sendo o elemento central para orquestração, movimentação de dados e escalabilidade dos novos ambientes de IA.\nO movimento evidencia uma disputa crescente pelo controle da arquitetura das futuras fábricas de IA. Enquanto a NVIDIA aposta em uma nova geração de processadores próprios para reduzir a dependência da arquitetura x86, a Intel responde ampliando sua família Xeon 6+, lançando novas soluções de conectividade Ethernet de até 200 GbE e revelando avanços em sua próxima geração de GPUs para inferência de inteligência artificial.\nA estratégia da fabricante norte-americana busca reafirmar a relevância das CPUs em um momento em que o mercado passa a discutir qual será o papel desses processadores em ambientes dominados por agentes de IA, modelos de raciocínio e sistemas autônomos capazes de executar tarefas complexas.\nA discussão ganhou força após a NVIDIA apresentar a CPU Vera, equipada com 88 núcleos Olympus desenvolvidos pela própria companhia e projetados para acelerar cargas de trabalho ligadas à execução de agentes, processamento de dados, compilação de código e orquestração de aplicações de IA. Segundo a fabricante, o processador entrega desempenho até 1,8 vez superior ao de CPUs x86 em determinadas aplicações e já está sendo avaliado por empresas como Anthropic, Oracle Cloud Infrastructure, NYSE e diversos provedores globais de infraestrutura de IA.\nA Intel, por sua vez, adota uma narrativa diferente. Para a companhia, a evolução da inteligência artificial não reduz a importância das CPUs, mas amplia sua relevância como plano de controle de toda a infraestrutura computacional.\n\"A IA não escala como um conjunto isolado de componentes; ela escala como um sistema coordenado\", afirmou Kevork Kechichan, vice-presidente executivo e gerente-geral do Grupo de Data Center da Intel. Segundo o executivo, os desafios atuais da IA envolvem cada vez mais concorrência entre aplicações, gerenciamento de recursos, movimentação de dados e orquestração, funções que continuam dependendo fortemente das CPUs.\n**Xeon 6+ aposta em densidade computacional e eficiência**\nO principal anúncio da Intel foi a chegada dos novos processadores Xeon 6+ com Efficient-cores (E-cores), produzidos com a tecnologia Intel 18A, utilizada pela primeira vez em um processador para data center da empresa.\nOs chips chegam ao mercado com até 288 núcleos, oferecendo, segundo a fabricante, até 2,5 vezes mais desempenho em comparação com a geração anterior. A arquitetura foi projetada para ambientes de nuvem, telecomunicações e aplicações de IA agêntica que exigem grande paralelismo, baixa latência e alta eficiência energética.\nOs processadores também incorporam memória DDR5 de 12 canais, 96 pistas PC...",
+    "title": "Como a Globo transformou operações de publicidade com IA e já acumula mais de 700 soluções em produção",
+    "title_pt": "Como a Globo transformou operações de publicidade com IA e já acumula mais de 700 soluções em produção",
+    "url": "https://tiinside.com.br/03/06/2026/como-a-globo-transformou-operacoes-de-publicidade-com-ia-e-ja-acumula-mais-de-700-solucoes-em-producao/",
+    "summary": "A inteligência artificial vem redefinindo a forma como empresas tradicionais conduzem seus processos, desenvolvem produtos e geram novos negócios. Durante a Semana de Produtos 2026 do Itaú, Gabriel Feitosa, PO de Produtos de Dados e IA; Ligia Costa, PO de Produtos de Dados e IA; e Miguel Jr., gerente sênior de Negócios da Globo, mostraram como a companhia vem escalando o uso de IA para simplifi...",
+    "summary_pt": "A inteligência artificial vem redefinindo a forma como empresas tradicionais conduzem seus processos, desenvolvem produtos e geram novos negócios. Durante a Semana de Produtos 2026 do Itaú, Gabriel Feitosa, PO de Produtos de Dados e IA; Ligia Costa, PO de Produtos de Dados e IA; e Miguel Jr., gerente sênior de Negócios da Globo, mostraram como a companhia vem escalando o uso de IA para simplificar operações, acelerar entregas e impulsionar a transformação digital, compartilhando desafios, aprendizados e resultados obtidos em diferentes áreas da organização.\nNo início da apresentação, Gabriel Feitosa destacou que compreender a transformação digital exige, antes de tudo, entender o contexto organizacional em que ela acontece.\nSegundo ele, empresas que nasceram digitais possuem uma vantagem natural na adoção de novas tecnologias, uma vez que seus produtos já foram concebidos em um ambiente tecnológico. Organizações tradicionais, por outro lado, precisam enfrentar desafios adicionais relacionados a processos, cultura e infraestrutura.\n\"A Globo existia antes da internet. Nosso produto principal sempre foi o conteúdo. A tecnologia não era o produto em si, mas passou a ser um elemento fundamental para potencializar sua entrega\", explicou.\nEssa diferença de origem faz com que a jornada de transformação digital em empresas tradicionais seja mais complexa. Enquanto organizações nativas digitais conseguem evoluir de forma mais ágil, empresas consolidadas precisam superar barreiras acumuladas ao longo de décadas de operação.\n**O peso da cultura na transformação digital**\nPara os executivos, embora os desafios tecnológicos sejam relevantes, a principal barreira para a transformação não está nos sistemas ou nas ferramentas.\nGabriel argumentou que questões tecnológicas tendem a ser solucionadas ao longo do tempo, seja por meio de desenvolvimento interno, aquisição de soluções ou modernização da infraestrutura. Já a mudança cultural exige um esforço contínuo de adaptação e aprendizado.\n\"O maior desafio aqui é a barreira cultural. Não só a aceitação da tecnologia, mas a capacidade de adaptação das pessoas, dos gestores e da organização como um todo.\"\nO executivo relembrou que, historicamente, empresas tradicionais costumavam ser mais avessas ao erro. No entanto, a evolução da cultura organizacional tem permitido que a Globo avance para um modelo mais experimental, no qual testar, aprender e corrigir rapidamente passou a ser parte do processo.\n\"Não existe busca pela perfeição sem erro. A gente vai fazer, errar, testar, refazer, até chegar ao resultado que deseja.\"\nSegundo Miguel Júnior, esse movimento tem sido essencial para permitir que a companhia acompanhe as transformações aceleradas do mercado de mídia, um dos segmentos mais impactados pela digitalização.\n**Dados de qualidade como pré-requisito para IA**\nOutro ponto destacado pelos palestrantes foi a importância da estruturação dos dados como etapa fundamental para qualquer iniciativa de inteligência artif...",
     "source_id": "tiinside",
     "first_seen": "2026-06-06",
     "pub_date": "2026-06-03"
@@ -1137,26 +1137,6 @@
     "url": "https://tiinside.com.br/03/06/2026/vero-amplia-aposta-na-convergencia-expande-estrategia-movel-e-lanca-novo-portfolio-de-servicos/",
     "summary": "A Vero, uma das principais empresas de telecomunicações do país, inicia uma nova etapa da sua estratégia de negócios ao ampliar sua aposta na convergência e na expansão do móvel, que se consolida como um dos principais vetores de crescimento da companhia. A empresa passa a comercializar o serviço móvel de forma independente, sem a necessidade de contratação da banda larga fixa. ao mesmo tempo e...",
     "summary_pt": "A Vero, uma das principais empresas de telecomunicações do país, inicia uma nova etapa da sua estratégia de negócios ao ampliar sua aposta na convergência e na expansão do móvel, que se consolida como um dos principais vetores de crescimento da companhia. A empresa passa a comercializar o serviço móvel de forma independente, sem a necessidade de contratação da banda larga fixa. ao mesmo tempo em que lança um novo portfólio de soluções para consumidores e empresas.\nPara sustentar este novo ciclo, a Vero investirá aproximadamente R$ 110 milhões em até três anos, voltados para iniciativas como pesquisa e desenvolvimento de produtos, adaptações sistêmicas nos ERPs, core de rede, investimento em pessoal, adaptações na logística de chips, entre outras.\nO lançamento do Vero Controle Mais, oferta que combina o serviço móvel e conteúdos, permite que a companhia amplie significativamente seu mercado endereçável, para além da base tradicional de banda larga. A partir de julho, os novos planos móveis estarão disponíveis nas 300 cidades onde a Vero já possui operação móvel, criando uma nova avenida de crescimento baseada em maior geração de valor, fidelização e qualificação da base. A estratégia prevê uma expansão gradual para os demais estados onde a empresa já atua e, posteriormente, para todo o país.\nO movimento é acompanhado pela reformulação do portfólio B2C e B2B, que incorpora novas ofertas de entretenimento, inteligência artificial, telemedicina, além de cloud, segurança digital e serviços corporativos voltados à digitalização de pequenas e médias empresas.\n\"Desde o início da nossa trajetória, a Vero sempre buscou se antecipar aos movimentos do setor e construir sua estratégia a partir de uma leitura cuidadosa do mercado. A expansão do serviço móvel representa uma evolução natural do nosso negócio, porque amplia nosso mercado endereçável, fortalece a convergência e cria novas possibilidades de relacionamento com os clientes. Estamos fazendo esse movimento de forma disciplinada, com foco em rentabilidade e retorno sobre os ativos já construídos. A lógica da expansão não será volume a qualquer custo, vamos calibrar o crescimento pela resposta do mercado, aderência regional e retorno esperado\", afirma Fabiano Ferreira, CEO da Vero.\nNo segmento residencial, a companhia reformulou a lógica dos planos para ampliar a personalização da experiência do cliente, que passa a ter maior flexibilidade para construção de uma oferta mais aderente ao seu perfil. Nesse sentido, a Vero passa a comercializar os chamados superbundles, Vero Pro e Vero Pro Max, que combinam ultravelocidade, equipamentos de última geração, serviço móvel, streaming e outros benefícios em um único plano, simplificando a experiência por meio de uma relação centralizada e uma única cobrança.\nA frente de entretenimento também foi fortalecida. Além do Vero Vídeo, plataforma de TV ao vivo, a companhia passa a reunir a maior oferta de OTTs entre os ISPs do país, com a chegada de Prime Video e Appl...",
-    "source_id": "tiinside",
-    "first_seen": "2026-06-06",
-    "pub_date": "2026-06-03"
-  },
-  {
-    "title": "Especialistas alertam para riscos de segurança e necessidade de regulação para o futuro da IA",
-    "title_pt": "Especialistas alertam para riscos de segurança e necessidade de regulação para o futuro da IA",
-    "url": "https://tiinside.com.br/03/06/2026/especialistas-alertam-para-riscos-de-seguranca-e-necessidade-de-regulacao-para-o-futuro-da-ia/",
-    "summary": "Durante o ConectaTMC, Fábio Coelho, presidente do Google Brasil, Rodrigo Lima, diretor-geral da Motorola Brasil; Frederico Succi, vice-presidente de produtos e inovação da Visa Brasil e Carlos Neto, CEO da Matera, discutiram a rápida evolução e o futuro da IA no Brasil, em seus respectivos setores, desde os desafios de segurança cibernética, até a necessidade de regulação e educação do usuário....",
-    "summary_pt": "Durante o ConectaTMC, Fábio Coelho, presidente do Google Brasil, Rodrigo Lima, diretor-geral da Motorola Brasil; Frederico Succi, vice-presidente de produtos e inovação da Visa Brasil e Carlos Neto, CEO da Matera, discutiram a rápida evolução e o futuro da IA no Brasil, em seus respectivos setores, desde os desafios de segurança cibernética, até a necessidade de regulação e educação do usuário. O bate-papo foi mediado por Felipe Bueno, apresentador da TMC.\nCoelho traz que, a partir do momento em que a IA deixou de ser restrita às empresas e ficou disponível ao público, a tecnologia tornou necessário o desenvolvimento de novos guardrails e adaptação humana. \"A IA saiu da mão das empresas para ir às pessoas e, aqui no Brasil, com um nível de adoção altíssima, temos que ter um processo de segurança ainda maior. As empresas têm que se habilitar a desenvolver soluções locais, precisamos que as pessoas se capacitem a lutar contra as ameaças e termos um regulamento que proteja, mas não limite a inovação\", explica.\nSucci acrescenta que a confiança é a base da tecnologia e que o Brasil é um \"excelente laboratório\" para testar soluções globais. \" Está muito claro que a segurança é um dos setores onde o Brasil realmente pode dar uma contribuição enorme e, não tenha dúvida, se determinada solução funciona no Brasil, ela está testada para funcionar em qualquer lugar do mundo. O nome do jogo sempre foi e vai continuar sendo confiança. A gente tem que seguir curioso, inovar e acreditar que é possível fazer um uso bastante positivo da IA com segurança\", afirma.\nJá Neto apresenta uma visão mais cautelosa e cética sobre a tecnologia. O executivo aponta para riscos no que tange à computação quântica e defende sistemas de segurança mais simples e menos dependentes de privilégios humanos. \"As pessoas fazem softwares muito complexos e colocam mil portas de segurança para garantir a segurança daquilo que não existe. Quanto mais portas fechadas, pior. O ideal é não ter porta. Então, a segurança, quanto mais simples, melhor. Eu não posso ter um sistema que não tenha ransomware, tenho que ter um sistema que tenha toda a semana, mas que não cause problema. Também, não tenho que ter privilégios. Ter privilégios é um perigo. Um funcionário com privilégios pode ter acessos a muitas informações que, talvez, ele não devesse ter\", destaca.\nPor fim, Vidigal aponta que, por mais que o brasileiro seja um \"early adopter\",  ainda há uma baixa cultura de segurança. O diretor-geral da Motorola Brasil apoia que as empresas ofereçam soluções de segurança robustas e intuitivas para os seus clientes. \"O brasileiro tem uma velocidade de adoção muito grande, mas não tem essa preocupação com a segurança, não tem um conhecimento de como utilizar os seus dados. A gente tem que trabalhar muito para que haja uma evolução nesse sentido e empregar oferecerem soluções mais robustas e completas vão permitir um uso mais seguro das tecnologias\", conclui.",
-    "source_id": "tiinside",
-    "first_seen": "2026-06-06",
-    "pub_date": "2026-06-03"
-  },
-  {
-    "title": "Apps de IA já estão presentes em 38,9% dos celulares brasileiros",
-    "title_pt": "Apps de IA já estão presentes em 38,9% dos celulares brasileiros",
-    "url": "https://tiinside.com.br/03/06/2026/apps-de-ia-ja-estao-presentes-em-389-dos-celulares-brasileiros/",
-    "summary": "Um estudo realizado pela Mintech, datatech especializada na coleta, tratamento e modelagem de dados extraídos diretamente de smartphones, revela que 38,9% dos telefones celulares brasileiros já possuem pelo menos um aplicativo dedicado à Inteligência Artificial (IA) instalado e em uso potencial pelos consumidores. O levantamento analisou uma base composta por 1 milhão de smartphones em março e ...",
-    "summary_pt": "Um estudo realizado pela Mintech, datatech especializada na coleta, tratamento e modelagem de dados extraídos diretamente de smartphones, revela que 38,9% dos telefones celulares brasileiros já possuem pelo menos um aplicativo dedicado à Inteligência Artificial (IA) instalado e em uso potencial pelos consumidores. O levantamento analisou uma base composta por 1 milhão de smartphones em março e identificou a presença desse tipo de aplicação em 389.865 aparelhos.\nPara o CEO da Mintech, Gustavo Cruz, os resultados da pesquisa sinalizam que o Brasil está acompanhando o que tem se demonstrado uma tendência mundial em relação ao uso de IA. \"Os números comprovam que a adoção da IA deixou de ser uma prática restrita ao ambiente corporativo e passou a ocupar espaço relevante no cotidiano digital da população\", diz.\nEle argumenta que o resultado acompanha um movimento observado em diferentes mercados globais que é a rápida incorporação de ferramentas generativas e assistentes inteligentes diretamente nos dispositivos móveis. \"Em um cenário internacional marcado pela popularização de modelos de IA e pela disputa por presença no ecossistema digital, o smartphone se consolida como principal ponto de contato entre usuários e novas tecnologias\", diz.\nEntre as aplicações mais recorrentes detectadas pela Mintech, cinco marcas concentram grande parte do uso dos brasileiros. O ChatGPT aparece na liderança, presente em 23,7% dos celulares analisados, seguido por Gemini (8%), Copilot (1,6%), DeepSeek (0,8%) e Grok (0,6%). Também aparecem no ranking aplicativos como Bard, Claude, Codex, Grok Beta, Grok Beta Premium, Manus e Perplexity.\nSegundo os responsáveis pelo trabalho, a predominância dos assistentes conversacionais e das soluções de IA generativa reforça outra tendência mundial: a transformação da interação digital por meio de interfaces mais naturais, orientadas por linguagem e cada vez mais integradas à rotina de trabalho, estudo, consumo e busca por informação.\n\"À medida que mais usuários incorporam IA ao celular, cresce também a demanda por serviços personalizados, experiências automatizadas e modelos capazes de transformar dados em respostas e decisões em tempo real\", afirma Cruz. \"Os números mostram que o Brasil já participa ativamente desse ciclo de adoção global e reforçam o papel dos dispositivos móveis como um dos principais vetores de disseminação da inteligência artificial nos próximos anos\", conclui.",
     "source_id": "tiinside",
     "first_seen": "2026-06-06",
     "pub_date": "2026-06-03"
@@ -1182,10 +1162,58 @@
     "pub_date": "2026-06-03"
   },
   {
+    "title": "Apps de IA já estão presentes em 38,9% dos celulares brasileiros",
+    "title_pt": "Apps de IA já estão presentes em 38,9% dos celulares brasileiros",
+    "url": "https://tiinside.com.br/03/06/2026/apps-de-ia-ja-estao-presentes-em-389-dos-celulares-brasileiros/",
+    "summary": "Um estudo realizado pela Mintech, datatech especializada na coleta, tratamento e modelagem de dados extraídos diretamente de smartphones, revela que 38,9% dos telefones celulares brasileiros já possuem pelo menos um aplicativo dedicado à Inteligência Artificial (IA) instalado e em uso potencial pelos consumidores. O levantamento analisou uma base composta por 1 milhão de smartphones em março e ...",
+    "summary_pt": "Um estudo realizado pela Mintech, datatech especializada na coleta, tratamento e modelagem de dados extraídos diretamente de smartphones, revela que 38,9% dos telefones celulares brasileiros já possuem pelo menos um aplicativo dedicado à Inteligência Artificial (IA) instalado e em uso potencial pelos consumidores. O levantamento analisou uma base composta por 1 milhão de smartphones em março e identificou a presença desse tipo de aplicação em 389.865 aparelhos.\nPara o CEO da Mintech, Gustavo Cruz, os resultados da pesquisa sinalizam que o Brasil está acompanhando o que tem se demonstrado uma tendência mundial em relação ao uso de IA. \"Os números comprovam que a adoção da IA deixou de ser uma prática restrita ao ambiente corporativo e passou a ocupar espaço relevante no cotidiano digital da população\", diz.\nEle argumenta que o resultado acompanha um movimento observado em diferentes mercados globais que é a rápida incorporação de ferramentas generativas e assistentes inteligentes diretamente nos dispositivos móveis. \"Em um cenário internacional marcado pela popularização de modelos de IA e pela disputa por presença no ecossistema digital, o smartphone se consolida como principal ponto de contato entre usuários e novas tecnologias\", diz.\nEntre as aplicações mais recorrentes detectadas pela Mintech, cinco marcas concentram grande parte do uso dos brasileiros. O ChatGPT aparece na liderança, presente em 23,7% dos celulares analisados, seguido por Gemini (8%), Copilot (1,6%), DeepSeek (0,8%) e Grok (0,6%). Também aparecem no ranking aplicativos como Bard, Claude, Codex, Grok Beta, Grok Beta Premium, Manus e Perplexity.\nSegundo os responsáveis pelo trabalho, a predominância dos assistentes conversacionais e das soluções de IA generativa reforça outra tendência mundial: a transformação da interação digital por meio de interfaces mais naturais, orientadas por linguagem e cada vez mais integradas à rotina de trabalho, estudo, consumo e busca por informação.\n\"À medida que mais usuários incorporam IA ao celular, cresce também a demanda por serviços personalizados, experiências automatizadas e modelos capazes de transformar dados em respostas e decisões em tempo real\", afirma Cruz. \"Os números mostram que o Brasil já participa ativamente desse ciclo de adoção global e reforçam o papel dos dispositivos móveis como um dos principais vetores de disseminação da inteligência artificial nos próximos anos\", conclui.",
+    "source_id": "tiinside",
+    "first_seen": "2026-06-06",
+    "pub_date": "2026-06-03"
+  },
+  {
+    "title": "Intel reage à ofensiva da NVIDIA e reforça papel das CPUs na era da IA agêntica",
+    "title_pt": "Intel reage à ofensiva da NVIDIA e reforça papel das CPUs na era da IA agêntica",
+    "url": "https://tiinside.com.br/03/06/2026/intel-reage-a-ofensiva-da-nvidia-e-reforca-papel-das-cpus-na-era-da-ia-agentica/",
+    "summary": "Poucos dias após a NVIDIA anunciar a CPU Vera, projetada especificamente para aplicações de inteligência artificial agêntica, a Intel apresentou uma ampla atualização de seu portfólio para data centers, redes e infraestrutura de IA, reforçando uma mensagem clara ao mercado: a CPU continua sendo o elemento central para orquestração, movimentação de dados e escalabilidade dos novos ambientes de IA.",
+    "summary_pt": "Poucos dias após a NVIDIA anunciar a CPU Vera, projetada especificamente para aplicações de inteligência artificial agêntica, a Intel apresentou uma ampla atualização de seu portfólio para data centers, redes e infraestrutura de IA, reforçando uma mensagem clara ao mercado: a CPU continua sendo o elemento central para orquestração, movimentação de dados e escalabilidade dos novos ambientes de IA.\nO movimento evidencia uma disputa crescente pelo controle da arquitetura das futuras fábricas de IA. Enquanto a NVIDIA aposta em uma nova geração de processadores próprios para reduzir a dependência da arquitetura x86, a Intel responde ampliando sua família Xeon 6+, lançando novas soluções de conectividade Ethernet de até 200 GbE e revelando avanços em sua próxima geração de GPUs para inferência de inteligência artificial.\nA estratégia da fabricante norte-americana busca reafirmar a relevância das CPUs em um momento em que o mercado passa a discutir qual será o papel desses processadores em ambientes dominados por agentes de IA, modelos de raciocínio e sistemas autônomos capazes de executar tarefas complexas.\nA discussão ganhou força após a NVIDIA apresentar a CPU Vera, equipada com 88 núcleos Olympus desenvolvidos pela própria companhia e projetados para acelerar cargas de trabalho ligadas à execução de agentes, processamento de dados, compilação de código e orquestração de aplicações de IA. Segundo a fabricante, o processador entrega desempenho até 1,8 vez superior ao de CPUs x86 em determinadas aplicações e já está sendo avaliado por empresas como Anthropic, Oracle Cloud Infrastructure, NYSE e diversos provedores globais de infraestrutura de IA.\nA Intel, por sua vez, adota uma narrativa diferente. Para a companhia, a evolução da inteligência artificial não reduz a importância das CPUs, mas amplia sua relevância como plano de controle de toda a infraestrutura computacional.\n\"A IA não escala como um conjunto isolado de componentes; ela escala como um sistema coordenado\", afirmou Kevork Kechichan, vice-presidente executivo e gerente-geral do Grupo de Data Center da Intel. Segundo o executivo, os desafios atuais da IA envolvem cada vez mais concorrência entre aplicações, gerenciamento de recursos, movimentação de dados e orquestração, funções que continuam dependendo fortemente das CPUs.\n**Xeon 6+ aposta em densidade computacional e eficiência**\nO principal anúncio da Intel foi a chegada dos novos processadores Xeon 6+ com Efficient-cores (E-cores), produzidos com a tecnologia Intel 18A, utilizada pela primeira vez em um processador para data center da empresa.\nOs chips chegam ao mercado com até 288 núcleos, oferecendo, segundo a fabricante, até 2,5 vezes mais desempenho em comparação com a geração anterior. A arquitetura foi projetada para ambientes de nuvem, telecomunicações e aplicações de IA agêntica que exigem grande paralelismo, baixa latência e alta eficiência energética.\nOs processadores também incorporam memória DDR5 de 12 canais, 96 pistas PC...",
+    "source_id": "tiinside",
+    "first_seen": "2026-06-06",
+    "pub_date": "2026-06-03"
+  },
+  {
     "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
     "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
     "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 5 key points in Trump&#8217;s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising to promote&#8230;",
     "source_id": "mit",
+    "first_seen": "2026-06-03",
+    "pub_date": "2026-06-03"
+  },
+  {
+    "title": "Bancos avançam da experimentação de IA aplicada a operações críticas",
+    "title_pt": "Bancos avançam da experimentação de IA aplicada a operações críticas",
+    "url": "https://tiinside.com.br/03/06/2026/bancos-avancam-da-experimentacao-de-ia-aplicada-a-operacoes-criticas/",
+    "summary": "O mercado financeiro está entre os setores que mais avançam no uso de inteligência artificial, mas ainda enfrenta um desafio comum às grandes organizações: transformar pilotos e casos isolados em soluções integradas aos fluxos críticos do negócio.",
+    "summary_pt": "O mercado financeiro está entre os setores que mais avançam no uso de inteligência artificial, mas ainda enfrenta um desafio comum às grandes organizações: transformar pilotos e casos isolados em soluções integradas aos fluxos críticos do negócio.\nSegundo o relatório \"State of AI in Business 2025\", do MIT NANDA, mais de 80% das empresas já testaram ou pilotaram soluções de IA generativa, mas apenas 5% conseguiram implementar essas iniciativas em escala nos fluxos críticos de negócio. O estudo também aponta que serviços financeiros seguem entre os segmentos com alta atividade de pilotos, mas ainda com baixa transformação estrutural efetiva.\nNesse cenário, bancos e seguradoras têm ampliado os investimentos em modernização tecnológica, integração de dados e automação inteligente para acelerar ganhos de eficiência operacional e melhorar a experiência do cliente. Para a Act Digital, multinacional de tecnologia AI-first com atuação em 12 países, o setor entrou em uma nova etapa: a da IA operacional, em que o foco deixa de ser apenas a experimentação e passa a ser a geração de resultados concretos, com escala, governança e integração aos sistemas existentes.\nCom presença significativa no setor de serviços financeiros, a companhia tem acompanhado de perto o movimento das instituições em direção à hiperpersonalização, evolução de modelos de crédito, integração omnichannel e automação de processos críticos.\n\"A discussão deixou de ser apenas experimentar inteligência artificial. O mercado agora busca como escalar essas iniciativas com governança, segurança, qualidade de dados e impacto real nas áreas de negócio\", afirma Frederic Martineau, sócio e CTO da Act Digital.\nSegundo o executivo, embora a IA generativa tenha acelerado o interesse das empresas nos últimos anos, muitas organizações ainda enfrentam desafios estruturais para transformar pilotos em soluções escaláveis.\nEntre os principais gargalos estão sistemas legados, dados fragmentados, baixa integração entre plataformas, dificuldade de medir retorno e adaptação das equipes a novos modelos de trabalho com IA.\nA Act Digital atua em projetos voltados à modernização de arquitetura tecnológica, cloud, engenharia de dados, desenvolvimento de software e implementação de soluções de IA aplicadas a operações críticas do setor financeiro. A empresa trabalha com bancos, seguradoras e grandes instituições financeiras em modelos que vão desde squads especializadas até operações gerenciadas de longo prazo.\n\"O setor financeiro brasileiro possui um dos ambientes mais avançados do mundo em digitalização, Open Finance e canais conversacionais. Ao mesmo tempo, é um mercado extremamente pressionado por eficiência, experiência do cliente, segurança e velocidade de adaptação\", afirma Martineau.\nEntre as principais demandas observadas pela empresa estão projetos relacionados à automação de backoffice, prevenção a fraudes, integração de canais, personalização da jornada do cliente, modernização de plataformas e uso de a...",
+    "source_id": "tiinside",
+    "first_seen": "2026-06-06",
+    "pub_date": "2026-06-03"
+  },
+  {
+    "title": "Especialistas alertam para riscos de segurança e necessidade de regulação para o futuro da IA",
+    "title_pt": "Especialistas alertam para riscos de segurança e necessidade de regulação para o futuro da IA",
+    "url": "https://tiinside.com.br/03/06/2026/especialistas-alertam-para-riscos-de-seguranca-e-necessidade-de-regulacao-para-o-futuro-da-ia/",
+    "summary": "Durante o ConectaTMC, Fábio Coelho, presidente do Google Brasil, Rodrigo Lima, diretor-geral da Motorola Brasil; Frederico Succi, vice-presidente de produtos e inovação da Visa Brasil e Carlos Neto, CEO da Matera, discutiram a rápida evolução e o futuro da IA no Brasil, em seus respectivos setores, desde os desafios de segurança cibernética, até a necessidade de regulação e educação do usuário....",
+    "summary_pt": "Durante o ConectaTMC, Fábio Coelho, presidente do Google Brasil, Rodrigo Lima, diretor-geral da Motorola Brasil; Frederico Succi, vice-presidente de produtos e inovação da Visa Brasil e Carlos Neto, CEO da Matera, discutiram a rápida evolução e o futuro da IA no Brasil, em seus respectivos setores, desde os desafios de segurança cibernética, até a necessidade de regulação e educação do usuário. O bate-papo foi mediado por Felipe Bueno, apresentador da TMC.\nCoelho traz que, a partir do momento em que a IA deixou de ser restrita às empresas e ficou disponível ao público, a tecnologia tornou necessário o desenvolvimento de novos guardrails e adaptação humana. \"A IA saiu da mão das empresas para ir às pessoas e, aqui no Brasil, com um nível de adoção altíssima, temos que ter um processo de segurança ainda maior. As empresas têm que se habilitar a desenvolver soluções locais, precisamos que as pessoas se capacitem a lutar contra as ameaças e termos um regulamento que proteja, mas não limite a inovação\", explica.\nSucci acrescenta que a confiança é a base da tecnologia e que o Brasil é um \"excelente laboratório\" para testar soluções globais. \" Está muito claro que a segurança é um dos setores onde o Brasil realmente pode dar uma contribuição enorme e, não tenha dúvida, se determinada solução funciona no Brasil, ela está testada para funcionar em qualquer lugar do mundo. O nome do jogo sempre foi e vai continuar sendo confiança. A gente tem que seguir curioso, inovar e acreditar que é possível fazer um uso bastante positivo da IA com segurança\", afirma.\nJá Neto apresenta uma visão mais cautelosa e cética sobre a tecnologia. O executivo aponta para riscos no que tange à computação quântica e defende sistemas de segurança mais simples e menos dependentes de privilégios humanos. \"As pessoas fazem softwares muito complexos e colocam mil portas de segurança para garantir a segurança daquilo que não existe. Quanto mais portas fechadas, pior. O ideal é não ter porta. Então, a segurança, quanto mais simples, melhor. Eu não posso ter um sistema que não tenha ransomware, tenho que ter um sistema que tenha toda a semana, mas que não cause problema. Também, não tenho que ter privilégios. Ter privilégios é um perigo. Um funcionário com privilégios pode ter acessos a muitas informações que, talvez, ele não devesse ter\", destaca.\nPor fim, Vidigal aponta que, por mais que o brasileiro seja um \"early adopter\",  ainda há uma baixa cultura de segurança. O diretor-geral da Motorola Brasil apoia que as empresas ofereçam soluções de segurança robustas e intuitivas para os seus clientes. \"O brasileiro tem uma velocidade de adoção muito grande, mas não tem essa preocupação com a segurança, não tem um conhecimento de como utilizar os seus dados. A gente tem que trabalhar muito para que haja uma evolução nesse sentido e empregar oferecerem soluções mais robustas e completas vão permitir um uso mais seguro das tecnologias\", conclui.",
+    "source_id": "tiinside",
+    "first_seen": "2026-06-06",
+    "pub_date": "2026-06-03"
+  },
+  {
+    "title": "When warranty costs rival R&D spend: Remaking vehicle quality with AI",
+    "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/when-warranty-costs-rival-r-and-d-spend-remaking-vehicle-quality-with-ai",
+    "summary": "As warranty costs surge, automakers are turning to AI-enabled quality systems to detect risks earlier and reduce financial exposure.",
+    "source_id": "mckinsey",
     "first_seen": "2026-06-03",
     "pub_date": "2026-06-03"
   },
@@ -1200,39 +1228,11 @@
     "pub_date": "2026-06-03"
   },
   {
-    "title": "Como a Globo transformou operações de publicidade com IA e já acumula mais de 700 soluções em produção",
-    "title_pt": "Como a Globo transformou operações de publicidade com IA e já acumula mais de 700 soluções em produção",
-    "url": "https://tiinside.com.br/03/06/2026/como-a-globo-transformou-operacoes-de-publicidade-com-ia-e-ja-acumula-mais-de-700-solucoes-em-producao/",
-    "summary": "A inteligência artificial vem redefinindo a forma como empresas tradicionais conduzem seus processos, desenvolvem produtos e geram novos negócios. Durante a Semana de Produtos 2026 do Itaú, Gabriel Feitosa, PO de Produtos de Dados e IA; Ligia Costa, PO de Produtos de Dados e IA; e Miguel Jr., gerente sênior de Negócios da Globo, mostraram como a companhia vem escalando o uso de IA para simplifi...",
-    "summary_pt": "A inteligência artificial vem redefinindo a forma como empresas tradicionais conduzem seus processos, desenvolvem produtos e geram novos negócios. Durante a Semana de Produtos 2026 do Itaú, Gabriel Feitosa, PO de Produtos de Dados e IA; Ligia Costa, PO de Produtos de Dados e IA; e Miguel Jr., gerente sênior de Negócios da Globo, mostraram como a companhia vem escalando o uso de IA para simplificar operações, acelerar entregas e impulsionar a transformação digital, compartilhando desafios, aprendizados e resultados obtidos em diferentes áreas da organização.\nNo início da apresentação, Gabriel Feitosa destacou que compreender a transformação digital exige, antes de tudo, entender o contexto organizacional em que ela acontece.\nSegundo ele, empresas que nasceram digitais possuem uma vantagem natural na adoção de novas tecnologias, uma vez que seus produtos já foram concebidos em um ambiente tecnológico. Organizações tradicionais, por outro lado, precisam enfrentar desafios adicionais relacionados a processos, cultura e infraestrutura.\n\"A Globo existia antes da internet. Nosso produto principal sempre foi o conteúdo. A tecnologia não era o produto em si, mas passou a ser um elemento fundamental para potencializar sua entrega\", explicou.\nEssa diferença de origem faz com que a jornada de transformação digital em empresas tradicionais seja mais complexa. Enquanto organizações nativas digitais conseguem evoluir de forma mais ágil, empresas consolidadas precisam superar barreiras acumuladas ao longo de décadas de operação.\n**O peso da cultura na transformação digital**\nPara os executivos, embora os desafios tecnológicos sejam relevantes, a principal barreira para a transformação não está nos sistemas ou nas ferramentas.\nGabriel argumentou que questões tecnológicas tendem a ser solucionadas ao longo do tempo, seja por meio de desenvolvimento interno, aquisição de soluções ou modernização da infraestrutura. Já a mudança cultural exige um esforço contínuo de adaptação e aprendizado.\n\"O maior desafio aqui é a barreira cultural. Não só a aceitação da tecnologia, mas a capacidade de adaptação das pessoas, dos gestores e da organização como um todo.\"\nO executivo relembrou que, historicamente, empresas tradicionais costumavam ser mais avessas ao erro. No entanto, a evolução da cultura organizacional tem permitido que a Globo avance para um modelo mais experimental, no qual testar, aprender e corrigir rapidamente passou a ser parte do processo.\n\"Não existe busca pela perfeição sem erro. A gente vai fazer, errar, testar, refazer, até chegar ao resultado que deseja.\"\nSegundo Miguel Júnior, esse movimento tem sido essencial para permitir que a companhia acompanhe as transformações aceleradas do mercado de mídia, um dos segmentos mais impactados pela digitalização.\n**Dados de qualidade como pré-requisito para IA**\nOutro ponto destacado pelos palestrantes foi a importância da estruturação dos dados como etapa fundamental para qualquer iniciativa de inteligência artif...",
-    "source_id": "tiinside",
-    "first_seen": "2026-06-06",
-    "pub_date": "2026-06-03"
-  },
-  {
-    "title": "Bancos avançam da experimentação de IA aplicada a operações críticas",
-    "title_pt": "Bancos avançam da experimentação de IA aplicada a operações críticas",
-    "url": "https://tiinside.com.br/03/06/2026/bancos-avancam-da-experimentacao-de-ia-aplicada-a-operacoes-criticas/",
-    "summary": "O mercado financeiro está entre os setores que mais avançam no uso de inteligência artificial, mas ainda enfrenta um desafio comum às grandes organizações: transformar pilotos e casos isolados em soluções integradas aos fluxos críticos do negócio.",
-    "summary_pt": "O mercado financeiro está entre os setores que mais avançam no uso de inteligência artificial, mas ainda enfrenta um desafio comum às grandes organizações: transformar pilotos e casos isolados em soluções integradas aos fluxos críticos do negócio.\nSegundo o relatório \"State of AI in Business 2025\", do MIT NANDA, mais de 80% das empresas já testaram ou pilotaram soluções de IA generativa, mas apenas 5% conseguiram implementar essas iniciativas em escala nos fluxos críticos de negócio. O estudo também aponta que serviços financeiros seguem entre os segmentos com alta atividade de pilotos, mas ainda com baixa transformação estrutural efetiva.\nNesse cenário, bancos e seguradoras têm ampliado os investimentos em modernização tecnológica, integração de dados e automação inteligente para acelerar ganhos de eficiência operacional e melhorar a experiência do cliente. Para a Act Digital, multinacional de tecnologia AI-first com atuação em 12 países, o setor entrou em uma nova etapa: a da IA operacional, em que o foco deixa de ser apenas a experimentação e passa a ser a geração de resultados concretos, com escala, governança e integração aos sistemas existentes.\nCom presença significativa no setor de serviços financeiros, a companhia tem acompanhado de perto o movimento das instituições em direção à hiperpersonalização, evolução de modelos de crédito, integração omnichannel e automação de processos críticos.\n\"A discussão deixou de ser apenas experimentar inteligência artificial. O mercado agora busca como escalar essas iniciativas com governança, segurança, qualidade de dados e impacto real nas áreas de negócio\", afirma Frederic Martineau, sócio e CTO da Act Digital.\nSegundo o executivo, embora a IA generativa tenha acelerado o interesse das empresas nos últimos anos, muitas organizações ainda enfrentam desafios estruturais para transformar pilotos em soluções escaláveis.\nEntre os principais gargalos estão sistemas legados, dados fragmentados, baixa integração entre plataformas, dificuldade de medir retorno e adaptação das equipes a novos modelos de trabalho com IA.\nA Act Digital atua em projetos voltados à modernização de arquitetura tecnológica, cloud, engenharia de dados, desenvolvimento de software e implementação de soluções de IA aplicadas a operações críticas do setor financeiro. A empresa trabalha com bancos, seguradoras e grandes instituições financeiras em modelos que vão desde squads especializadas até operações gerenciadas de longo prazo.\n\"O setor financeiro brasileiro possui um dos ambientes mais avançados do mundo em digitalização, Open Finance e canais conversacionais. Ao mesmo tempo, é um mercado extremamente pressionado por eficiência, experiência do cliente, segurança e velocidade de adaptação\", afirma Martineau.\nEntre as principais demandas observadas pela empresa estão projetos relacionados à automação de backoffice, prevenção a fraudes, integração de canais, personalização da jornada do cliente, modernização de plataformas e uso de a...",
-    "source_id": "tiinside",
-    "first_seen": "2026-06-06",
-    "pub_date": "2026-06-03"
-  },
-  {
-    "title": "When warranty costs rival R&D spend: Remaking vehicle quality with AI",
-    "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/when-warranty-costs-rival-r-and-d-spend-remaking-vehicle-quality-with-ai",
-    "summary": "As warranty costs surge, automakers are turning to AI-enabled quality systems to detect risks earlier and reduce financial exposure.",
+    "title": "The next gold rush: How the Bay Area can keep its edge in the AI era",
+    "url": "https://www.mckinsey.com/industries/social-sector/our-insights/the-next-gold-rush-how-the-bay-area-can-keep-its-edge-in-the-ai-era",
+    "summary": "San Francisco is driving the AI revolution. How can the Bay Area sustain and expand this innovation ecosystem in the years to come?",
     "source_id": "mckinsey",
     "first_seen": "2026-06-03",
-    "pub_date": "2026-06-03"
-  },
-  {
-    "title": "The Download: AI can run your admin department now",
-    "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. Large companies can hire&#8230;",
-    "source_id": "mit",
-    "first_seen": "2026-06-02",
     "pub_date": "2026-06-02"
   },
   {
@@ -1246,11 +1246,19 @@
     "pub_date": "2026-06-02"
   },
   {
-    "title": "The next gold rush: How the Bay Area can keep its edge in the AI era",
-    "url": "https://www.mckinsey.com/industries/social-sector/our-insights/the-next-gold-rush-how-the-bay-area-can-keep-its-edge-in-the-ai-era",
-    "summary": "San Francisco is driving the AI revolution. How can the Bay Area sustain and expand this innovation ecosystem in the years to come?",
-    "source_id": "mckinsey",
-    "first_seen": "2026-06-03",
+    "title": "How small businesses can leverage AI",
+    "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+    "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-06-02",
+    "pub_date": "2026-06-02"
+  },
+  {
+    "title": "The Download: AI can run your admin department now",
+    "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. Large companies can hire&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-06-02",
     "pub_date": "2026-06-02"
   },
   {
@@ -1261,14 +1269,6 @@
     "summary_pt": "Durante o Oracle Data Deep Dive, realizado em 21 de maio, em São Paulo, a companhia deixou claro que sua estratégia para inteligência artificial vai muito além da corrida por modelos generativos.\nEm uma apresentação conduzida por Leandro Vieira, vice-presidente de IA e Tech Cloud para a América Latina, e Marcelo Christianini, vice-presidente de IA e Cloud Engineering da companhia na região, a empresa apresentou sua visão para a próxima fase da IA corporativa: um cenário baseado em agentes inteligentes, integração entre aplicações e dados, arquiteturas escaláveis e forte governança.\nMais do que anunciar novas funcionalidades, a Oracle aproveitou o evento para reforçar um posicionamento estratégico que vem se consolidando dentro da companhia: o de atuar como a camada estrutural da IA corporativa. Na visão dos executivos, o diferencial competitivo das empresas nos próximos anos não estará apenas no acesso aos modelos de IA, mas na capacidade de conectar agentes, infraestrutura, segurança e dados de forma consistente.\n\"A interação homem-sistema vai mudar muito nos próximos anos\", afirmou Leandro Vieira. \"Durante muito tempo operamos sistemas por meio do computador ou do celular. Agora começamos a entrar em uma fase em que os agentes executam automaticamente aquilo que precisa ser feito.\"\n**A aposta da Oracle na IA agentic**\nA Oracle apresentou durante o evento uma série de iniciativas voltadas à chamada IA agentic, conceito baseado em agentes autônomos capazes de executar tarefas, tomar decisões contextuais e interagir com diferentes sistemas corporativos.\nEntre as novidades destacadas estão recursos como MCP Server e Agent Factory, plataforma que permite executar agentes diretamente dentro do banco de dados. Segundo Marcelo Christianini, a integração entre IA, infraestrutura e dados será um dos pilares centrais da próxima geração de aplicações empresariais.\n\"A parte do MCP Server é muito importante para conectar os agentes diretamente. E o Agent Factory permite rodar agentes dentro do próprio banco de dados\", explicou.\nNa prática, a visão da Oracle é transformar aplicações corporativas em ambientes capazes de operar com agentes inteligentes executando tarefas de maneira autônoma, reduzindo a dependência de interfaces tradicionais e automatizando fluxos inteiros de trabalho.\nPara a companhia, essa transformação será comparável ao impacto provocado anteriormente pela chegada da internet, da computação em nuvem e da mobilidade.\n**Governança e arquitetura ganham protagonismo**\nAo longo da apresentação, os executivos reforçaram diversas vezes que a adoção de IA corporativa não pode ser baseada apenas em velocidade ou experimentação rápida.\nA Oracle defendeu que empresas precisarão construir fundações sólidas envolvendo arquitetura, governança, segurança e gestão de dados para conseguir escalar projetos de inteligência artificial de forma sustentável.\n\"O mundo está mudando rápido demais para criar novos legados tecnológicos\", afirmou Leandro Vieira.\nA ...",
     "source_id": "tiinside",
     "first_seen": "2026-06-06",
-    "pub_date": "2026-06-02"
-  },
-  {
-    "title": "How small businesses can leverage AI",
-    "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-    "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to&#8230;",
-    "source_id": "mit",
-    "first_seen": "2026-06-02",
     "pub_date": "2026-06-02"
   },
   {
@@ -1328,16 +1328,6 @@
     "pub_date": "2026-06-01"
   },
   {
-    "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-    "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-    "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in&#8230;",
-    "source_id": "mit",
-    "first_seen": "2026-05-31",
-    "pub_date": "2026-05-29",
-    "title_pt": "Como a 'Magnifica Humanitas' do Papa oferece um modelo para que indivíduos enfrentem o momento da IA",
-    "summary_pt": "O artigo da MIT Technology Review analisa a encíclica papal \"Magnifica Humanitas\" (Magnífica Humanidade), publicada pelo Papa Leão XIV em maio de 2026, como um chamado ético e político à ação diante do avanço da inteligência artificial. A afirmação central do documento — \"a tecnologia nunca é neutra\" — é apresentada como ponto de partida para uma reflexão sobre responsabilidade coletiva num momento em que a IA está transformando o mundo com velocidade comparável à Revolução Industrial.\r\n\r\nOs autores argumentam que, na ausência de regulação efetiva por parte de governos e organismos internacionais, investidores institucionais têm preenchido esse vácuo. Coalizões como o Interfaith Center on Corporate Responsibility, representando mais de US$ 400 bilhões em ativos, têm apresentado resoluções em assembleias de acionistas de empresas como Alphabet, Amazon, Nvidia, Meta e Microsoft, exigindo transparência e responsabilização no uso da IA.\r\n\r\nA encíclica é posicionada não como ruptura, mas como ratificação de uma agenda de governança que já está em movimento. Com OpenAI, Anthropic e xAI se preparando para abrir capital, os mesmos mecanismos de pressão acionária poderão ser aplicados a empresas que hoje são privadas e praticamente imunes a esse tipo de escrutínio."
-  },
-  {
     "title": "AI is already rewiring the aftermarket and services",
     "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/ai-is-already-rewiring-the-aftermarket-and-services",
     "summary": "For industrial companies, applying AI to the aftermarket and services could provide a source for differentiation on top of cost and time savings and enhanced customer experiences.",
@@ -1346,6 +1336,24 @@
     "pub_date": "2026-05-29",
     "title_pt": "A IA já está reconfigurando o pós-venda e os serviços na indústria automotiva e de manufatura",
     "summary_pt": "O relatório da McKinsey examina como a inteligência artificial está transformando o mercado de pós-venda e serviços nas indústrias automotiva e industrial — segmentos que historicamente respondem pela maior parte das margens das empresas do setor. Em empresas de elevadores e escadas rolantes, por exemplo, os serviços podem representar até três quartos das margens totais.\r\n\r\nO artigo detalha como a IA está remodelando cada etapa do ciclo de vida de serviços: da inovação e desenvolvimento de produtos (com gêmeos digitais que reduzem custos de P&D em até 5%) à geração de demanda (copilots de vendas que dobraram as oportunidades de novos contratos em um OEM industrial), passando pela execução de ordens de serviço (diagnóstico remoto que reduziu horas de trabalho por tarefa em 15%).\r\n\r\nApesar do potencial, a McKinsey alerta que apenas cerca de 5% do EBIT das empresas pode ser atribuído ao uso de IA generativa. Os principais obstáculos são: falta de caminho claro do piloto para a escala, gestão insuficiente de dados, baixa adoção por parte das equipes de campo e dificuldades de integração com sistemas existentes.\r\n\r\nPara líderes industriais, o roteiro prático é: identificar os dois ou três momentos da jornada de serviço que mais impactam margem e experiência do cliente, definir quais decisões a IA deve automatizar versus apoiar, e garantir ownership claro para os resultados."
+  },
+  {
+    "title": "The future of AI and trade",
+    "url": "https://www.mckinsey.com/mgi/media-center/the-future-of-ai-and-trade",
+    "summary": "For all the constant buzz around AI, broad-based announcements about how AI has boosted profits are noticeably missing. The reason for this loud silence: it hasn’t happened—yet, write Olivia White and Tiago Devesa.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-06-02",
+    "pub_date": "2026-05-29"
+  },
+  {
+    "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
+    "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-05-31",
+    "pub_date": "2026-05-29",
+    "title_pt": "Como a 'Magnifica Humanitas' do Papa oferece um modelo para que indivíduos enfrentem o momento da IA",
+    "summary_pt": "O artigo da MIT Technology Review analisa a encíclica papal \"Magnifica Humanitas\" (Magnífica Humanidade), publicada pelo Papa Leão XIV em maio de 2026, como um chamado ético e político à ação diante do avanço da inteligência artificial. A afirmação central do documento — \"a tecnologia nunca é neutra\" — é apresentada como ponto de partida para uma reflexão sobre responsabilidade coletiva num momento em que a IA está transformando o mundo com velocidade comparável à Revolução Industrial.\r\n\r\nOs autores argumentam que, na ausência de regulação efetiva por parte de governos e organismos internacionais, investidores institucionais têm preenchido esse vácuo. Coalizões como o Interfaith Center on Corporate Responsibility, representando mais de US$ 400 bilhões em ativos, têm apresentado resoluções em assembleias de acionistas de empresas como Alphabet, Amazon, Nvidia, Meta e Microsoft, exigindo transparência e responsabilização no uso da IA.\r\n\r\nA encíclica é posicionada não como ruptura, mas como ratificação de uma agenda de governança que já está em movimento. Com OpenAI, Anthropic e xAI se preparando para abrir capital, os mesmos mecanismos de pressão acionária poderão ser aplicados a empresas que hoje são privadas e praticamente imunes a esse tipo de escrutínio."
   },
   {
     "title": "When AI meets desire: Innovating human-centered luxury experiences in the agentic age",
@@ -1358,24 +1366,6 @@
     "summary_pt": "O relatório da McKinsey analisa como o comércio agêntico — mediado por assistentes de IA como Gemini, ChatGPT e Perplexity — está transformando a jornada de compra no setor de luxo. A tese central é que a \"porta de entrada\" da experiência de luxo está migrando para upstream: antes mesmo de o cliente chegar à boutique ou ao site da marca, sua intenção de compra já está sendo interpretada e moldada por sistemas de IA de terceiros. Segundo a pesquisa, 85% dos consumidores de luxo já usam assistentes de IA multipropósito para decisões de compra.\r\n\r\nO desafio estratégico não é tecnológico, mas de autoridade interpretativa: quem define como a marca é percebida quando um agente de IA é o primeiro ponto de contato? Se uma ferramenta genérica for a primeira a interpretar o desejo de um cliente, o risco não é receber uma sugestão errada de produto, mas ter a própria identidade da marca distorcida. A McKinsey estima que agentes de IA poderão mediar entre US$ 3 trilhões e US$ 5 trilhões do comércio global de bens até 2030.\r\n\r\nO relatório propõe um modelo conceitual de quatro \"salas\": o Foyer (descoberta inicial), a Galeria (curadoria de produtos), o Salão (autorização supervisionada com humanos no centro) e o Ateliê (pós-venda e fidelização). Cada sala exige um nível diferente de delegação à IA.\r\n\r\nPara líderes do setor, as implicações são concretas: marcas de luxo precisam codificar seus códigos estéticos e de serviço em formatos legíveis por máquina, construir camadas de interpretação de marca próprias e encarar a confiança como ativo de diferenciação. Esperar para agir é, em si, uma escolha estratégica arriscada."
   },
   {
-    "title": "The future of AI and trade",
-    "url": "https://www.mckinsey.com/mgi/media-center/the-future-of-ai-and-trade",
-    "summary": "For all the constant buzz around AI, broad-based announcements about how AI has boosted profits are noticeably missing. The reason for this loud silence: it hasn’t happened—yet, write Olivia White and Tiago Devesa.",
-    "source_id": "mckinsey",
-    "first_seen": "2026-06-02",
-    "pub_date": "2026-05-29"
-  },
-  {
-    "title": "The Download: climate tech goes public and the AI Hype Index returns",
-    "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
-    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, which builds small modular nuclear reactors, followed&#8230;",
-    "source_id": "mit",
-    "first_seen": "2026-05-31",
-    "pub_date": "2026-05-28",
-    "title_pt": "O Download: empresas de tecnologia climática abrem capital e o Índice de Hype da IA retorna",
-    "summary_pt": "Esta edição do boletim diário The Download da MIT Technology Review traz dois temas centrais: a onda de IPOs de empresas de tecnologia climática e o retorno do Índice de Hype da IA. No front climático, Solv Energy, X-energy e Fervo Energy abriram capital com valuations bilionários em 2026, impulsionadas pela demanda crescente por energia limpa — em grande parte alimentada pelos data centers da era da IA.\r\n\r\nOutros destaques incluem: a ByteDance desenvolvendo CPUs customizadas diante da escassez de chips de IA; quatro gigantes da tecnologia (Amazon, Google, Meta e Microsoft) se unindo a uma iniciativa de energia limpa para data centers; e Jensen Huang, da Nvidia, ingressando no conselho da Universidade Tsinghua em Pequim. A newsletter oferece um panorama rico da interseção entre IA, energia e geopolítica."
-  },
-  {
     "title": "Rewiring software delivery for the agentic era",
     "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/rewiring-software-delivery-for-the-agentic-era",
     "summary": "The way agentic AI is being used in software development is a harbinger for broader changes in the delivery model.",
@@ -1384,16 +1374,6 @@
     "pub_date": "2026-05-28",
     "title_pt": "Reconfigurando a entrega de software para a era agêntica",
     "summary_pt": "Este artigo da McKinsey descreve como a IA agêntica está transformando radicalmente os modelos de entrega de software. O ponto de partida é um modelo de trabalho de 24 horas: durante o dia, equipes humanas revisam entregas e refinam guardrails; durante a noite, agentes de IA executam tarefas estruturadas em escala. Empresas pioneiras já relatam ganhos de três a cinco vezes na produtividade, com redução de 60% no tamanho das equipes.\r\n\r\nO artigo estrutura a transformação em quatro pilares: o sprint diário de 24 horas; a automação de handoffs entre requisitos, código e testes; a construção de uma infraestrutura de conhecimento em grafos semânticos como memória institucional; e a captura de valor por meio do redimensionamento de equipes.\r\n\r\nPara líderes de tecnologia, as implicações são profundas: as funções de engenharia migrarão de produção manual de código para supervisão, revisão arquitetural e modelagem de domínio. As organizações que começarem agora a reconstruir seu modelo operacional em torno da colaboração humano-agente redefinirão como o software cria valor."
-  },
-  {
-    "title": "Move first or fall behind: How AI is rewriting the rules of banking",
-    "url": "https://www.mckinsey.com/industries/financial-services/our-insights/move-first-or-fall-behind-how-ai-is-rewriting-the-rules-of-banking",
-    "summary": "AI is poised to reshape banking not just by cutting costs, but by redistributing profits, redefining customer relationships, and accelerating competition. How should banks respond?",
-    "source_id": "mckinsey",
-    "first_seen": "2026-05-31",
-    "pub_date": "2026-05-28",
-    "title_pt": "Mova-se primeiro ou fique para trás: como a IA está reescrevendo as regras do setor bancário",
-    "summary_pt": "Este episódio do podcast McKinsey traz o sócio sênior Ido Segev discutindo como a IA representa uma transformação estrutural — e não apenas incremental — para o setor bancário. A questão central para os bancos não é mais se devem adotar IA, mas com que velocidade e profundidade. O maior risco é a inércia: bancos que se moverem cedo capturarão vantagens de custo e rentabilidade que os atrasados não conseguirão recuperar facilmente.\r\n\r\nOs números são expressivos: Segev estima que a adoção plena de IA agêntica pode reduzir os custos bancários em 20 a 25%, o equivalente a US$ 250 a US$ 500 milhões por cada US$ 100 bilhões em ativos. Ao mesmo tempo, a competição deve comprimir os lucros da indústria em 9 a 10% ao longo do tempo.\r\n\r\nSegev identifica os principais obstáculos para escalar IA nos bancos: falta de foco nas iniciativas, silos entre áreas de negócio e TI, necessidade de requalificação dos funcionários, e a armadilha de confundir capacidade liberada com valor gerado. Para líderes do setor financeiro, as implicações são claras: os vencedores serão os bancos que adotarem IA de forma precisa — não necessariamente os maiores, mas os mais estratégicos."
   },
   {
     "title": "The surprising economics of B2B growth: The new survival thresholdâand what it takes to thrive",
@@ -1406,14 +1386,24 @@
     "summary_pt": "Baseado na Pesquisa Global B2B Pulse 2026 da McKinsey com quase 4.000 tomadores de decisão em 13 países, este artigo revela uma divisão crescente entre líderes e retardatários no mercado B2B. A conclusão central é que omnichannel e e-commerce, antes diferenciais competitivos, tornaram-se o mínimo necessário para sobreviver. Setenta e um por cento das empresas B2B já oferecem e-commerce, e cerca de um terço das receitas flui por canais digitais.\r\n\r\nO estudo identifica três motores que separam os líderes dos demais: hiperpersonalização real (um para um), escalonamento de IA generativa integrada aos fluxos comerciais e governança disciplinada de marketing baseado em contas (ABM). Sessenta por cento dos líderes reportam crescimento de receita de dois dígitos, contra apenas 21% dos retardatários.\r\n\r\nAs implicações práticas para empresas B2B são significativas: não basta investir em qualquer uma dessas capacidades isoladamente. A vantagem real vem da integração — dados unificados de clientes que alimentam modelos de IA, que por sua vez habilitam personalização em escala, gerida com accountability clara de vendas."
   },
   {
-    "title": "The AI Hype Index: AI gets booed in graduation season",
-    "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
-    "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can&#8230;",
+    "title": "Move first or fall behind: How AI is rewriting the rules of banking",
+    "url": "https://www.mckinsey.com/industries/financial-services/our-insights/move-first-or-fall-behind-how-ai-is-rewriting-the-rules-of-banking",
+    "summary": "AI is poised to reshape banking not just by cutting costs, but by redistributing profits, redefining customer relationships, and accelerating competition. How should banks respond?",
+    "source_id": "mckinsey",
+    "first_seen": "2026-05-31",
+    "pub_date": "2026-05-28",
+    "title_pt": "Mova-se primeiro ou fique para trás: como a IA está reescrevendo as regras do setor bancário",
+    "summary_pt": "Este episódio do podcast McKinsey traz o sócio sênior Ido Segev discutindo como a IA representa uma transformação estrutural — e não apenas incremental — para o setor bancário. A questão central para os bancos não é mais se devem adotar IA, mas com que velocidade e profundidade. O maior risco é a inércia: bancos que se moverem cedo capturarão vantagens de custo e rentabilidade que os atrasados não conseguirão recuperar facilmente.\r\n\r\nOs números são expressivos: Segev estima que a adoção plena de IA agêntica pode reduzir os custos bancários em 20 a 25%, o equivalente a US$ 250 a US$ 500 milhões por cada US$ 100 bilhões em ativos. Ao mesmo tempo, a competição deve comprimir os lucros da indústria em 9 a 10% ao longo do tempo.\r\n\r\nSegev identifica os principais obstáculos para escalar IA nos bancos: falta de foco nas iniciativas, silos entre áreas de negócio e TI, necessidade de requalificação dos funcionários, e a armadilha de confundir capacidade liberada com valor gerado. Para líderes do setor financeiro, as implicações são claras: os vencedores serão os bancos que adotarem IA de forma precisa — não necessariamente os maiores, mas os mais estratégicos."
+  },
+  {
+    "title": "The Download: climate tech goes public and the AI Hype Index returns",
+    "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, which builds small modular nuclear reactors, followed&#8230;",
     "source_id": "mit",
     "first_seen": "2026-05-31",
     "pub_date": "2026-05-28",
-    "title_pt": "O Índice de Hype da IA: a IA recebe vaias na temporada de formatura",
-    "summary_pt": "A coluna \"AI Hype Index\" da MIT Technology Review registra um momento incomum: em cerimônias de formatura em universidades americanas, discursos de executivos do setor de tecnologia sobre IA foram recebidos com vaias dos formandos. O ex-CEO do Google Eric Schmidt, ao dizer que a missão dos formandos era ajudar a moldar a IA, ouviu um coro de desaprovação — ao que reconheceu que os medos sobre desemprego e um futuro incerto são \"racionais\".\r\n\r\nO episódio captura uma tensão crescente na sociedade: ao mesmo tempo em que a IA continua avançando e atraindo investimentos recordes, a geração que está entrando no mercado de trabalho demonstra ceticismo explícito e até hostilidade em relação à tecnologia. Para líderes empresariais, isso representa um sinal de alerta importante sobre a necessidade de narrativas mais honestas e empáticas ao comunicar estratégias de adoção de IA."
+    "title_pt": "O Download: empresas de tecnologia climática abrem capital e o Índice de Hype da IA retorna",
+    "summary_pt": "Esta edição do boletim diário The Download da MIT Technology Review traz dois temas centrais: a onda de IPOs de empresas de tecnologia climática e o retorno do Índice de Hype da IA. No front climático, Solv Energy, X-energy e Fervo Energy abriram capital com valuations bilionários em 2026, impulsionadas pela demanda crescente por energia limpa — em grande parte alimentada pelos data centers da era da IA.\r\n\r\nOutros destaques incluem: a ByteDance desenvolvendo CPUs customizadas diante da escassez de chips de IA; quatro gigantes da tecnologia (Amazon, Google, Meta e Microsoft) se unindo a uma iniciativa de energia limpa para data centers; e Jensen Huang, da Nvidia, ingressando no conselho da Universidade Tsinghua em Pequim. A newsletter oferece um panorama rico da interseção entre IA, energia e geopolítica."
   },
   {
     "title": "Building the AI advantage: How ADEO is preparing for retailâs next wave",
@@ -1424,6 +1414,16 @@
     "pub_date": "2026-05-28",
     "title_pt": "Construindo a vantagem da IA: como a ADEO se prepara para a próxima onda do varejo",
     "summary_pt": "O relatório da McKinsey examina como a ADEO, grupo francês de varejo de home improvement que controla marcas como Leroy Merlin, está se preparando estrategicamente para a transformação impulsionada pela inteligência artificial no setor varejista. A ADEO apostou em criar uma infraestrutura de dados unificada que conecta suas diversas unidades de negócio ao redor do mundo, permitindo que algoritmos de IA personalizem a experiência de compra, otimizem estoques e melhorem a cadeia de abastecimento.\r\n\r\nA empresa investe em capacitação interna para que colaboradores em toda a organização possam usar ferramentas de IA no dia a dia, disseminando a cultura de dados como diferencial competitivo. O caso da ADEO ilustra que a transformação por IA no varejo não é apenas uma questão tecnológica, mas organizacional: exige governança de dados robusta, alinhamento entre áreas de negócio e TI, e liderança disposta a tolerar experimentos e falhas rápidas.\r\n\r\nA conclusão do artigo reforça que o varejo do futuro pertence a quem conseguir transformar volume massivo de dados em decisões inteligentes em tempo real. Mesmo grupos tradicionais e multigeográficos podem liderar essa onda se investirem de forma consistente em fundações de dados e em uma cultura organizacional orientada à IA."
+  },
+  {
+    "title": "The AI Hype Index: AI gets booed in graduation season",
+    "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+    "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can&#8230;",
+    "source_id": "mit",
+    "first_seen": "2026-05-31",
+    "pub_date": "2026-05-28",
+    "title_pt": "O Índice de Hype da IA: a IA recebe vaias na temporada de formatura",
+    "summary_pt": "A coluna \"AI Hype Index\" da MIT Technology Review registra um momento incomum: em cerimônias de formatura em universidades americanas, discursos de executivos do setor de tecnologia sobre IA foram recebidos com vaias dos formandos. O ex-CEO do Google Eric Schmidt, ao dizer que a missão dos formandos era ajudar a moldar a IA, ouviu um coro de desaprovação — ao que reconheceu que os medos sobre desemprego e um futuro incerto são \"racionais\".\r\n\r\nO episódio captura uma tensão crescente na sociedade: ao mesmo tempo em que a IA continua avançando e atraindo investimentos recordes, a geração que está entrando no mercado de trabalho demonstra ceticismo explícito e até hostilidade em relação à tecnologia. Para líderes empresariais, isso representa um sinal de alerta importante sobre a necessidade de narrativas mais honestas e empáticas ao comunicar estratégias de adoção de IA."
   },
   {
     "title": "The boardâs role in managing emerging AI risks",
@@ -1446,14 +1446,14 @@
     "summary_pt": "Esta edição do The Download da MIT Technology Review aborda como acompanhar o ritmo acelerado das novidades em IA e uma reportagem aprofundada sobre como novas tecnologias estão transformando o processo de fertilização in vitro (FIV). Pesquisadores estão usando IA para identificar espermatozoides e embriões com maior potencial, desenvolvendo sistemas robóticos para automatizar partes do processo e explorando técnicas de edição genética para prevenir doenças hereditárias.\r\n\r\nOs destaques adicionais incluem: a NASA revelando planos para três missões não tripuladas à Lua em 2026; a Huawei anunciando um avanço no design de chips que a posicionaria como líder em cinco anos; e o crescimento acelerado da demanda por especialistas em cibersegurança impulsionado pelo boom da IA. Para executivos de tecnologia e líderes da área de saúde, esta edição sinaliza a convergência acelerada entre IA e biomedicina."
   },
   {
-    "title": "Japanâs $100 billion opportunity in general-purpose robotics",
-    "url": "https://www.mckinsey.com/industries/industrials/our-insights/japans-100-billion-opportunity-in-general-purpose-robotics",
-    "summary": "Can Japan translate its hardware expertise into AI, data, and software to emerge as a leader as general-purpose robots scale?",
-    "source_id": "mckinsey",
+    "title": "Rethinking organizational design in the age of agentic AI",
+    "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+    "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite a lack of readiness across people, processes, and workflows.&#160; The sticky&#8230;",
+    "source_id": "mit",
     "first_seen": "2026-05-31",
     "pub_date": "2026-05-26",
-    "title_pt": "A oportunidade de US$ 100 bilhões do Japão em robótica de uso geral",
-    "summary_pt": "Este artigo da McKinsey examina como o Japão, historicamente líder em robótica industrial, corre o risco de perder protagonismo na próxima onda da robótica: máquinas de uso geral alimentadas por IA avançada. O mercado global de robótica de uso geral deve crescer de menos de US$ 1 bilhão em 2025 para US$ 370 bilhões em 2040. O Japão almeja capturar 30% desse mercado, mas enfrenta déficits sérios: perde para China e EUA em patentes de humanoides, em ecossistemas de startups e em velocidade de comercialização.\r\n\r\nO artigo detalha duas abordagens competitivas emergentes: a chinesa (hardware-first, foco em implantação massiva para coleta de dados) e a americana (AI-centric, prioridade em autonomia e software). Para os fabricantes japoneses, os autores recomendam aproveitar a tradição de coordenação precisa de componentes para criar plataformas de software unificadas e desenvolver modelos de negócio de Robotics as a Service (RaaS).\r\n\r\nA conclusão é inequívoca: a próxima fase da competição em robótica não será vencida apenas por hardware — dependerá de como as empresas combinam engenharia de precisão com IA, dados e implantação em larga escala."
+    "title_pt": "Repensando o design organizacional na era da IA agêntica",
+    "summary_pt": "Este artigo aborda a crescente lacuna entre ambição e execução na adoção corporativa de IA agêntica. Embora 85% das organizações declarem querer ser \"agênticas\" nos próximos três anos, 76% afirmam que sua infraestrutura e operações atuais não suportam essa mudança. O problema central é que as empresas estão adicionando agentes de IA como \"fita adesiva\" sobre modelos operacionais projetados para humanos, em vez de redesenhar a organização.\r\n\r\nO artigo apresenta o conceito de Agentic Business Transformation (ABT), estruturado em três pilares: a stack tecnológica (que deve ser reconfigurada para que agentes atuem como tecido conectivo); a força de trabalho (onde gestores precisarão gerenciar equipes híbridas humano-agente); e as métricas de sucesso (que devem migrar de outputs para outcomes).\r\n\r\nPara líderes empresariais, a conclusão prática é que implantar IA agêntica sem redesenhar o modelo operacional, a força de trabalho e as métricas de sucesso é uma receita para frustração e desaceleração do ROI. A transformação agêntica é uma mudança de sistema, não uma iniciativa pontual de tecnologia."
   },
   {
     "title": "The Download: puncturing the AI jobs panic",
@@ -1466,14 +1466,14 @@
     "summary_pt": "Esta edição do The Download da MIT Technology Review confronta a narrativa dominante sobre o impacto da IA no mercado de trabalho com o que os dados realmente mostram. A análise dos dados trabalhistas dos EUA revela que o desemprego nas ocupações mais expostas à IA está, na verdade, mais baixo do que em empregos menos expostos. Também não há sinais de migrações em massa de trabalhadores de profissões ameaçadas para empregos manuais.\r\n\r\nEm paralelo, um artigo de opinião alerta para um problema mais silencioso: a IA pode estar enfraquecendo o primeiro degrau da escada de carreira. Um estudo de Stanford encontrou queda acentuada no emprego de trabalhadores jovens em ocupações expostas à IA após a disseminação da IA generativa, sugerindo que a tecnologia está substituindo as tarefas juniores que antes davam aos jovens sua primeira experiência profissional.\r\n\r\nPara líderes empresariais, a mensagem prática é clara: ao invés de reagir a manchetes alarmistas, é necessário adotar uma análise granular de como a IA está afetando diferentes segmentos da força de trabalho."
   },
   {
-    "title": "Rethinking organizational design in the age of agentic AI",
-    "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-    "summary": "Amid rapidly growing adoption of enterprise-level AI agents, there’s a disconnect emerging between ambition and execution.&#160; Although 85% of organizations say they want to be agentic within the next three years, 76% say their current operations and infrastructure can’t support that change. They cite a lack of readiness across people, processes, and workflows.&#160; The sticky&#8230;",
-    "source_id": "mit",
+    "title": "Japanâs $100 billion opportunity in general-purpose robotics",
+    "url": "https://www.mckinsey.com/industries/industrials/our-insights/japans-100-billion-opportunity-in-general-purpose-robotics",
+    "summary": "Can Japan translate its hardware expertise into AI, data, and software to emerge as a leader as general-purpose robots scale?",
+    "source_id": "mckinsey",
     "first_seen": "2026-05-31",
     "pub_date": "2026-05-26",
-    "title_pt": "Repensando o design organizacional na era da IA agêntica",
-    "summary_pt": "Este artigo aborda a crescente lacuna entre ambição e execução na adoção corporativa de IA agêntica. Embora 85% das organizações declarem querer ser \"agênticas\" nos próximos três anos, 76% afirmam que sua infraestrutura e operações atuais não suportam essa mudança. O problema central é que as empresas estão adicionando agentes de IA como \"fita adesiva\" sobre modelos operacionais projetados para humanos, em vez de redesenhar a organização.\r\n\r\nO artigo apresenta o conceito de Agentic Business Transformation (ABT), estruturado em três pilares: a stack tecnológica (que deve ser reconfigurada para que agentes atuem como tecido conectivo); a força de trabalho (onde gestores precisarão gerenciar equipes híbridas humano-agente); e as métricas de sucesso (que devem migrar de outputs para outcomes).\r\n\r\nPara líderes empresariais, a conclusão prática é que implantar IA agêntica sem redesenhar o modelo operacional, a força de trabalho e as métricas de sucesso é uma receita para frustração e desaceleração do ROI. A transformação agêntica é uma mudança de sistema, não uma iniciativa pontual de tecnologia."
+    "title_pt": "A oportunidade de US$ 100 bilhões do Japão em robótica de uso geral",
+    "summary_pt": "Este artigo da McKinsey examina como o Japão, historicamente líder em robótica industrial, corre o risco de perder protagonismo na próxima onda da robótica: máquinas de uso geral alimentadas por IA avançada. O mercado global de robótica de uso geral deve crescer de menos de US$ 1 bilhão em 2025 para US$ 370 bilhões em 2040. O Japão almeja capturar 30% desse mercado, mas enfrenta déficits sérios: perde para China e EUA em patentes de humanoides, em ecossistemas de startups e em velocidade de comercialização.\r\n\r\nO artigo detalha duas abordagens competitivas emergentes: a chinesa (hardware-first, foco em implantação massiva para coleta de dados) e a americana (AI-centric, prioridade em autonomia e software). Para os fabricantes japoneses, os autores recomendam aproveitar a tradição de coordenação precisa de componentes para criar plataformas de software unificadas e desenvolver modelos de negócio de Robotics as a Service (RaaS).\r\n\r\nA conclusão é inequívoca: a próxima fase da competição em robótica não será vencida apenas por hardware — dependerá de como as empresas combinam engenharia de precisão com IA, dados e implantação em larga escala."
   },
   {
     "title": "The next era of healthcare is personal",
@@ -1576,16 +1576,6 @@
     "summary_pt": "O artigo utiliza a metáfora da linha de montagem de Ford para argumentar que a IA agêntica representa para o trabalho cognitivo o mesmo que a linha de montagem representou para o trabalho físico: uma reorganização fundamental que não é apenas tecnológica, mas cultural e organizacional. Assim como Ford reduziu o tempo de montagem de um Model T de 12 horas para 90 minutos, a IA agêntica pode comprimir ciclos de decisão de semanas para minutos.\r\n\r\nO problema central identificado é que a maioria das empresas trata a IA como projeto de tecnologia aplicado a domínios funcionais isolados — e colhe apenas retornos incrementais. Para escalar valor, CEOs devem agir como arquitetos-chefes da transformação: quebrar silos entre times de tecnologia e negócio, padronizar dados e ferramentas, e redefinir metas de talentos.\r\n\r\nA infraestrutura tecnológica central é a camada de orquestração agêntica — uma plataforma que gerencia o fluxo de tarefas entre agentes funcionais e agentes empresariais. Casos concretos: a Toshiba Tec expandiu a cobertura de personalização de catálogos de 8% para quase 100%; uma montadora reduziu custos de capital de giro em 20% e gerou US$ 200 milhões de lucro adicional no primeiro ano."
   },
   {
-    "title": "Agents, robots, and us: How AI reshapes work and skills in Europe",
-    "url": "https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-europe",
-    "summary": "Most skills will still be neededâbut how people use them will change as they work alongside intelligent machines.",
-    "source_id": "mckinsey",
-    "first_seen": "2026-05-31",
-    "pub_date": "2026-05-12",
-    "title_pt": "Agentes, robôs e nós: como a IA remodela o trabalho e as competências na Europa",
-    "summary_pt": "Este relatório do McKinsey Global Institute analisa dez economias europeias representando mais de três quartos da força de trabalho e do PIB da região. A conclusão central é que 58% das horas de trabalho atuais na Europa poderiam teoricamente ser automatizadas com tecnologias existentes — 44% por agentes de IA para tarefas cognitivas e 14% por robôs para trabalho físico.\r\n\r\nO valor econômico potencial é estimado entre US$ 1,1 trilhão (cenário gradual) e US$ 1,9 trilhão (cenário de adoção mais rápida) até 2030, com agentes de IA respondendo por 82% desse valor. A Alemanha lidera com US$ 486 bilhões de potencial, seguida pelo Reino Unido (US$ 375 bilhões) e França (US$ 238 bilhões).\r\n\r\nUm achado central e contra-intuitivo é que 75% das competências demandadas por empregadores europeus são usadas tanto em atividades automatizáveis quanto não automatizáveis — o que significa que a maioria das habilidades será aplicada em colaboração com IA, não simplesmente substituída. Para empresas e formuladores de políticas, redesenhar fluxos de trabalho (não apenas automatizar tarefas isoladas) é o que converte potencial técnico em valor econômico real."
-  },
-  {
     "title": "How agility and AI could rewire agriculture trading",
     "url": "https://www.mckinsey.com/industries/agriculture/our-insights/how-agility-and-ai-could-rewire-agriculture-trading",
     "summary": "Global forces and algorithmic price discovery are reshaping agriculture trading. Traders and processors with agile, analyticsâdriven organizations could define the next competitive frontier.",
@@ -1594,6 +1584,16 @@
     "pub_date": "2026-05-12",
     "title_pt": "Como agilidade e IA podem reconectar o trading agrícola",
     "summary_pt": "O artigo contextualiza uma virada estrutural nos mercados agrícolas: em 2025, o pool de lucros do trading de commodities agrícolas caiu 15% em relação ao ano anterior, pressionado por volatilidade climática crescente, políticas comerciais imprevisíveis, novas regulações de biocombustíveis e gargalos logísticos. O ambiente de 2026 é ainda mais complexo, com o fechamento do Estreito de Ormuz impactando fluxos globais de fertilizantes.\r\n\r\nTrês tendências estão redefinindo o setor: maior variabilidade de oferta (eventos climáticos extremos, disrupções geopolíticas); entrada de novos participantes sofisticados (hedge funds com estratégias quantamentais, majors de petróleo expandindo para biocombustíveis); e descoberta de preços mais rápida via algoritmos, que estão comprimindo o tempo disponível para os traders agirem sobre sinais fundamentais.\r\n\r\nPara traders e processadores, o artigo propõe quatro alavancas de transformação: otimização global da cadeia de valor, modelo operacional ágil com ciclos de planejamento mais curtos, melhoria de qualidade e transparência de dados, e portfólios de analytics ágeis. A IA agêntica em operações pós-negociação deve melhorar a produtividade em 30% a 60% nos próximos dois a quatro anos."
+  },
+  {
+    "title": "Agents, robots, and us: How AI reshapes work and skills in Europe",
+    "url": "https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-europe",
+    "summary": "Most skills will still be neededâbut how people use them will change as they work alongside intelligent machines.",
+    "source_id": "mckinsey",
+    "first_seen": "2026-05-31",
+    "pub_date": "2026-05-12",
+    "title_pt": "Agentes, robôs e nós: como a IA remodela o trabalho e as competências na Europa",
+    "summary_pt": "Este relatório do McKinsey Global Institute analisa dez economias europeias representando mais de três quartos da força de trabalho e do PIB da região. A conclusão central é que 58% das horas de trabalho atuais na Europa poderiam teoricamente ser automatizadas com tecnologias existentes — 44% por agentes de IA para tarefas cognitivas e 14% por robôs para trabalho físico.\r\n\r\nO valor econômico potencial é estimado entre US$ 1,1 trilhão (cenário gradual) e US$ 1,9 trilhão (cenário de adoção mais rápida) até 2030, com agentes de IA respondendo por 82% desse valor. A Alemanha lidera com US$ 486 bilhões de potencial, seguida pelo Reino Unido (US$ 375 bilhões) e França (US$ 238 bilhões).\r\n\r\nUm achado central e contra-intuitivo é que 75% das competências demandadas por empregadores europeus são usadas tanto em atividades automatizáveis quanto não automatizáveis — o que significa que a maioria das habilidades será aplicada em colaboração com IA, não simplesmente substituída. Para empresas e formuladores de políticas, redesenhar fluxos de trabalho (não apenas automatizar tarefas isoladas) é o que converte potencial técnico em valor econômico real."
   },
   {
     "title": "The McKinsey Crossword: Made with AI | No. 266",
